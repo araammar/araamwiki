@@ -1,0 +1,364 @@
+# Vault Index
+
+*Master index of everything in the Araamwiki knowledge base.*
+*Last updated: 2026-05-25*
+*Auto-maintained by Claude — update after every ingest.*
+
+---
+
+## Stats
+
+- **Total brands:** 8
+- **Total concepts:** 60
+- **Total strategies:** 42
+- **Total ideas:** 28
+- **Total reference pages:** 7
+- **Total products:** 1 product (4 pages)
+- **Total wiki pages:** 149
+- **Source transcripts ingested:** 44+
+- **Ingest operations:** 7 (bulk 40 videos + wiki expansion pass + Drive sync + Dan Martell AI + Orin John Open Residency + Taylor Holiday 2026 E-Commerce Masterclass + Peter Rahal David Protein)
+
+---
+
+## Brands
+
+*One page per brand: voice, audience, aesthetics, strategy, do's/don'ts.*
+
+| Brand | Key Themes | Page |
+|-------|-----------|------|
+| Apple | Art direction eras, Think Different, culture embedding, tech branding | [[Apple]] |
+| Bad Bunny | Personal brand, reggaeton counterposition, authenticity-without-crossover | [[BadBunny]] |
+| Balenciaga | Spectacle marketing, shock strategy, product-as-headline | [[Balenciaga]] |
+| Hailey Bieber / Rhode | Personal-to-consumer brand stack, Skylark visual DNA, art direction | [[HaileyBieberRhode]] |
+| Ralph Lauren | Aspirational America, sub-brand architecture, Olympics, lifestyle extension | [[RalphLauren]] |
+| Supreme | Drop culture, scarcity mechanics, collab architecture, streetwear | [[Supreme]] |
+| Virgil Abloh / Off-White | Iconographic systems, Free Game philosophy, cross-discipline, Nike The Ten | [[VirgilAblohOffWhite]] |
+| David | Science-driven protein bar (28g/150cal/0g sugar); Peter Rahal; $725M in 255 days; anti-marketing, product-surplus model | [[David]] |
+
+---
+
+## Concepts
+
+*Marketing, psychology, cultural, and creative concepts that appear across content.*
+
+### Branding & Identity
+
+| Concept | Summary | Page |
+|---------|---------|------|
+| Art Direction as Brand Strategy | How visual identity and creative direction become the primary brand-building tool | [[art-direction-as-brand-strategy]] |
+| Brand Archetypes | The full framework — all 12 archetypes and how to use them on social media | [[brand-archetypes]] |
+| Enshittification | The product quality decline cycle — why everything sucks now and how to counter it | [[enshittification]] |
+| Japanese Branding Philosophy | What Japan does differently: Muji anti-brand, Beams curation, North Face Purple Label | [[japanese-branding-philosophy]] |
+| Quiet Luxury | The four pillars of quiet luxury art direction and brand philosophy | [[quiet-luxury]] |
+| Spectacle Marketing | Balenciaga's three-tier attention model and product-as-headline mechanics | [[spectacle-marketing]] |
+| Streetwear Brand Strategy | People curation, scarcity, collab-as-market-testing, drop culture | [[streetwear-brand-strategy]] |
+| The Rebrand Playbook | Five-step rebrand framework with Bad Bunny, Burberry, Tyler the Creator case studies | [[the-rebrand-playbook]] |
+
+### Consumer Psychology & Behavior
+
+| Concept | Summary | Page |
+|---------|---------|------|
+| Boy Internet vs Girl Internet | How algorithms create different digital realities and what it means for targeting | [[boy-internet-vs-girl-internet]] |
+| Dark Psychology of Creatives | Six patterns: taste paradox, group think, self-sabotage, inaction, theft, distraction | [[dark-psychology-of-creatives]] |
+| How to Develop Taste | The process and practices for building aesthetic taste — frameworks and progression arc | [[how-to-develop-taste]] |
+| Pricing Psychology | Anchoring, price-as-quality-signal, charm vs. rounded pricing, product tier architecture | [[pricing-psychology]] |
+| Psychology of Luxury | Two root motivations, four psychological drivers, the abundance fantasy | [[psychology-of-luxury]] |
+| Sports Creative Direction | How sports brands use creative direction and what other brands can steal | [[sports-creative-direction]] |
+| The Downfall of Old Luxury | Three disruption forces, the new premium playbook, positioning opportunity | [[the-downfall-of-old-luxury]] |
+| The Taste Economy | What taste is, why it became currency, how brands and creators leverage it | [[the-taste-economy]] |
+
+### Aesthetics & Visual Culture
+
+| Concept | Summary | Page |
+|---------|---------|------|
+| Camera Aesthetics for Creatives | Camcorder strategy, film vs. digital, Fuji color science, gear discipline | [[camera-aesthetics-for-creatives]] |
+| K-Pop Aesthetic Playbook | PAF concept-per-release model, Tamburins design, reference library methodology | [[k-pop-aesthetic-playbook]] |
+| Taste as a Learnable Skill | Five-phase development path, critique matrix (composition/effectivity/vibes), design periods to study | [[taste-as-a-learnable-skill]] |
+| Visual Craft Philosophy | What each camera format communicates, lens choices as aesthetic signature, full toolkit map | [[visual-craft-philosophy]] |
+
+### Marketing & Platform
+
+| Concept | Summary | Page |
+|---------|---------|------|
+| AI in Marketing | Displacement reality, four levels of AI engagement, what AI can/can't do | [[ai-in-marketing]] |
+| Content Positioning Pyramid | Position > content — credibility stack, one-sentence position statement, niche specificity | [[content-positioning-pyramid]] |
+| Content Virality Mechanics | The six ways brands go viral — a full mechanical breakdown | [[content-virality-mechanics]] |
+| Creator Economy in 2026 | The income map, algorithm fragmentation, platform splits, monetization thresholds | [[creator-economy-in-2026]] |
+| Internet Splintering | How social platforms are fragmenting in 2026 and the new rules of reach | [[internet-splintering]] |
+| LinkedIn Post DNA | 100-post analysis: 13 hook types, 7 closing moves, 3 engagement engines, 5 creator registers | [[linkedin-post-dna]] |
+| Relevancy Decay Problem | 4-6 month expertise decay rate and how to counteract it with intentional re-immersion | [[relevancy-decay-problem]] |
+| The Future of Marketing | What's changing in marketing and why — the macro shifts no one is talking about | [[the-future-of-marketing]] |
+| Value vs Entertainment Framework | Two-path framework: bookmarkable expert content vs personality-driven entertainment | [[value-vs-entertainment-content-framework]] |
+| Worst Marketing Patterns | Anti-patterns and failures from real 2025 examples — what to never do | [[worst-marketing-patterns]] |
+
+### Creator Systems & Platform Intelligence
+
+| Concept | Summary | Page |
+|---------|---------|------|
+| Creative Toolkit Bookmark System | Notion database turning saved references into queryable strategy library — Sunday processing + tried/untried column | [[creative-toolkit-bookmark-system]] |
+| Messages, Concepts, Hooks Framework | Three-pillar content system: messages (what), concepts (how), hooks (why someone stops); modular and testable | [[messages-concepts-hooks-framework]] |
+| Owned, Enabled, Paid Media Ecosystem | Three-tier media model: brand accounts + creator affiliates + ads; enabled tier most underused; organic feeds paid | [[owned-enabled-paid-media-ecosystem]] |
+| Creator-First Brand Strategy | Making creators the primary content production engine; why all popping brands have creator-first infrastructure | [[creator-first-brand-strategy]] |
+| TikTok Shop Affiliate Model | Commission-based creator commerce; $500M+ Black Friday 2025; economics by tier; once-in-a-lifetime window | [[tiktok-shop-affiliate-model]] |
+
+### Product & Launch Strategy
+
+| Concept | Summary | Page |
+|---------|---------|------|
+| Consumer Surplus Framework | Gap between willingness-to-pay and actual price — when large enough, drives organic advocacy; RXBAR ($600M) and David ($725M) built on this | [[consumer-surplus-framework]] |
+| Product-First Brand Building | Product > marketing philosophy; three pillars (Product/People/Distribution); RXBAR vs. David strategic opposition; "obvious but true" brand philosophy; paleo trap | [[product-first-brand-building]] |
+
+### DTC & E-Commerce
+
+| Concept | Summary | Page |
+|---------|---------|------|
+| Prophit System | Financial forecasting infrastructure: 4 data models, 3 forecast scenarios (Board/Budget/Bonus), Creative Demand Score; "forecast belongs in marketing, not finance" | [[prophit-system]] |
+| Four Quarter Accounting | P&L diagnostic: 4 × 25% buckets (CAC/COD/OPEX/Profit); identifies which quarter is degrading profitability; first-order profitability standard | [[four-quarter-accounting]] |
+| Hierarchy of Metrics (DTC) | 4-tier KPI pyramid: Contribution Margin → Business (MER/AOV) → New Customers (CAC) → Platform (ROAS/CPM); platform metrics are information, not decisions | [[hierarchy-of-metrics-dtc]] |
+| Flow Era and Constraint | 2026 DTC philosophy: constraint as competitive advantage; anti-fragile business benchmarks; why 9-figure playbooks break 7-figure brands | [[flow-era-and-constraint]] |
+| Product Architecture Framework | SKU categorization: Champions/Growth Drivers/Underperformers/Hidden Gems; product expansion errors; brand = LTV; 30/100 benchmark | [[product-architecture-framework]] |
+| Shrinking Sponge Problem | Active customer file decay: 5 customer segments; MER trap disguising decline; 4-step recovery framework; integrated finance-marketing requirement | [[shrinking-sponge-problem]] |
+
+### B2B & Outbound
+
+| Concept | Summary | Page |
+|---------|---------|------|
+| B2B Outbound Audience 2026 | Deep ICP research for B2B outbound freelancers/agencies — pain points, emotional drivers, exact language, 2026 benchmarks | [[b2b-outbound-audience-2026]] |
+
+### AI & Founders
+
+| Concept | Summary | Page |
+|---------|---------|------|
+| AI Operating System for Founders | Rebuilding business operations with AI as the foundational layer — 17 companies, 1-person finance team, 225M impressions | [[ai-operating-system-for-founders]] |
+| Three Levels of AI | 4-tier maturity model: Personal → Team → Compounding → Scalable; 95% stuck at Level 1 | [[three-levels-of-ai]] |
+| AI Mistakes Founders Make | 15 named mistakes with structural fixes; three meta-patterns: role confusion, sequence failure, architecture failure | [[ai-mistakes-founders-make]] |
+
+### Creative Psychology & Identity
+
+| Concept | Summary | Page |
+|---------|---------|------|
+| Communication as a Life Skill | Four questions of communicating well, the idea-workshopping loop, why content-making sharpens all communication | [[communication-as-a-life-skill]] |
+| Creative Self-Sabotage | Six named patterns (Ceiling Collapse, Justified Distraction, Inaction Loop, Stolen Idea Trap, Taste Masquerade, Organic Discovery Trap) and the comfort-level-ceiling mechanism | [[creative-self-sabotage]] |
+| Group Think in Creative Industries | Three-phase enforcement mechanism, four named patterns, the AI-in-creative-work case study, how to stay outside the herd | [[group-think-in-creative-industries]] |
+| Identity and Creative Work | Identity as a predictive model, five-step deliberate change mechanism, five named patterns (Identity Ceiling, Frozen Self, Comfort-Group Anchor, etc.) | [[identity-and-creative-work]] |
+| The Taste Paradox | Why taste develops faster than skill, four named traps (Quality Excuse, Organic Recognition Fantasy, Gatekeeping Trap, Comparison Spiral) | [[the-taste-paradox]] |
+
+### Business & Creative Economics
+
+| Concept | Summary | Page |
+|---------|---------|------|
+| Lessons from 1000 Hours of Content | Ten meta-lessons from 1,067 videos: volume as teacher, personality as the only moat, the commodification timeline, the three-level creator framework | [[lessons-from-1000-hours-of-content]] |
+| Offer Architecture | The "I do X for Y at Z" formula, the three differentiators, offer stacking, two-tier pricing, VSL layer, offer/content alignment | [[offer-architecture]] |
+| Value and Pricing Philosophy | Why creatives undercharge — agency extraction model, "selling out" cultural conditioning, salary anchor problem, how TikTok Shop made creative ROI visible | [[value-and-pricing-philosophy]] |
+
+### Cultural Analysis
+
+| Concept | Summary | Page |
+|---------|---------|------|
+| Creative Collective Dynamics | How collectives form, amplify, and fail — Been Trill, Supreme's people machine, K-pop collectives, Japanese brand ecosystems | [[creative-collective-dynamics]] |
+| Japan as a Creative Philosophy | Imitation-to-surpassing dynamic, Muji philosophy as confidence, curation as original practice, craft-as-identity | [[japan-as-a-creative-philosophy]] |
+| Legacy and Creative Impact | Virgil's Free Game philosophy, documentation as legacy infrastructure, iconography as the residue that persists, ripple effects over accumulation | [[legacy-and-creative-impact]] |
+| Subculture to Mainstream Pipeline | Five-stage model: founding community → gatekeeper networks → crossover moment → institutional absorption → echo/successor phase | [[subculture-to-mainstream-pipeline]] |
+| The Reading Mind for Creatives | Full learning philosophy + 25+ named books by category with author, what each teaches, and application context | [[the-reading-mind-for-creatives]] |
+
+---
+
+## Strategies
+
+*Frameworks, playbooks, and step-by-step guides.*
+
+### Brand Building
+
+| Strategy | Summary | Page |
+|----------|---------|------|
+| 7 Levels of Brand Building | The full framework — each level, what it takes to reach it, real brand examples | [[7-levels-of-brand-building]] |
+| Aesthetic-Led Brand Strategy | Seven steps: concept → object design → reference library → algorithm testing → coherence | [[aesthetic-led-brand-strategy]] |
+| Creative Director Approach to Brand Building | Eight-step framework from world definition to iconographic system to Free Game | [[creative-director-approach-to-brand-building]] |
+| Luxury Brand Positioning Strategy | Seven-step framework: tier diagnosis → scarcity → discounting rules → collab strategy | [[luxury-brand-positioning-strategy]] |
+| New Luxury / Premium Brand Strategy | Three positioning poles, product tier architecture, new aesthetic codes | [[new-luxury-premium-brand-strategy]] |
+| Personal Rebrand Playbook | How to transform and rebrand yourself as a creative — triggers and process | [[personal-rebrand-playbook]] |
+
+### Marketing & Campaigns
+
+| Strategy | Summary | Page |
+|----------|---------|------|
+| 2026 Content Playbook | How to get ahead of 99% of brands — the content strategy for 2026 | [[2026-content-playbook]] |
+| Brand Social Media from Scratch | Step-by-step guide for brands starting social media with zero audience | [[brand-social-media-from-scratch]] |
+| Colandify Pre-Launch Content Strategy | Media-company model pre-launch: 3-phase plan, ICP targeting, channel strategy, weekly KPIs | [[colandify-prelaunch-content-strategy]] |
+| Content Operations Playbook | How to build and structure a marketing team in 2026 | [[content-operations-playbook]] |
+| LinkedIn Content Strategy 2026 | Depth Score algorithm, engagement hierarchy, what died, what's winning, 70/30 posting rule | [[linkedin-content-strategy-2026]] |
+| Marketing Campaign Masterclass | Full art of the campaign — strategy, creative, execution, measurement | [[marketing-campaign-masterclass]] |
+| Marketing Plan Framework 2026 | The complete 2026 marketing plan structure, step by step | [[marketing-plan-framework-2026]] |
+| Viral Content Playbook | The six virality mechanics with activation tactics for each | [[viral-content-playbook]] |
+
+### Creator Economy
+
+| Strategy | Summary | Page |
+|----------|---------|------|
+| AI Workflows for Marketers | Full practical AI workflow guide for marketing teams and solo creators | [[ai-workflows-for-marketers]] |
+| Creative Offers Playbook | How creatives should structure and price their services — what to avoid | [[creative-offers-playbook]] |
+| Making Money as a Creative 2026 | Models, paths, and frameworks for creative monetization in 2026 | [[making-money-as-a-creative-2026]] |
+| On-Camera Presence | The full guide to speaking naturally and compellingly on video | [[on-camera-presence]] |
+| Personal Branding Full Playbook | Four levels, five archetypes, content toolkit, monetization progression | [[personal-branding-full-playbook]] |
+| Short-Form Video That Makes Money | Lessons from 1067 videos — what drives revenue vs. just views | [[short-form-video-that-makes-money]] |
+| Systems for Creatives | The 11 systems for getting life together as a creative in 2026 | [[systems-for-creatives]] |
+
+### AI Systems & Automation
+
+| Strategy | Summary | Page |
+|----------|---------|------|
+| Master Prompt Architecture | 4-tier system (Personal→Team→Projects→Custom GPTs), 7 keywords framework, reverse prompt technique, system prompt creation loop | [[master-prompt-architecture]] |
+| AI Tool Stack for Founders | When to use ChatGPT/Claude/Gemini/Perplexity; 8-tool ranked stack; tool-to-use-case matching | [[ai-tool-stack-for-founders]] |
+| Zero Inbox System | 3 years without reading email; AI sorting, draft generation, autonomous responses, meeting prep layers | [[zero-inbox-system]] |
+
+### Creator & Content Operations
+
+| Strategy | Summary | Page |
+|----------|---------|------|
+| Viral Organic Content Formats | 10 stable formats: yapping, rankings, credible explainers, unpopular opinions, provocative scenarios, transformation, and more | [[viral-organic-content-formats]] |
+| Affiliate Creator Program Strategy | Build → scale → feed paid: sourcing, communities, rights purchasing, organic-to-paid pipeline, scale benchmarks | [[affiliate-creator-program-strategy]] |
+| Creative Strategist System | Notion content database, weekly hook-saving ritual, monthly brand checklist, 5 human emotion frames, persona segmentation | [[creative-strategist-system]] |
+
+### DTC & E-Commerce
+
+| Strategy | Summary | Page |
+|----------|---------|------|
+| Creative Demand Planning | Ad production as supply chain: Creative Demand Score (5 inputs), 150–400+ ads/month, iteration beats breakthrough, organic-to-paid pipeline | [[creative-demand-planning]] |
+| DTC Allocator of Capital | Integrated DTC operating framework: marketer → capital allocator identity shift, decision tree, contribution margin as north star, survival vs. growth mode | [[dtc-allocator-of-capital]] |
+
+### Product & Launch
+
+| Strategy | Summary | Page |
+|----------|---------|------|
+| Grassroots Distribution Strategy | 3-phase model: community penetration → regional expansion → mainstream retail; CrossFit gym model; why sequence is non-negotiable; modern TikTok adaptation | [[grassroots-distribution-strategy]] |
+| Product Launch Seeding Model | 20K-unit giveaway + list building + influencer seeding + minimal owned content + UGC amplification; only works with genuine consumer surplus | [[product-launch-seeding-model]] |
+
+### Creative Systems & Productivity
+
+| Strategy | Summary | Page |
+|----------|---------|------|
+| Executive Schedule for Creators | 30-min time-blocking system: production, research, distribution, and leverage blocks; protecting research time | [[executive-schedule-for-creators]] |
+| Identity Change Framework | Six-stage process: the 5 year-types, archetype-building, daily planning as identity, the pause technique, 52-week requirement, social friction management | [[identity-change-framework]] |
+| Intentional Scroll Platform Intelligence | 3-layer system: niche account architecture, time-blocked sessions, Sunday Notion processing; algorithm shaping via scroll speed | [[intentional-scroll-platform-intelligence]] |
+| Life Systems for Creatives | All 11 systems documented with implementation detail: reference repo, ideas list, phone content folders, weekly update, team tracker, process docs, calendar ritual, and more | [[life-systems-for-creatives]] |
+| On-Camera Confidence Framework | Seven-phase framework: zero-friction setup, Yap Map, five content structures, the Recut Method, eye-contact rule, energy-to-message matching | [[on-camera-confidence-framework]] |
+
+### Business & Monetization
+
+| Strategy | Summary | Page |
+|----------|---------|------|
+| Creative Business Models 2026 | Full economic map: all 7 monetization models (platform revenue, affiliate, brand deals, creator-for-brands, services, programs, creative strategy), economics and ceilings of each | [[creative-business-models-2026]] |
+| Offer Design for Creatives | Eight-step operational framework: deliverable → competitive position → offer page → VSL → two-tier pricing → funnel → public pricing | [[offer-design-for-creatives]] |
+
+### Visual Development
+
+| Strategy | Summary | Page |
+|----------|---------|------|
+| Developing a Visual Point of View | Six-phase process: reference library → forming opinions → format/tool choices → public testing → thrift-store exercise → compounding over time | [[developing-a-visual-point-of-view]] |
+
+### Culture & Collaboration
+
+| Strategy | Summary | Page |
+|----------|---------|------|
+| Building Creative Collectives | Six-phase operational playbook: finding the room → qualifying on obsession → gravitational centers → first breakout → formalizing sharing norms → tending the network at scale | [[building-creative-collectives]] |
+| Cross-Cultural Creative Borrowing | Five-step framework for deep borrowing vs. surface lifting — sourcing beyond the feed, studying logic not just visual, PAF left/center/right spectrum methodology | [[cross-cultural-creative-borrowing]] |
+| Intellectual Development for Creatives | Five-level structured approach: sustainable reading practice → diverse category diet → applying reading to active problems → physical reference library → contrarian reading | [[intellectual-development-for-creatives]] |
+
+---
+
+## Ideas
+
+*Reel angles and content concepts, scored and tagged.*
+
+### Brand & Strategy Ideas
+
+| Idea | Hook Type | Score | Page |
+|------|-----------|-------|------|
+| Two Internets, One Brand | Insight / Reframe | 9 | [[two-internets-one-brand]] |
+| The Quantified Man Sell | Controversy / Ethics | 8 | [[the-quantified-man-sell]] |
+| Why Your Price Is Killing Your Brand | Counter-intuitive | 9 | [[why-your-price-is-killing-your-brand]] |
+| The Halo Product Secret | Insight / Tutorial | 8 | [[the-halo-product-secret]] |
+| What Stage Is Your Brand Really At | Diagnostic / Quiz | 10 | [[what-stage-is-your-brand-really-at]] |
+| Steal the K-Pop Reference Method | Tutorial / System | 8 | [[steal-the-k-pop-reference-method]] |
+| Idea: Oracle Archetype Expert Rankings | Archetype / Authority | — | [[idea-oracle-archetype-expert-rankings]] |
+| Idea: World Builder Fictional Brand Series | Story / Series | — | [[idea-world-builder-fictional-brand-series]] |
+| Idea: Clipping Ecosystem for Brands | Tutorial / System | — | [[idea-clipping-ecosystem-for-brands]] |
+| Idea: Spectacle PR Kit Unboxing | Spectacle / Hook | — | [[idea-spectacle-pr-kit-unboxing]] |
+| Idea: Monoculture Moment Campaign | Campaign Concept | — | [[idea-monoculture-moment-campaign]] |
+| Idea: Catalog Your Expertise Ranking Video | Authority / List | — | [[idea-catalog-your-expertise-ranking-video]] |
+| Idea: Adversarial Review Pre-Launch | Controversy / Risk | — | [[idea-adversarial-review-pre-launch]] |
+| Idea: Indie Brand Founder Vlog | Story / Series | — | [[idea-indie-brand-founder-vlog]] |
+
+### Creator & Content Ideas
+
+| Idea | Hook Type | Score | Page |
+|------|-----------|-------|------|
+| Already Extinct | False Belief Reframe | 9 | [[idea-already-extinct]] |
+| The Bookmark Graveyard | Problem Reframe | 8 | [[idea-bookmark-graveyard-system]] |
+| Do You Still Want to Make These at 32? | Single Open Question | 8 | [[idea-do-you-still-want-to-make-these-videos-at-32]] |
+| The Knee Doctor Problem | Platform Insider | 9 | [[idea-the-knee-doctor-problem]] |
+| Reel: Competitor Analysis TikTok | Tutorial / Research | — | [[reel-idea-competitor-analysis-tiktok]] |
+| Reel: Brand Second Brain Reveal | System / Workflow | — | [[reel-idea-brand-second-brain-reveal]] |
+| Reel: Content Pillar Breakdown | Data / Reveal | — | [[reel-idea-content-pillar-breakdown]] |
+| Reel: Offer Structure Breakdown | Case Study | — | [[reel-idea-offer-structure-breakdown]] |
+| Reel: Year Type Decision | Framework / Self | — | [[reel-idea-year-type-decision]] |
+| Reel: Identity Change Process | Transformation | — | [[reel-idea-identity-change-process]] |
+| Reel: Content Format Versus | Versus / Series | — | [[reel-idea-content-format-versus]] |
+| Reel: Niche History Deep Dive | Authority / History | — | [[reel-idea-niche-history-deep-dive]] |
+| Reel: System Reveal | System / CTA | — | [[reel-idea-system-reveal]] |
+
+### B2B & Product Ideas
+
+| Idea | Hook Type | Score | Page |
+|------|-----------|-------|------|
+| Colandify Content Angles | Multiple | 9 | [[colandify-content-angles]] |
+
+---
+
+## Campaigns
+
+*No campaigns ingested yet — will be populated when campaign content is added.*
+
+---
+
+## Reference
+
+| Page | Summary |
+|------|---------|
+| [[recommended-books]] | 25+ books organized by category: Branding, Marketing/Design, Context, Mindset, Fashion, Business, Fiction |
+| [[reel-idea-tool]] | Idea generator + scorer: 8 criteria (100pt system), 4 modes (full/angles/score/brief), uses claude-opus-4-5 |
+| [[reel-script-tool]] | Script generator: voice DNA from 12 scripts, 10 hook types, 4 energy modes, CTA taxonomy |
+| [[reel-storyboard-tool]] | Storyboard generator: 12 layout types, playwright overlay comparison, caption emphasis rules |
+| [[linkedin-post-tool]] | LinkedIn post generator: 13 hook types, 7 closing moves, 3 engagement engines, 5 creator registers |
+| [[transcript-ingest-tool]] | Two-pass transcript processor: analysis then page generation; modes (full/quick/concepts); Drive folder IDs |
+| [[apex-platform]] | Dan Martell's autonomous AI agent platform: email, scheduling, content, research, software; private servers; Slack/email/WhatsApp |
+
+---
+
+## Products
+
+*Product wikis — overview, strategy, messaging, and launch plans per product.*
+
+### Caret Model
+
+Evidence-first lead generation platform for marketing agencies. Finds local businesses wasting ad spend on broken funnels, audits the conversion failure, delivers a documented problem + outreach hook.
+
+| Page | Summary |
+|------|---------|
+| [[caret-model-product-overview]] | Product overview: pipeline, pricing, ICP, verticals, moat, current build status |
+| [[caret-model-competitive-research]] | Competitive landscape: competitor messaging map, agency pain language, verbatim phrases, ad teardown |
+| [[caret-model-messaging-angles]] | Six messaging angles with enemy/buyer state/headlines/CTA/tone/channel for each; priority ranking |
+| [[caret-model-30day-launch-plan]] | 30-day GTM plan: 4 phases, 5 channels, $1,500 budget, content calendar, decision gate |
+
+---
+
+## Quick Search Guide
+
+- **Looking for a brand?** → Browse the Brands table above
+- **Looking for a framework or how-to?** → Browse Strategies
+- **Looking for psychology, theory, or cultural analysis?** → Browse Concepts
+- **Looking for reel ideas?** → Browse Ideas
+- **Looking for a product wiki?** → Browse Products (Caret Model)
+- **Looking for tool documentation?** → Browse Reference
+- **Looking for book recommendations?** → See Reference → recommended-books
+- **Ask Claude:** "Show me everything about [topic]" or "Find ideas related to [concept]"
