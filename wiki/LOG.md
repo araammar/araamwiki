@@ -4,6 +4,43 @@
 
 ---
 
+## 2026-05-28 — Dom Iacovone Open Residency (TUdTU1pwoZ4)
+
+- **Operation:** DEEP INGEST — Open Residency podcast episode
+- **Guest:** Dom Iacovone — serial operator running 7 companies (RAW Nutrition, 3D Energy, Revive MD, Relive Health, Bum Energy, etc.)
+- **Pages created:** 22 | **Pages updated:** 1
+
+**Pages Created:**
+- `wiki/concepts/strategic-growth-model.md` — 4-initiative annual planning; SGM kickoff; weekly operating cadence
+- `wiki/concepts/cm1-cm2-cm3-contribution-margin-stack.md` — CPG P&L structure; weekly tracking discipline; SGNA 4% benchmark
+- `wiki/concepts/gross-to-net-waterfall.md` — Pre-P&L trade spend leakage; 10% blended rate on $100M = $10M lost
+- `wiki/concepts/founder-to-operator-evolution.md` — PE acquisition changes; planning horizon; talent access; "backpack full of tools"
+- `wiki/concepts/company-exit-preparation-framework.md` — Full M&A prep playbook; QoE; earnout structure; right partner over highest bid
+- `wiki/concepts/ceo-delegation-framework.md` — Multi-company operating philosophy; 80/20 mistake rule; hire hunger under $100M / skill above
+- `wiki/concepts/equity-influencer-partnership-model.md` — Equity to anchor influencers; RAW/Bumstead model; gravity effect on secondary rates
+- `wiki/concepts/tiktok-to-amazon-to-retail-distribution-model.md` — 2026 CPG launch sequence; 40% Amazon spillover; why TikTok-only isn't PE-defensible
+- `wiki/concepts/dsd-vs-direct-to-retail.md` — DSD mechanics; 2–6x placement advantage; Instacart problem
+- `wiki/concepts/retail-sequencing-strategy.md` — Specialty→FDM→mass→club sequence; hurdle rates; sell-through > sell-in
+- `wiki/concepts/price-pack-architecture.md` — Anti-cannibalization across retail channels; channel-specific SKUs; Walmart SKU mistake
+- `wiki/concepts/athlete-influencer-education-specialist.md` — Internal role coaching influencer content; 3-month decay problem
+- `wiki/concepts/stagegate-innovation-framework.md` — Weekly go/no-go product gate; kills bad products before development spend
+- `wiki/concepts/shelf-visibility-design.md` — Packaging for retail shelf; blocker bar; top-40% rule; Bum Energy 400-render redesign
+- `wiki/concepts/trade-spend-as-new-customer-acquisition.md` — Trade spend reframed as CAC; BOGO > % off; post-promo baseline tracking
+- `wiki/concepts/cpg-brand-house-model.md` — Multiple brands under one holding company; distribution + influencer flywheels
+- `wiki/concepts/lean-business-bootstrapping.md` — No-debt model; RAW to $200M with zero debt; warehouse heat mapping win
+- `wiki/concepts/proactive-vs-reactive-leadership.md` — Core hiring filter; healthy C-suite debate; finance-sees-everything-first
+- `wiki/concepts/scent-emotion-marketing.md` — Fragrance psychology; neurological scent-memory; experiential naming; signature scent strategy
+- `wiki/concepts/franchise-business-model-cpg.md` — Relive Health franchise; 30x EBITDA multiple; Revive/Relive lifecycle flywheel
+- `wiki/concepts/celebrity-brand-accessibility-strategy.md` — Luxury quality at accessible price; Jason Tatum/Onside; Target exclusivity
+- `wiki/concepts/low-price-market-disruption.md` — Targeting ignored value tier; 3D Energy; blue-collar distribution; "can't cash cool"
+
+**Pages Updated:**
+- `wiki/concepts/tiktok-shop-affiliate-model.md` — CPG operator validation: Dom's 80% ad spend on TikTok, 40% Amazon spillover, PE skepticism
+
+**Index Updated:** 248 → 270 pages; concepts 137 → 159; operations 41 → 42
+
+---
+
 ## 2026-05-28 — Orin John Open Residency (uI5Qo58FqiE)
 
 - **Operation:** DEEP INGEST — Open Residency podcast episode

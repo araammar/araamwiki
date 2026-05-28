@@ -9,14 +9,14 @@
 ## Stats
 
 - **Total brands:** 15
-- **Total concepts:** 137
+- **Total concepts:** 159
 - **Total strategies:** 53
 - **Total ideas:** 28
 - **Total reference pages:** 10
 - **Total products:** 1 product (4 pages)
-- **Total wiki pages:** 248
-- **Source transcripts ingested:** 47+
-- **Ingest operations:** 41 (bulk 40 videos + wiki expansion pass + Drive sync + Dan Martell AI + Orin John Open Residency + Taylor Holiday 2026 E-Commerce Masterclass + Peter Rahal David Protein + Callaway Short-Form Masterclass + Orin John LinkedIn Cursed Opportunity + Pricing Psychology deep re-ingest + Boy Internet deep re-ingest + Brand Archetypes deep re-ingest + Enshittification deep re-ingest + Taste Economy deep re-ingest + Creative Offers deep re-ingest + Art of Yapping deep re-ingest + Hailey Bieber/Rhode deep re-ingest + Japan Branding deep re-ingest + Content Operations deep re-ingest + Internet Splintering deep re-ingest + Apple/Tech Branding deep re-ingest + Marketing Plan 2026 deep re-ingest + 1067 Short-Form deep re-ingest + Psychology of Luxury deep re-ingest + Batch 7 re-ingest)
+- **Total wiki pages:** 270
+- **Source transcripts ingested:** 48+
+- **Ingest operations:** 42 (bulk 40 videos + wiki expansion pass + Drive sync + Dan Martell AI + Orin John Open Residency + Taylor Holiday 2026 E-Commerce Masterclass + Peter Rahal David Protein + Callaway Short-Form Masterclass + Orin John LinkedIn Cursed Opportunity + Pricing Psychology deep re-ingest + Boy Internet deep re-ingest + Brand Archetypes deep re-ingest + Enshittification deep re-ingest + Taste Economy deep re-ingest + Creative Offers deep re-ingest + Art of Yapping deep re-ingest + Hailey Bieber/Rhode deep re-ingest + Japan Branding deep re-ingest + Content Operations deep re-ingest + Internet Splintering deep re-ingest + Apple/Tech Branding deep re-ingest + Marketing Plan 2026 deep re-ingest + 1067 Short-Form deep re-ingest + Psychology of Luxury deep re-ingest + Batch 7 re-ingest)
 
 ---
 
@@ -81,6 +81,8 @@
 | Brand Scale Ceiling | Structural revenue limit (~$500M–$1B) for subculture/identity brands; why VF Corp's Supreme thesis failed; "quiet revenue" operating mode; exit timing | [[brand-scale-ceiling]] |
 | Logo Hierarchy Participation Architecture | Deliberate three-tier logo system (box logo → sub-logos → no-logo basics) managing scarcity and access simultaneously; Supreme model; B2B and services extension | [[logo-hierarchy-participation-architecture]] |
 | Position Against Strategy | Three positioning types: against one competitor (Grüns vs. AG1), unassailable metric (David), name-as-strategy (Satoshi Nakamoto); price game trap | [[position-against-strategy]] |
+| Celebrity Brand Accessibility Strategy | Luxury quality at accessible price point; Jason Tatum / Onside model; fan-can't-afford-Tom-Ford gap; Target exclusivity for full end caps | [[celebrity-brand-accessibility-strategy]] |
+| Low Price Market Disruption | Targeting the ignored value tier nobody premium brands want; 3D Energy / Venom-NOS tier; blue-collar distribution; "can't cash cool" | [[low-price-market-disruption]] |
 
 ### Consumer Psychology & Behavior
 
@@ -101,6 +103,7 @@
 | Little Luxury Economy | "Little treat" to "little luxury" consumer spending shift; Jolie shower head, Tinker toolkit; structural mechanism; DTC positioning opportunity | [[little-luxury-economy]] |
 | Target Consumption Habits | When/where/how audience consumes: YouTube TV lunchtime mode, casual B2B executive browsing, gender/age thumbnail differences, lunchtime content formula | [[target-consumption-habits]] |
 | The Taste Economy | What taste is, why it became currency, how brands and creators leverage it; flavor analogy; named brand examples; Laird Hamilton documentary model | [[the-taste-economy]] |
+| Scent Emotion Marketing | Fragrance brand psychology; neurological scent-memory connection; experiential naming (Santal Leather); cologne commercial formula; signature scent strategy | [[scent-emotion-marketing]] |
 
 ### Aesthetics & Visual Culture
 
@@ -173,6 +176,8 @@
 | Influencer Seeding Economics | Free product seeding as marketing infrastructure; EMV logic; four returns; gift card model; PR pack post-rate engineering; K-Beauty benchmarks; $2 upgrade principle | [[influencer-seeding-economics]] |
 | Emerging Influencer Alpha | Pre-priced creator window; identifying characteristics; niche rate ceilings; long-term relationship compounding; Kalo Data tool; $10K budget allocation | [[emerging-influencer-alpha]] |
 | Creative Strategist Role | Most in-demand marketing role; three competency pillars (creative direction/platform intelligence/operational execution); relationship capital moat; influencer rolodex as career capital | [[creative-strategist-role]] |
+| Equity Influencer Partnership Model | Giving equity to anchor influencers instead of cash retainers; RAW/Bumstead 2021 model; gravity effect on secondary influencer rates; vesting lessons | [[equity-influencer-partnership-model]] |
+| Athlete Influencer Education Specialist | Internal role coaching influencers on authentic content creation; audience growth; 3-month decay problem; short vs. long contract strategy | [[athlete-influencer-education-specialist]] |
 | Off-Algorithm Research | Print magazines and travel sourcing vs. algorithm convergence; Orin's collection (B Magazine, Chrome Hearts, Popeye); Casa bookstore model; AI-era differentiation logic | [[off-algorithm-research]] |
 
 ### Short-Form & YouTube Strategy
@@ -201,6 +206,15 @@
 
 | Concept | Summary | Page |
 |---------|---------|------|
+| CM1/CM2/CM3 Contribution Margin Stack | CPG P&L structure (Net Revenue → CM1 → CM2 → CM3); weekly tracking discipline; SGNA 4% benchmark | [[cm1-cm2-cm3-contribution-margin-stack]] |
+| Gross-to-Net Waterfall | Pre-P&L trade spend leakage (rebates, deductions, discounts); why it's invisible; 10% blended rate on $100M = $10M lost; how to recover it | [[gross-to-net-waterfall]] |
+| TikTok-to-Amazon-to-Retail Distribution Model | 2026 CPG launch sequence: TikTok at break-even → 40% Amazon spillover → specialty → FDM → club; why TikTok-only isn't PE-defensible | [[tiktok-to-amazon-to-retail-distribution-model]] |
+| DSD vs Direct-to-Retail | Direct Store Distribution vs. direct-to-retail; shelf stocking mechanics; 2–6x placement advantage; the Instacart problem; how to win DSD relationships | [[dsd-vs-direct-to-retail]] |
+| Retail Sequencing Strategy | Specialty → FDM → national mass → club sequence; hurdle rates; sell-through > sell-in; "don't let buyers dictate your SKUs" | [[retail-sequencing-strategy]] |
+| Price-Pack Architecture | Anti-cannibalization strategy across retail channels; serving size differentiation; channel-specific SKUs; dedicated CPG role; the Walmart SKU mistake | [[price-pack-architecture]] |
+| Trade Spend as New Customer Acquisition | Reframe trade spend as CAC; BOGO > % off; peaks-and-valleys model; post-promo baseline tracking; the discount brand trap | [[trade-spend-as-new-customer-acquisition]] |
+| Shelf Visibility Design | Packaging for retail shelf environment; blocker bar constraint; top-40% rule; Bum Energy 400-render redesign; flavor color-coding; 2-second legibility | [[shelf-visibility-design]] |
+| Stagegate Innovation Framework | Weekly go/no-go product gate: Can we innovate? Is it margin-creative? Is the TAM big enough? Kills bad products before development spend | [[stagegate-innovation-framework]] |
 | Prophit System | Financial forecasting infrastructure: 4 data models, 3 forecast scenarios (Board/Budget/Bonus), Creative Demand Score; "forecast belongs in marketing, not finance" | [[prophit-system]] |
 | Four Quarter Accounting | P&L diagnostic: 4 × 25% buckets (CAC/COD/OPEX/Profit); identifies which quarter is degrading profitability; first-order profitability standard | [[four-quarter-accounting]] |
 | Hierarchy of Metrics (DTC) | 4-tier KPI pyramid: Contribution Margin → Business (MER/AOV) → New Customers (CAC) → Platform (ROAS/CPM); platform metrics are information, not decisions | [[hierarchy-of-metrics-dtc]] |
@@ -240,6 +254,14 @@
 | Concept | Summary | Page |
 |---------|---------|------|
 | Lessons from 1000 Hours of Content | Ten meta-lessons from 1,067 videos: volume as teacher, personality as the only moat, the commodification timeline, the three-level creator framework | [[lessons-from-1000-hours-of-content]] |
+| Strategic Growth Model | Dom's 4-initiative annual planning framework; SGM kickoff; top-down/bottom-up construction; weekly operating cadence; multi-company application | [[strategic-growth-model]] |
+| Founder to Operator Evolution | What changes when PE acquires you: planning horizon, financial discipline, talent access; "backpack full of tools" model | [[founder-to-operator-evolution]] |
+| Company Exit Preparation Framework | Full M&A prep playbook: clean financials, audited 2-year statements, QoE, team independence, earnout structure, choosing right partner over highest bid | [[company-exit-preparation-framework]] |
+| CEO Delegation Framework | Dom's multi-company operating philosophy: define mission, let teams lead, 80/20 mistake rule, hire for hunger under $100M / skill above | [[ceo-delegation-framework]] |
+| CPG Brand House Model | Multiple brands under one holding company: distribution flywheel, athlete/influencer flywheel, team isolation, anti-cannibalization mandate | [[cpg-brand-house-model]] |
+| Lean Business Bootstrapping | No-debt, distributions-not-salary model; 20% EBITDA reinvestment threshold; warehouse heat mapping as $7-figure logistics win; RAW to $200M with zero debt | [[lean-business-bootstrapping]] |
+| Proactive vs Reactive Leadership | Core hiring filter for multi-company leadership; healthy C-suite debate culture; finance-sees-everything-first cadence | [[proactive-vs-reactive-leadership]] |
+| Franchise Business Model (CPG) | Relive Health franchise arc: 600 sq ft to 40+ locations; Orange Theory founder validation; 30x EBITDA franchise multiple; Revive/Relive consumer lifecycle flywheel | [[franchise-business-model-cpg]] |
 | Offer Architecture | The "I do X for Y at Z" formula, the three differentiators, offer stacking, two-tier pricing, VSL layer, offer/content alignment | [[offer-architecture]] |
 | Value and Pricing Philosophy | Why creatives undercharge — agency extraction model, "selling out" cultural conditioning, salary anchor problem, how TikTok Shop made creative ROI visible | [[value-and-pricing-philosophy]] |
 

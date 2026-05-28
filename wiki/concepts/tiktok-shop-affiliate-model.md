@@ -129,6 +129,19 @@ See also: [[usp-to-tiktok-shop-pipeline]] — the full strategic framework for h
 
 ---
 
+## CPG Operator Validation (Dom Iacovone / RAW Nutrition, 2026)
+
+Dom Iacovone runs 80% of RAW Nutrition's ad spend through TikTok in 2026 — a shift he describes as complete from the previous Meta/Facebook-dominant era. After 1 month on TikTok, Bum Energy's TikTok revenue was nearly double their entire athlete roster revenue.
+
+Key data points from his operation:
+- **~40% spillover:** TikTok awareness drives ~40% of its volume to Amazon (tracked via attribution tools)
+- **Run TikTok at break even** — let the spillover into Amazon/DTC/retail carry the margin
+- **PE buyers still skeptical** of TikTok-only revenue. His advice: convert TikTok velocity into retail and Amazon presence as fast as possible. TikTok is a launch weapon; retail and Amazon are defensible.
+
+See also: [[tiktok-to-amazon-to-retail-distribution-model]]
+
+---
+
 ## Related Pages
 
 - [[usp-to-tiktok-shop-pipeline]] — the brand-side strategic model: USP → affiliates → GMV Max
@@ -136,3 +149,4 @@ See also: [[usp-to-tiktok-shop-pipeline]] — the full strategic framework for h
 - [[affiliate-creator-program-strategy]] — the full operational playbook
 - [[owned-enabled-paid-media-ecosystem]] — where TikTok Shop fits in the media mix
 - [[short-form-video-that-makes-money]] — the video strategy layer
+- [[tiktok-to-amazon-to-retail-distribution-model]] — full CPG distribution model with TikTok as entry point
