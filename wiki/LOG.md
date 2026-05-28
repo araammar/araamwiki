@@ -4,6 +4,30 @@
 
 ---
 
+## 2026-05-28 — Danny Yeung Open Residency (xE_algbPrwQ)
+
+- **Operation:** DEEP INGEST — Open Residency podcast episode
+- **Guest:** Danny Yeung — founder of I Am Ath; $0→$100M ARR in 11 months; Meta-first paid scale operator
+- **Pages created:** 8 | **Pages updated:** 2
+
+**Pages Created:**
+- `wiki/brands/IAmAth.md` — I Am Ath brand page; supplement; $0→$100M in 11 months; Sabalenka partnership
+- `wiki/concepts/meta-first-paid-scale.md` — 85/15 Meta/Google split; 1,500-ad creative volume flywheel; CAC/LTV as spend unlock
+- `wiki/concepts/static-vs-video-ad-mix.md` — 75% statics / 25% video inversion; why statics win now; video as future moat
+- `wiki/concepts/subscription-aov-architecture.md` — 3-month prepaid tier; habitualization; non-discount value stacking; $280 AOV
+- `wiki/concepts/celebrity-partnership-architecture.md` — Five-pillar A-list celebrity framework; equity as primary currency; 3-year minimum
+- `wiki/concepts/ai-video-transparency-moment.md` — Sabalenka 200M-view AI video; transparency as earned media trigger; $25K production
+- `wiki/concepts/dtc-retail-rejection-strategy.md` — Refusing retail to compound D2C leverage; global D2C first; Amazon 2% exception
+- `wiki/strategies/founder-led-speed-operating-model.md` — Founder deep-in-weeds mandate; decision compression; ambitious wolf hiring filter
+
+**Pages Updated:**
+- `wiki/concepts/hierarchy-of-metrics-dtc.md` — Added DTC Payback Period Benchmarks table (under 4 months = world-class)
+- `wiki/concepts/equity-influencer-partnership-model.md` — Added A-list celebrity extension section with I Am Ath data
+
+**Index Updated:** 270 → 278 pages; brands 15 → 16; concepts 159 → 165; strategies 53 → 54; operations 42 → 43
+
+---
+
 ## 2026-05-28 — Dom Iacovone Open Residency (TUdTU1pwoZ4)
 
 - **Operation:** DEEP INGEST — Open Residency podcast episode

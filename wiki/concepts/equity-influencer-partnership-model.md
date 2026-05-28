@@ -57,7 +57,20 @@ If an influencer has consistently driven value for a brand over years, asking fo
 - **Design the anchor for exit from day one.** Build the brand so it's bigger than any one person.
 - **Protect yourself with vesting** — especially in early-stage deals where you have less leverage.
 
+## Real-World Extension: A-List Celebrity Architecture (I Am Ath)
+
+Danny Yeung's model at I Am Ath extends the equity-influencer framework to world-class celebrities (Beckham, Sabalenka, Giannis) with additional structural elements:
+
+- **Minimum 3-year commitment** — short-term deals misalign both parties; 3 years forces genuine brand co-building
+- **Product-authenticity filter** — every partner was an active daily user *before* any deal conversation
+- **Reputational risk framing** — when closing A-list talent, explicitly acknowledge that their name absorbs all downside risk, then demonstrate why the product backstop makes it safe (clinical trials, NSF cert, advisory board)
+- **Operational integration** — weekly calls with celebrity team, partner has final say on relevant product decisions (Beckham approves taste profiles)
+- **Access as subscriber value** — the celebrity relationship becomes retention infrastructure (expert masterclasses, golden ticket experiences for 3-month subscribers)
+
+See [[celebrity-partnership-architecture]] for full framework.
+
 ## Related Pages
+- [[celebrity-partnership-architecture]]
 - [[tiktok-to-amazon-to-retail-distribution-model]]
 - [[athlete-influencer-education-specialist]]
 - [[influencer-seeding-economics]]

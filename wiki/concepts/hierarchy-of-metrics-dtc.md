@@ -110,9 +110,29 @@ Build a single dashboard with all four tiers visible simultaneously. The goal is
 
 ---
 
+---
+
+## DTC Payback Period Benchmarks
+
+The payback period (time to recoup CAC from subscription or repeat revenue) is the signal that determines how aggressively you can spend. Danny Yeung's (I Am Ath) benchmarks based on running a subscription DTC brand to $100M+ ARR:
+
+| Payback Period | Grade | Implication |
+|---|---|---|
+| Under 4 months | World-class | You can likely push spend harder — you're leaving scale on the table |
+| 4–6 months | Excellent | Strong position; explore cautious spend increases |
+| 6–12 months | Good / C-minus | Viable but margin of error is thin |
+| 12+ months | Danger zone | Every inefficiency in CAC compounds before you recoup |
+
+**Key insight:** If you're at under-4-month payback, you're "almost too efficient" — you could absorb a higher CAC (longer payback) and still be highly profitable, meaning you're under-spending relative to your unit economics ceiling.
+
+Source: Danny Yeung, I Am Ath ($0 → $100M ARR in 11 months), [[xE_algbPrwQ-danny-yeung-open-residency]]
+
+---
+
 ## Related Pages
 
 - [[four-quarter-accounting]] — the P&L structure this hierarchy maps to
 - [[prophit-system]] — the forecasting system built on this metric hierarchy
 - [[shrinking-sponge-problem]] — what happens when Tier 3 metrics are ignored
 - [[dtc-allocator-of-capital]] — how to make decisions using this hierarchy
+- [[meta-first-paid-scale]] — how payback period unlocks aggressive Meta spend

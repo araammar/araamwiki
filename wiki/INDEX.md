@@ -8,15 +8,15 @@
 
 ## Stats
 
-- **Total brands:** 15
-- **Total concepts:** 159
-- **Total strategies:** 53
+- **Total brands:** 16
+- **Total concepts:** 165
+- **Total strategies:** 54
 - **Total ideas:** 28
 - **Total reference pages:** 10
 - **Total products:** 1 product (4 pages)
-- **Total wiki pages:** 270
-- **Source transcripts ingested:** 48+
-- **Ingest operations:** 42 (bulk 40 videos + wiki expansion pass + Drive sync + Dan Martell AI + Orin John Open Residency + Taylor Holiday 2026 E-Commerce Masterclass + Peter Rahal David Protein + Callaway Short-Form Masterclass + Orin John LinkedIn Cursed Opportunity + Pricing Psychology deep re-ingest + Boy Internet deep re-ingest + Brand Archetypes deep re-ingest + Enshittification deep re-ingest + Taste Economy deep re-ingest + Creative Offers deep re-ingest + Art of Yapping deep re-ingest + Hailey Bieber/Rhode deep re-ingest + Japan Branding deep re-ingest + Content Operations deep re-ingest + Internet Splintering deep re-ingest + Apple/Tech Branding deep re-ingest + Marketing Plan 2026 deep re-ingest + 1067 Short-Form deep re-ingest + Psychology of Luxury deep re-ingest + Batch 7 re-ingest)
+- **Total wiki pages:** 278
+- **Source transcripts ingested:** 49+
+- **Ingest operations:** 43 (bulk 40 videos + wiki expansion pass + Drive sync + Dan Martell AI + Orin John Open Residency + Taylor Holiday 2026 E-Commerce Masterclass + Peter Rahal David Protein + Callaway Short-Form Masterclass + Orin John LinkedIn Cursed Opportunity + Pricing Psychology deep re-ingest + Boy Internet deep re-ingest + Brand Archetypes deep re-ingest + Enshittification deep re-ingest + Taste Economy deep re-ingest + Creative Offers deep re-ingest + Art of Yapping deep re-ingest + Hailey Bieber/Rhode deep re-ingest + Japan Branding deep re-ingest + Content Operations deep re-ingest + Internet Splintering deep re-ingest + Apple/Tech Branding deep re-ingest + Marketing Plan 2026 deep re-ingest + 1067 Short-Form deep re-ingest + Psychology of Luxury deep re-ingest + Batch 7 re-ingest)
 
 ---
 
@@ -41,6 +41,7 @@
 | Brunello Cucinelli | Humanistic capitalism philosophy, Solomeo as production story, formal-to-casual lifestyle range, combined process + setting strategy | [[BrunelloCucinelli]] |
 | Bottega Veneta | Intrecciato weave as logo-replacement signature, artful world traveler setting strategy, Daniel Lee social media deletion era, logo-free luxury tier | [[BottegaVeneta]] |
 | House of Errors | Streetwear brand that set a new benchmark for content quality at launch; content-era brand model; elevated production from day one | [[HouseOfErrors]] |
+| I Am Ath | Danny Yeung's supplement brand; $0→$100M ARR in 11 months; Meta-first paid scale; 1,500-ad creative volume; A-list celebrity partnerships (Sabalenka) | [[IAmAth]] |
 
 ---
 
@@ -215,6 +216,12 @@
 | Trade Spend as New Customer Acquisition | Reframe trade spend as CAC; BOGO > % off; peaks-and-valleys model; post-promo baseline tracking; the discount brand trap | [[trade-spend-as-new-customer-acquisition]] |
 | Shelf Visibility Design | Packaging for retail shelf environment; blocker bar constraint; top-40% rule; Bum Energy 400-render redesign; flavor color-coding; 2-second legibility | [[shelf-visibility-design]] |
 | Stagegate Innovation Framework | Weekly go/no-go product gate: Can we innovate? Is it margin-creative? Is the TAM big enough? Kills bad products before development spend | [[stagegate-innovation-framework]] |
+| DTC Retail Rejection Strategy | Deliberately refusing retail offers to compound D2C leverage; focus preservation; global D2C first; Amazon 2% exception; when to finally enter retail | [[dtc-retail-rejection-strategy]] |
+| Subscription AOV Architecture | 3-month prepaid subscription tier design; habitualization mechanic; non-discount value stacking; AOV lift to $280 globally | [[subscription-aov-architecture]] |
+| Meta-First Paid Scale | 85/15 Meta/Google split; 1,500-ad creative volume flywheel; CAC/LTV as spend unlock signal; channel diversification queue | [[meta-first-paid-scale]] |
+| Static vs Video Ad Mix | 75% statics / 25% video inversion insight; why statics win on direct response now; AI commoditization thesis; video as future differentiation moat | [[static-vs-video-ad-mix]] |
+| Celebrity Partnership Architecture | Five-pillar framework for A-list celebrity partners: product-first authenticity filter, founder-led closing, 3-year minimum, equity as primary currency | [[celebrity-partnership-architecture]] |
+| AI Video Transparency Moment | Sabalenka 200M-view AI video case; explicit AI labeling as viral hook; $25K production cost; transparency as earned media trigger | [[ai-video-transparency-moment]] |
 | Prophit System | Financial forecasting infrastructure: 4 data models, 3 forecast scenarios (Board/Budget/Bonus), Creative Demand Score; "forecast belongs in marketing, not finance" | [[prophit-system]] |
 | Four Quarter Accounting | P&L diagnostic: 4 × 25% buckets (CAC/COD/OPEX/Profit); identifies which quarter is degrading profitability; first-order profitability standard | [[four-quarter-accounting]] |
 | Hierarchy of Metrics (DTC) | 4-tier KPI pyramid: Contribution Margin → Business (MER/AOV) → New Customers (CAC) → Platform (ROAS/CPM); platform metrics are information, not decisions | [[hierarchy-of-metrics-dtc]] |
@@ -311,6 +318,7 @@
 | Marketing Plan Framework 2026 | The complete 2026 marketing plan structure, step by step | [[marketing-plan-framework-2026]] |
 | Viral Content Playbook | The six virality mechanics with activation tactics for each | [[viral-content-playbook]] |
 | Content Lift Impact Matrix | Lift/impact rubric for content decisions; four-pillar topic management; format vs. topic portfolio split; 20-post allocation model; Iconic 45-day tranche revenue data | [[content-lift-impact-matrix]] |
+| Founder-Led Speed Operating Model | Founder deep-in-weeds mandate; decision compression; 24/7 accessibility; ambitious wolf hiring filter; social proof ladder for early days | [[founder-led-speed-operating-model]] |
 
 ### Creator Economy
 
