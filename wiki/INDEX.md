@@ -9,14 +9,14 @@
 ## Stats
 
 - **Total brands:** 18
-- **Total concepts:** 195
-- **Total strategies:** 57
+- **Total concepts:** 207
+- **Total strategies:** 58
 - **Total ideas:** 28
 - **Total reference pages:** 10
 - **Total products:** 1 product (4 pages)
-- **Total wiki pages:** 313
-- **Source transcripts ingested:** 52+
-- **Ingest operations:** 46 (bulk 40 videos + wiki expansion pass + Drive sync + Dan Martell AI + Orin John Open Residency + Taylor Holiday 2026 E-Commerce Masterclass + Peter Rahal David Protein + Callaway Short-Form Masterclass + Orin John LinkedIn Cursed Opportunity + Pricing Psychology deep re-ingest + Boy Internet deep re-ingest + Brand Archetypes deep re-ingest + Enshittification deep re-ingest + Taste Economy deep re-ingest + Creative Offers deep re-ingest + Art of Yapping deep re-ingest + Hailey Bieber/Rhode deep re-ingest + Japan Branding deep re-ingest + Content Operations deep re-ingest + Internet Splintering deep re-ingest + Apple/Tech Branding deep re-ingest + Marketing Plan 2026 deep re-ingest + 1067 Short-Form deep re-ingest + Psychology of Luxury deep re-ingest + Batch 7 re-ingest)
+- **Total wiki pages:** 326
+- **Source transcripts ingested:** 53+
+- **Ingest operations:** 47 (bulk 40 videos + wiki expansion pass + Drive sync + Dan Martell AI + Orin John Open Residency + Taylor Holiday 2026 E-Commerce Masterclass + Peter Rahal David Protein + Callaway Short-Form Masterclass + Orin John LinkedIn Cursed Opportunity + Pricing Psychology deep re-ingest + Boy Internet deep re-ingest + Brand Archetypes deep re-ingest + Enshittification deep re-ingest + Taste Economy deep re-ingest + Creative Offers deep re-ingest + Art of Yapping deep re-ingest + Hailey Bieber/Rhode deep re-ingest + Japan Branding deep re-ingest + Content Operations deep re-ingest + Internet Splintering deep re-ingest + Apple/Tech Branding deep re-ingest + Marketing Plan 2026 deep re-ingest + 1067 Short-Form deep re-ingest + Psychology of Luxury deep re-ingest + Batch 7 re-ingest)
 
 ---
 
@@ -277,6 +277,18 @@
 | Concept | Summary | Page |
 |---------|---------|------|
 | Communication as a Life Skill | Four questions of communicating well, the idea-workshopping loop, why content-making sharpens all communication | [[communication-as-a-life-skill]] |
+| Futureproof Skill Stack | Meta-framework for durable career leverage: learn to learn/think/earn → marketing, sales, writing, speaking; copywriting as fastest on-ramp | [[futureproof-skill-stack]] |
+| Generalist vs Specialist Mindset | Goal-first generalist vs. skill-fit specialist; the status symbol trap; why self-generated goals matter for adaptability | [[generalist-vs-specialist-mindset]] |
+| Anti-Vision and Three-Phase Leveling | Anti-vision practice (visualize the life you don't want) + three-phase model: Dissonance → Uncertainty → Discovery | [[anti-vision-and-three-phase-leveling]] |
+| Consumption with Intent | Goal-anchored learning; brain as dopamine-reward pattern-recognition machine; active goal filters all consumption | [[consumption-with-intent]] |
+| Making Interests Interesting | Creative puzzle of persuading people your niche matters; reverse-engineering your interest path; creating customers not finding them | [[making-interests-interesting]] |
+| Productivity vs Creativity Mode | Narrow focus vs. open focus; Darwin 3-4 hour model; emergence in downtime; idea-capture cascade principle | [[productivity-vs-creativity-mode]] |
+| Vertical vs Horizontal Development | Breadth accumulation within a level (horizontal) vs. consciousness-level shifts (vertical); knowledge → skill → experience sequence | [[vertical-vs-horizontal-development]] |
+| Human 3 Framework | Dan Koe's synthesis: ego development + Spiral Dynamics + Ken Wilber AQAL → four-quadrant (Mind/Body/Spirit/Vocation) developmental map | [[human-3-framework]] |
+| High Agency Development | Agency as ability to act without permission; ideological sampling path; pattern extraction; dogma-lock failure mode; George Mack test | [[high-agency-development]] |
+| Cohort Business Model | Quarterly cohort as preferred solo creator monetization; community pricing ladder ($7→$27 tiered raises with grandfather rate); community overhead trap | [[cohort-business-model]] |
+| Unique Process as AI Moat | Manually-developed process as asset that makes AI useful; prompt as employee; SOP-first prompting; expert extraction method | [[unique-process-as-ai-moat]] |
+| Dopamine Detox and Beginner's Mind | Dopamine recalibration through low-stimulation periods; recovering novelty; boredom as creative resource | [[dopamine-detox-and-beginners-mind]] |
 | Competitive Drive as Creative Engine | Using competitive instinct as antidote to inaction; Michael Jordan manufactured-scenario model; Parkinson's Law overloading as commitment device | [[competitive-drive-as-creative-engine]] |
 | Creative Self-Sabotage | Six named patterns (Ceiling Collapse, Justified Distraction, Inaction Loop, Stolen Idea Trap, Taste Masquerade, Organic Discovery Trap) and the comfort-level-ceiling mechanism | [[creative-self-sabotage]] |
 | Group Think in Creative Industries | Three-phase enforcement mechanism, four named patterns, the AI-in-creative-work case study, how to stay outside the herd | [[group-think-in-creative-industries]] |
@@ -392,6 +404,7 @@
 | Zero-to-$1M YouTube Blueprint | High-ticket offer + precise YouTube content = profit; skill-first mandate; comment cyclone strategy; super shares weighting; escape velocity; lead magnet taxonomy; Attention Factory vision | [[zero-to-1m-youtube-blueprint]] |
 | YouTube Niche Audit | Pre-launch spreadsheet research system: search niche, filter by view tiers, screenshot thumbnails, find visual language, identify familiar+different intersection | [[youtube-niche-audit]] |
 | Creator Sponsorship System | Full sponsorship system: deck structure, flat-rate pricing, "what does success mean to you?" question, package-not-one-offs rule, brand association vs. direct response framing | [[creator-sponsorship-system]] |
+| Writing Apprenticeship Method | Five-phase system: aspiration museum (10 writers) → dissect 5 posts → write without looking → AI mega-guide → repeat; copywriting as master entry point | [[writing-apprenticeship-method]] |
 
 ### DTC & E-Commerce
 

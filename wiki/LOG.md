@@ -4,6 +4,35 @@
 
 ---
 
+## 2026-05-28 — Dan Koe Open Residency (EVDQ1MijHbk)
+
+- **Operation:** DEEP INGEST — Open Residency podcast episode
+- **Guest:** Dan Koe — writer, creator, philosopher; one-person business model expert
+- **Pages created:** 13 | **Pages updated:** 2
+
+**Pages Created:**
+- `wiki/concepts/futureproof-skill-stack.md` — Learn/think/earn meta-framework; marketing/sales/writing/speaking as core four
+- `wiki/concepts/generalist-vs-specialist-mindset.md` — Goal-first generalist vs. skill-fit specialist; status symbol trap
+- `wiki/concepts/anti-vision-and-three-phase-leveling.md` — Anti-vision practice + Dissonance→Uncertainty→Discovery model
+- `wiki/concepts/consumption-with-intent.md` — Goal-anchored learning; active goal filters all consumption
+- `wiki/concepts/making-interests-interesting.md` — Creative puzzle of persuading people your niche matters; creating customers
+- `wiki/concepts/productivity-vs-creativity-mode.md` — Narrow vs. open focus; Darwin model; emergence in downtime
+- `wiki/concepts/vertical-vs-horizontal-development.md` — Breadth accumulation vs. consciousness-level shifts
+- `wiki/concepts/human-3-framework.md` — Ego development + Spiral Dynamics + AQAL four-quadrant map
+- `wiki/concepts/high-agency-development.md` — Agency without permission; ideological sampling; dogma-lock failure mode
+- `wiki/concepts/cohort-business-model.md` — Quarterly cohort monetization; community pricing ladder; overhead trap
+- `wiki/concepts/unique-process-as-ai-moat.md` — Manual process as asset; prompt as employee; SOP-first prompting
+- `wiki/concepts/dopamine-detox-and-beginners-mind.md` — Dopamine recalibration; boredom as creative resource
+- `wiki/strategies/writing-apprenticeship-method.md` — Five-phase writing development system; copywriting as master entry point
+
+**Pages Updated:**
+- `wiki/concepts/identity-and-creative-work.md` — Mind crystallization window; discipline as identity feature; house-foundation metaphor
+- `wiki/strategies/master-prompt-architecture.md` — "Prompt as employee" framework; manual mastery first, then encode
+
+**Index Updated:** 313 → 326 pages; concepts 195 → 207; strategies 57 → 58; operations 46 → 47
+
+---
+
 ## 2026-05-28 — Samir Chaudry Open Residency (Yl_HLGoWWJE)
 
 - **Operation:** DEEP INGEST — Open Residency podcast episode

@@ -1,7 +1,7 @@
 ---
 tags: [psychology, identity, creative-life, self-concept, personal-development]
-source_videos: [C9epWGO8VA4, C1K5E--EHhM]
-last_updated: 2026-05-25
+source_videos: [C9epWGO8VA4, C1K5E--EHhM, EVDQ1MijHbk-dan-koe-open-residency]
+last_updated: 2026-05-28
 ---
 
 # Concept: Identity and Creative Work
@@ -79,6 +79,14 @@ Without deliberate construction, identity forms reactively — from environment,
 
 **Insight 5: An obsession year requires choosing the goal over identity maintenance.** The highest-intensity version of identity change requires temporarily deprioritizing relationships, habits, and activities that maintain the old identity. "Every single action you take is supporting the goal. If it's not, don't do it."
 
+## Additional Depth: Dan Koe on Identity and Discipline
+
+**The mind crystallization window (age ~25):** Dan Koe adds a biological dimension to identity change: around age 25, the adult mind begins to "crystallize." Changing deeply ingrained patterns becomes harder — not impossible, but requiring more deliberate effort. This is the case for acting early, during the "blessings of youth" — time, energy, attention, focus. The goal is to set yourself up for a life where the mind is difficult to crystallize around the wrong things. Crystallization happens regardless; the question is which identity it crystallizes around.
+
+**Discipline as a feature of identity, not willpower:** Discipline is not a scarce internal resource that some people have more of. It is the natural behavior pattern of an identity in alignment with its goals. The gamer who can't wait to get home and log on is disciplined — the frictionlessness is evidence of that. What determines your "discipline" is not your willpower capacity but whether your identity is aligned with the behaviors in question. The change pathway: identify what's currently frictionless for you (whatever you're naturally "disciplined" about), deconstruct how that frictionlessness developed, and redirect the same mechanism toward new behaviors. The [[anti-vision-and-three-phase-leveling]] anti-vision practice provides the initial fuel for identity change, before the new identity becomes frictionless on its own.
+
+**Identity as a house:** The architecture metaphor for why identity change is painful: identity is a mental body — a house. Changing core beliefs or behaviors is like ripping out the foundation. The house (mind) resists because it's a survival mechanism. Understanding this reframes the pain of change: you're not failing — you're renovating. The pain is structural, not indicative of something being wrong. Moving in the new direction step-by-step, with the anti-vision as an anchor, allows renovation rather than collapse.
+
 ## Related Pages
 - [[creative-self-sabotage]]
 - [[the-taste-paradox]]
@@ -86,3 +94,6 @@ Without deliberate construction, identity forms reactively — from environment,
 - [[identity-change-framework]]
 - [[on-camera-confidence-framework]]
 - [[life-systems-for-creatives]]
+- [[anti-vision-and-three-phase-leveling]]
+- [[high-agency-development]]
+- [[human-3-framework]]

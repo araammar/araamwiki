@@ -150,9 +150,27 @@ Tier 1 before Tier 2. Tier 2 before Tier 3. Tier 3 before Tier 4. Founders who j
 - Source video: Dan Martell — "The AI Cheat Codes Every Founder Needs in 2026"
 - Source article: danmartell.com — "Master Prompts, System Prompts, and Custom GPTs"
 
+## Dan Koe's Complementary Framework: Prompt as Employee
+
+Dan Koe (writer/creator, Open Residency) adds a complementary framing: **a prompt is the new employee**. The key prerequisite is doing the task manually first.
+
+His development path for a high-quality prompt:
+1. Do the task manually until you're excellent at it — develop your own process
+2. Start with a basic prompt; accept that output will be mediocre
+3. Iterate: add your principles, add examples, add what-not-to-do
+4. The prompt grows over time until it almost matches your manual output
+5. As models improve, the prompt-generated output keeps improving
+
+His example: a ~2,000-word tweet-writing system prompt built up over months of iteration, starting from a short basic prompt. The manual writing experience was the prerequisite — without having written hundreds of tweets manually, he wouldn't have had the process to encode.
+
+The corollary: people who rely on AI before developing manual skill will always get generic output, because they have no earned process to encode. Manual mastery → prompt encoding → orchestration. Skipping manual mastery skips the moat.
+
+See also: [[unique-process-as-ai-moat]] for the full framework on why this matters competitively.
+
 ## Related Pages
 
 - [[three-levels-of-ai]] — the framework this strategy implements
 - [[ai-operating-system-for-founders]] — why this architecture matters
 - [[ai-tool-stack-for-founders]] — which tools to apply this architecture to
 - [[zero-inbox-system]] — one applied example of this system in action
+- [[unique-process-as-ai-moat]] — why the manual-first principle creates a durable AI moat
