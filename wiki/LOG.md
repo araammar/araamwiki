@@ -4,6 +4,37 @@
 
 ---
 
+## 2026-05-28 — Samir Chaudry Open Residency (Yl_HLGoWWJE)
+
+- **Operation:** DEEP INGEST — Open Residency podcast episode
+- **Guest:** Samir Chaudry — co-creator of Colin and Samir; YouTube strategy expert
+- **Pages created:** 15 | **Pages updated:** 2
+
+**Pages Created:**
+- `wiki/concepts/curiosity-gap.md` — Foundational YouTube click psychology; omission as tool; Veritasium example
+- `wiki/concepts/youtube-three-rules.md` — Samir's click/watch/give-more framework with benchmarks
+- `wiki/concepts/identities-emotions-actions-framework.md` — Three-column pre-production planning tool (who/feel/do)
+- `wiki/concepts/familiar-and-different-formula.md` — Positioning formula: familiar enough to belong, different enough to stop scroll
+- `wiki/concepts/brand-vs-viewership.md` — Three types of views; 44M empty views case study; brand > viewership
+- `wiki/concepts/memorable-minutes-framework.md` — Impact in minutes not views; Press Publish NYC; scale the unscalable
+- `wiki/concepts/story-as-qa-structure.md` — Story as series of Q&As; J.J. Abrams; Jaws omission principle
+- `wiki/concepts/youtube-30-second-hook-structure.md` — 3-phase first 30s: confirm click (7s) → personal (20s) → new loop (10s)
+- `wiki/concepts/youtube-retention-metrics.md` — CTR/30s retention/returning viewers; A/B testing methodology
+- `wiki/concepts/relative-zero.md` — Named concept for view count inflation psychology; platform/distribution antidote
+- `wiki/concepts/youtube-as-mv-platform.md` — Studios using YouTube as MVP for scripted IP; Amazing Digital Circus
+- `wiki/concepts/brands-as-studios.md` — Brands as future content studios; Red Bull model; show-first thinking
+- `wiki/concepts/ai-content-malleability.md` — AI makes content infinitely malleable; Taylor Swift paradox
+- `wiki/strategies/youtube-niche-audit.md` — Pre-launch spreadsheet research; familiar+different intersection system
+- `wiki/strategies/creator-sponsorship-system.md` — Full sponsorship deck structure; flat-rate pricing; package-not-one-offs rule
+
+**Pages Updated:**
+- `wiki/strategies/youtube-packaging-strategy.md` — 12-thumbnail testing methodology; thumbnail-must-win-in-isolation principle
+- `wiki/concepts/viewer-as-prediction-machine.md` — Story-arc Q&A complement; J.J. Abrams omission; Jaws case study
+
+**Index Updated:** 298 → 313 pages; concepts 182 → 195; strategies 55 → 57; operations 45 → 46
+
+---
+
 ## 2026-05-28 — Ross Mackay Open Residency (GaIsWb9Hatg)
 
 - **Operation:** DEEP INGEST — Open Residency podcast episode

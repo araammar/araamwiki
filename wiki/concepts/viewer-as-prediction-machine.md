@@ -156,8 +156,27 @@ The editing mistakes (visual misalignment, pacing errors, visual selection failu
 
 ---
 
+## Story-Arc Level: The Q&A Complement
+
+The prediction machine operates at the sentence and frame level. At the story-arc level, the same mechanism runs through a different lens: every great story is a series of questions and answers. If the viewer has no open questions at any moment, the story is over — regardless of whether the video has ended.
+
+Samir Chaudry on this: "A great story is a series of questions and answers. And if you are watching something and you as the viewer have no more questions, the story's over."
+
+The two levels work together:
+- **Sentence level (prediction machine):** Does each frame, word, and cut advance or break the viewer's immediate prediction loop?
+- **Story arc level (Q&A structure):** Does the overall narrative always have at least one open question the viewer wants answered?
+
+J.J. Abrams: "The audience is dying to do math." Omission — deliberately withholding the answer, the reveal, the visual — keeps the audience actively completing the equation themselves. In Jaws, the mechanical shark failure forced Spielberg to keep the shark off-screen. The audience imagining the shark was scarier than any prop. The omission created the engagement that the explicit reveal would have destroyed.
+
+See [[story-as-qa-structure]] for the full framework.
+
+---
+
 ## Related Pages
 
 - [[shock-score-system]] — Shock Score and virality mechanics operate on the same prediction-loop model
 - [[one-of-one-content-moat]] — one-of-one content provides a unique prediction loop that AI cannot replicate
+- [[story-as-qa-structure]] — story-arc level Q&A structure; J.J. Abrams omission principle
+- [[curiosity-gap]] — the narrative gap that drives clicks and maintains watch time
+- [[youtube-30-second-hook-structure]] — 3-phase first 30 seconds
 - [[Callaway]] — brand page with full framework index

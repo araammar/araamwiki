@@ -9,14 +9,14 @@
 ## Stats
 
 - **Total brands:** 18
-- **Total concepts:** 182
-- **Total strategies:** 55
+- **Total concepts:** 195
+- **Total strategies:** 57
 - **Total ideas:** 28
 - **Total reference pages:** 10
 - **Total products:** 1 product (4 pages)
-- **Total wiki pages:** 298
-- **Source transcripts ingested:** 51+
-- **Ingest operations:** 45 (bulk 40 videos + wiki expansion pass + Drive sync + Dan Martell AI + Orin John Open Residency + Taylor Holiday 2026 E-Commerce Masterclass + Peter Rahal David Protein + Callaway Short-Form Masterclass + Orin John LinkedIn Cursed Opportunity + Pricing Psychology deep re-ingest + Boy Internet deep re-ingest + Brand Archetypes deep re-ingest + Enshittification deep re-ingest + Taste Economy deep re-ingest + Creative Offers deep re-ingest + Art of Yapping deep re-ingest + Hailey Bieber/Rhode deep re-ingest + Japan Branding deep re-ingest + Content Operations deep re-ingest + Internet Splintering deep re-ingest + Apple/Tech Branding deep re-ingest + Marketing Plan 2026 deep re-ingest + 1067 Short-Form deep re-ingest + Psychology of Luxury deep re-ingest + Batch 7 re-ingest)
+- **Total wiki pages:** 313
+- **Source transcripts ingested:** 52+
+- **Ingest operations:** 46 (bulk 40 videos + wiki expansion pass + Drive sync + Dan Martell AI + Orin John Open Residency + Taylor Holiday 2026 E-Commerce Masterclass + Peter Rahal David Protein + Callaway Short-Form Masterclass + Orin John LinkedIn Cursed Opportunity + Pricing Psychology deep re-ingest + Boy Internet deep re-ingest + Brand Archetypes deep re-ingest + Enshittification deep re-ingest + Taste Economy deep re-ingest + Creative Offers deep re-ingest + Art of Yapping deep re-ingest + Hailey Bieber/Rhode deep re-ingest + Japan Branding deep re-ingest + Content Operations deep re-ingest + Internet Splintering deep re-ingest + Apple/Tech Branding deep re-ingest + Marketing Plan 2026 deep re-ingest + 1067 Short-Form deep re-ingest + Psychology of Luxury deep re-ingest + Batch 7 re-ingest)
 
 ---
 
@@ -207,6 +207,19 @@
 | One-of-One Content Moat | Uniqueness as AI-proof strategy; AI replicates formats not lived POV; replacement spectrum; term ownership / cult category fandom; five games in the AI era | [[one-of-one-content-moat]] |
 | AI Arbitrage Window | 2007–2028 free distribution thesis; zig/zag model (human content stands out on AI-flooded platforms); post-2028 pay-to-play prediction; 3-year go-hard mandate | [[ai-arbitrage-window]] |
 | Shock Score System | 0–100 virality scoring; 100-people-in-a-room test; shocking vs. useful angle types; Payoff Principle (no bait-and-switch); zig-zag storytelling; conflict as subset of contrast | [[shock-score-system]] |
+| Curiosity Gap | Foundational YouTube click psychology: distance between presented info and desired info; how to keep the gap open with title/thumbnail; omission as a tool | [[curiosity-gap]] |
+| YouTube Three Rules | Samir's complete framework: click / watch / give more; specific mechanics, benchmarks, and how the three rules govern every production decision | [[youtube-three-rules]] |
+| Identities Emotions Actions Framework | Three-column pre-production planning tool (who/feel/do) that filters every packaging and creative decision | [[identities-emotions-actions-framework]] |
+| Familiar and Different Formula | Positioning formula for any niche: familiar enough to belong, different enough to stop the scroll; Babish, Cleo Abram as case studies | [[familiar-and-different-formula]] |
+| Brand vs Viewership | Three types of views (forgettable/regrettable/memorable); 44M empty views case study; why brand matters more than viewership; sponsorship pricing implications | [[brand-vs-viewership]] |
+| Memorable Minutes Framework | Measuring impact in minutes not views; events as high-density memorable minute vehicles; Press Publish NYC learnings; scale the unscalable principle | [[memorable-minutes-framework]] |
+| Story as Q&A Structure | Great story as series of questions and answers; J.J. Abrams audience math; Jaws omission principle; list format as Q&A structure | [[story-as-qa-structure]] |
+| YouTube 30-Second Hook Structure | Samir's 3-phase first 30 seconds: confirm the click (7s) → make it personal (20s) → open a new loop (10s); cold open mechanics | [[youtube-30-second-hook-structure]] |
+| YouTube Retention Metrics | Three core KPIs: CTR (5–10%), 30s retention (70% benchmark), returning viewers; how to read each metric; A/B testing methodology | [[youtube-retention-metrics]] |
+| Relative Zero | Named concept: view count your brain treats as zero despite being significant; inflation mechanism; platform/distribution split as antidote | [[relative-zero]] |
+| YouTube as MVP Platform | Deficit financing thesis: studios using YouTube as MVP platform for scripted IP; Amazing Digital Circus proof; why Hollywood hasn't done this yet | [[youtube-as-mv-platform]] |
+| Brands as Studios | Major brands as future content studios; Red Bull model; why brand YouTube channels fail; show-first thinking; McDonald's/DoorDash content opportunities | [[brands-as-studios]] |
+| AI Content Malleability | AI makes content infinitely malleable (custom-length versions on demand); prompting as entertainment competition; Taylor Swift paradox | [[ai-content-malleability]] |
 
 ### Product & Launch Strategy
 
@@ -377,6 +390,8 @@
 | Algorithm Sampling Loop | 200→2000 cascade mechanics; topic consistency as sample pool hygiene; content pillars; multi-channel atomization; evergreen "every video is a sales agent" model; winners-first hack | [[algorithm-sampling-loop]] |
 | Short-Form Production Loop | Six-step production workflow; content operator / ideas guy role split; 180-page brain document; Sandcastles scripting software; batching debate; editor management system | [[short-form-production-loop]] |
 | Zero-to-$1M YouTube Blueprint | High-ticket offer + precise YouTube content = profit; skill-first mandate; comment cyclone strategy; super shares weighting; escape velocity; lead magnet taxonomy; Attention Factory vision | [[zero-to-1m-youtube-blueprint]] |
+| YouTube Niche Audit | Pre-launch spreadsheet research system: search niche, filter by view tiers, screenshot thumbnails, find visual language, identify familiar+different intersection | [[youtube-niche-audit]] |
+| Creator Sponsorship System | Full sponsorship system: deck structure, flat-rate pricing, "what does success mean to you?" question, package-not-one-offs rule, brand association vs. direct response framing | [[creator-sponsorship-system]] |
 
 ### DTC & E-Commerce
 
