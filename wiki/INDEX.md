@@ -1,22 +1,22 @@
 # Vault Index
 
 *Master index of everything in the Araamwiki knowledge base.*
-*Last updated: 2026-05-25*
+*Last updated: 2026-05-27*
 *Auto-maintained by Claude — update after every ingest.*
 
 ---
 
 ## Stats
 
-- **Total brands:** 8
-- **Total concepts:** 60
-- **Total strategies:** 42
+- **Total brands:** 9
+- **Total concepts:** 69
+- **Total strategies:** 47
 - **Total ideas:** 28
 - **Total reference pages:** 7
 - **Total products:** 1 product (4 pages)
-- **Total wiki pages:** 149
-- **Source transcripts ingested:** 44+
-- **Ingest operations:** 7 (bulk 40 videos + wiki expansion pass + Drive sync + Dan Martell AI + Orin John Open Residency + Taylor Holiday 2026 E-Commerce Masterclass + Peter Rahal David Protein)
+- **Total wiki pages:** 164
+- **Source transcripts ingested:** 45+
+- **Ingest operations:** 8 (bulk 40 videos + wiki expansion pass + Drive sync + Dan Martell AI + Orin John Open Residency + Taylor Holiday 2026 E-Commerce Masterclass + Peter Rahal David Protein + Callaway Short-Form Masterclass)
 
 ---
 
@@ -34,6 +34,7 @@
 | Supreme | Drop culture, scarcity mechanics, collab architecture, streetwear | [[Supreme]] |
 | Virgil Abloh / Off-White | Iconographic systems, Free Game philosophy, cross-discipline, Nike The Ten | [[VirgilAblohOffWhite]] |
 | David | Science-driven protein bar (28g/150cal/0g sugar); Peter Rahal; $725M in 255 days; anti-marketing, product-surplus model | [[David]] |
+| Callaway | Systems-first content strategist; reverse-engineers viral short-form; 7 Lego Bricks, 5 Content Games, Shock Score; Sandcastles, Content.game | [[Callaway]] |
 
 ---
 
@@ -100,6 +101,20 @@
 | Owned, Enabled, Paid Media Ecosystem | Three-tier media model: brand accounts + creator affiliates + ads; enabled tier most underused; organic feeds paid | [[owned-enabled-paid-media-ecosystem]] |
 | Creator-First Brand Strategy | Making creators the primary content production engine; why all popping brands have creator-first infrastructure | [[creator-first-brand-strategy]] |
 | TikTok Shop Affiliate Model | Commission-based creator commerce; $500M+ Black Friday 2025; economics by tier; once-in-a-lifetime window | [[tiktok-shop-affiliate-model]] |
+
+### Short-Form & YouTube Strategy
+
+| Concept | Summary | Page |
+|---------|---------|------|
+| Three-Part Hook Framework | Visual hook + text hook + spoken hook must align; confusion=churn; contrast as scroll-stopper; visual set as strategic asset; context-first brain processing | [[three-part-hook-framework]] |
+| Absorption Rate Framework | Absorption rate as master KPI (not views); Content Minutes trust math; offer price requires X content minutes consumed; 20:1 short-form vs. long-form ratio | [[absorption-rate-framework]] |
+| Five Content Games | Five content-business model types: Entertainment Media / Education Media / Commoditized Consumer Product / Educational Consumer Product / B2B High-Education; Traffic→Funnels→Offers hierarchy | [[five-content-games]] |
+| Format Maturity Cycles | How content formats progress from low supply → flood → saturation → evolution; one-of-one moat when formats commoditize; niche maturity benchmarking | [[format-maturity-cycles]] |
+| Creator vs. Entrepreneur Dichotomy | Creator (view-addiction spiral) vs. entrepreneur (business outcomes); broad-audience monetization failure; narrow ICP economics; open season arbitrage thesis | [[creator-vs-entrepreneur-dichotomy]] |
+| Viewer as Prediction Machine | Brain processes video as a prediction engine; comprehension decay model; three editing mistakes; eyes-closed pacing test; 70% retention benchmark; two-dopamine-hit lock-in | [[viewer-as-prediction-machine]] |
+| One-of-One Content Moat | Uniqueness as AI-proof strategy; AI replicates formats not lived POV; replacement spectrum; term ownership / cult category fandom; five games in the AI era | [[one-of-one-content-moat]] |
+| AI Arbitrage Window | 2007–2028 free distribution thesis; zig/zag model (human content stands out on AI-flooded platforms); post-2028 pay-to-play prediction; 3-year go-hard mandate | [[ai-arbitrage-window]] |
+| Shock Score System | 0–100 virality scoring; 100-people-in-a-room test; shocking vs. useful angle types; Payoff Principle (no bait-and-switch); zig-zag storytelling; conflict as subset of contrast | [[shock-score-system]] |
 
 ### Product & Launch Strategy
 
@@ -218,6 +233,16 @@
 | Viral Organic Content Formats | 10 stable formats: yapping, rankings, credible explainers, unpopular opinions, provocative scenarios, transformation, and more | [[viral-organic-content-formats]] |
 | Affiliate Creator Program Strategy | Build → scale → feed paid: sourcing, communities, rights purchasing, organic-to-paid pipeline, scale benchmarks | [[affiliate-creator-program-strategy]] |
 | Creative Strategist System | Notion content database, weekly hook-saving ritual, monthly brand checklist, 5 human emotion frames, persona segmentation | [[creative-strategist-system]] |
+
+### Short-Form & YouTube
+
+| Strategy | Summary | Page |
+|----------|---------|------|
+| Seven Lego Bricks (Short-Form) | Core reverse-engineering framework: 7 bricks (topic/angle/hook structure/story structure/visual format/key visuals/audio); find winners → explode → hold world-class bricks → improve weak ones → restack | [[seven-lego-bricks-short-form]] |
+| YouTube Packaging Strategy | YouTube is a packaging game; title/thumbnail-first production order; desire loop psychology; complement rule; three-stage funnel; clickbait vs. bait-and-switch; dollars-per-view metric | [[youtube-packaging-strategy]] |
+| Algorithm Sampling Loop | 200→2000 cascade mechanics; topic consistency as sample pool hygiene; content pillars; multi-channel atomization; evergreen "every video is a sales agent" model; winners-first hack | [[algorithm-sampling-loop]] |
+| Short-Form Production Loop | Six-step production workflow; content operator / ideas guy role split; 180-page brain document; Sandcastles scripting software; batching debate; editor management system | [[short-form-production-loop]] |
+| Zero-to-$1M YouTube Blueprint | High-ticket offer + precise YouTube content = profit; skill-first mandate; comment cyclone strategy; super shares weighting; escape velocity; lead magnet taxonomy; Attention Factory vision | [[zero-to-1m-youtube-blueprint]] |
 
 ### DTC & E-Commerce
 

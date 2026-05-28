@@ -342,4 +342,47 @@ All 24 new pages + updated INDEX uploaded to Drive. New INDEX Drive ID: 1gXv1L_b
 
 ---
 
+---
+
+## 2026-05-27 — Ingest: Callaway — Short-Form Content Masterclass (Open Residency)
+
+- **Operation:** INGEST
+- **Source:** YouTube — Open Residency, ft. Callaway (https://www.youtube.com/watch?v=VcqQmrGqthg) — full transcript, 4,884 segments, ~36,000 words
+- **Speaker:** Callaway — systems-first content strategist, reverse-engineer of viral short-form content; creator of Content.game newsletter, Sandcastles scripting software, Shortform.academy
+- **Method:** Full transcript fetched → 25 chunk-by-chunk analysis files written (1,000 words each) → wiki pages extracted from all 25 chunks
+- **Previous total:** 149 pages
+- **New total:** 164 pages (+15 new pages)
+
+### Pages Created (15)
+
+**Brands (1)**
+- wiki/brands/Callaway.md — Systems-first content strategist; reverse-engineers viral content; 7 Lego Bricks + 5 Content Games + Shock Score frameworks; full product ecosystem (Content.game, Sandcastles, Shortform.academy); 16 linked frameworks; do's/don'ts
+
+**Concepts (9)**
+- wiki/concepts/three-part-hook-framework.md — Visual hook + text hook + spoken hook must align; confusion=churn; contrast as scroll-stopper; context-first top-down brain processing; thumb stopper; visual set as strategic asset; direct vs. implied contrast math
+- wiki/concepts/absorption-rate-framework.md — Absorption rate as master KPI; Content Minutes trust math (offer price requires X content minutes consumed); 20:1 short-form vs. long-form block ratio; bingeability mechanics; thumbnail covers as viral K-factor
+- wiki/concepts/five-content-games.md — Five content-business model types (Entertainment Media / Education Media / Commoditized Consumer Product / Educational Consumer Product / B2B High-Education); education vs. entertainment definitional test; Traffic→Funnels→Offers hierarchy
+- wiki/concepts/format-maturity-cycles.md — Four cycle stages (low supply → flood → saturation → evolution); Callaway's three format seasons; one-of-one moat when formats commoditize; niche maturity benchmarking
+- wiki/concepts/creator-vs-entrepreneur-dichotomy.md — View-addiction spiral; broad-audience monetization failure; narrow ICP economics; open season analytical arbitrage thesis; skill-first mandate
+- wiki/concepts/viewer-as-prediction-machine.md — Brain processes video as prediction engine; comprehension decay model; three editing mistakes; eyes-closed pacing test; 70% retention benchmark; one-question-at-a-time story audit; two-dopamine-hit lock-in
+- wiki/concepts/one-of-one-content-moat.md — AI replicates formats not lived POV; AI replacement spectrum; term ownership / cult category fandom; five games in the AI era; full AI-proof strategy synthesis
+- wiki/concepts/ai-arbitrage-window.md — 2007–2028 free distribution thesis; zig/zag model; post-2028 $10/post pay-to-play prediction; 3-year go-hard mandate; Gen 1 vs. Gen 2/For You era breakdown
+- wiki/concepts/shock-score-system.md — 0–100 virality scoring; 100-people-in-a-room test; shocking vs. useful angle types; Payoff Principle (no bait-and-switch); zig-zag storytelling with successive stakes; conflict as subset of contrast
+
+**Strategies (5)**
+- wiki/strategies/seven-lego-bricks-short-form.md — All 7 bricks (topic/angle/hook structure/story structure/visual format/key visuals/audio); 6-step reverse-engineering protocol; copy-to-innovate progression; which bricks to hold constant vs. vary by skill level
+- wiki/strategies/youtube-packaging-strategy.md — Title/thumbnail-first production order; desire loop psychology; complement rule; three-stage funnel; clickbait vs. bait-and-switch; CTR as noisy metric; 1-of-10 ranking system; TAM factor; dollars-per-view metric
+- wiki/strategies/algorithm-sampling-loop.md — 200→2000 cascade mechanics; topic consistency as sample pool hygiene; content pillars; multi-channel atomization; evergreen "every video is a sales agent"; winners-first hack; hub-and-spoke repurposing
+- wiki/strategies/short-form-production-loop.md — Six-step workflow; content operator / ideas guy role split; 180-page brain document; Sandcastles software; batching debate; editor management; numbered series binge architecture
+- wiki/strategies/zero-to-1m-youtube-blueprint.md — High-ticket + precise YouTube = profit; skill-first mandate; comment cyclone strategy; super shares 1000x weighting; escape velocity; 5-type lead magnet taxonomy; Attention Factory vision
+
+### INDEX.md Updated
+
+- Stats: 9 brands, 69 concepts, 47 strategies, 164 total pages
+- New brand added: Callaway
+- New concept subcategory added: "Short-Form & YouTube Strategy" (9 new pages)
+- New strategy subcategory added: "Short-Form & YouTube" (5 new pages)
+
+---
+
 *Next ingest: drop a file into /raw and say `ingest [filename]`*
