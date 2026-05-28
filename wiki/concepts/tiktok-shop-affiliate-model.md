@@ -84,9 +84,33 @@ Formats that drive TikTok Shop sales:
 
 ---
 
+## Two-Tier Affiliate Program Structure
+
+Within TikTok Shop's backend, brands can run two parallel affiliate structures:
+
+**Tier 1: Open Enrollment Program**
+- Publicly accessible to any eligible creator (currently requires 5,000 followers minimum)
+- Creators discover and join through TikTok's Affiliate Center
+- Brand sets a standard commission rate
+- Lower acquisition cost; lower creator quality floor
+- Good for building volume of posts and initial data on what converts
+
+**Tier 2: Manual High-Commission Program**
+- Brand manually invites specific creators at elevated commission rates
+- Used for top-performing creators who have proven they drive sales OR for marquee creators being onboarded
+- Not discoverable through the public marketplace — direct relationship
+- Higher cost per creator; higher quality ceiling
+- The tier where brands build long-term creator relationships and retainer arrangements
+
+The strategic sequence: use Tier 1 to find which creator types and content styles generate actual purchases, then promote the proven performers to Tier 2 with elevated commissions and deeper engagement.
+
+**Kalo Data:** Key tool for identifying which creators are actively driving sales in your category before outreach. Shows active affiliate counts, top affiliates by revenue contribution, and content performance for specific products. Use it to identify creators already generating volume in adjacent categories before pitching them.
+
+**Affiliate management ecosystem:** Multiple software tools exist for tracking, recruiting, and auto-DMing creators (tools have obscure names; landscape evolves). The important thing is having dedicated outreach infrastructure rather than doing it manually. Creators Corner is a training resource for creators who want to become TikTok Shop affiliates.
+
 ## What to Steal
 
-If you have a product, start TikTok Shop affiliate within 30 days. Steps: list product on TikTok Shop → set commission rate → reach out to 20–30 micro-creators in your niche via Youka or direct DM → seed product → let them post → buy rights to what performs. The cost of entry is product cost plus time. The upside is a commission-based sales channel that scales with no additional paid spend.
+If you have a product, start TikTok Shop affiliate within 30 days. Steps: list product on TikTok Shop → set commission rate → create open enrollment program → research top affiliates in your category via Kalo Data → personally recruit the top 5–10 into Tier 2 at higher commission → let the full network post → buy rights to what performs. The cost of entry is product cost plus time. The upside is a commission-based sales channel that scales with no additional paid spend.
 
 ---
 

@@ -40,11 +40,35 @@ Entertainment content has a creator-age mismatch problem. The content that perfo
 
 Pick your path based on what you'd still want to be doing in 10 years, not what's easiest to start. If you have genuine expertise, value content is underexploited and compound-growing. If you're going entertainment, build formats that have creative longevity — not trend-dependent gimmicks. And if your content is neither genuinely entertaining nor genuinely valuable, no amount of posting frequency fixes the fundamental problem.
 
+## The Creator as Conduit
+
+A useful reframe for thinking about the value/entertainment axis:
+
+"You are a conduit as a creator — a conduit for value in someone's life, or for a conversation someone's going to have, or you're pure scroll entertainment. And if you're not any of those three things, you are literally nothing."
+
+The three valid creator positions:
+1. **Value conduit** — solving a real problem, delivering expertise, giving people something actionable
+2. **Conversation conduit** — starting arguments, provoking opinions, sparking social sharing and commentary
+3. **Entertainment conduit** — pure escape, aesthetic pleasure, humor, narrative
+
+The invisible failure state is content that is none of these — promotional content, brand announcements, content that's made to serve the creator's agenda rather than the audience's experience. This content gets algorithmically ignored not because of anything wrong with the platform, but because audiences correctly identify it as without value for them.
+
+## The Opinion Starvation Opportunity
+
+A structural cultural shift has created a specific opportunity for opinion-driven content:
+
+"We've been basically like almost neutered as a generation where you couldn't have an opinion. If you said something was bad: 'you can't say that's bad.' If you say something is good: 'oh, they're just a shill.' And so everyone's in this weird middle ground where you can't really have an opinion."
+
+The result is an opinion vacuum. Content that takes a clear stand — "this is good," "this is bad," "here's what this says about you" — stands out precisely because the default has become aggressive neutrality. The comment section activates not because of a CTA but because the content made a claim that demands engagement.
+
+This is the entertainment mechanic available to value creators: you don't need slapstick comedy or viral challenges. You need to make claims people feel compelled to respond to. Strong takes are the entertainment layer that value creators can add without compromising their expertise positioning.
+
 ## Source
-- Source video: Orin John (Orin Meets World) — Creator Systems, Content Strategy, Platform Intelligence
+- Source video: Orin John (Orin Meets World) — Creator Systems, Content Strategy, Platform Intelligence (multiple appearances)
 
 ## Related Pages
 - [[content-virality-mechanics]] — the mechanics of what makes value content spread
+- [[content-goal-framework]] — the specific goal (shares, saves, comments) that determines content design
 - [[creator-economy-in-2026]] — the broader context for why value content is winning now
 - [[short-form-video-that-makes-money]] — strategy layer on top of this framework
 - [[content-positioning-pyramid]] — where this decision sits in the hierarchy

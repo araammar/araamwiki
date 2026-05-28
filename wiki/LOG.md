@@ -4,6 +4,36 @@
 
 ---
 
+## 2026-05-28 — Orin John Open Residency (uI5Qo58FqiE)
+
+- **Operation:** DEEP INGEST — Open Residency podcast episode
+- **Guest:** Orin John (Orin Meets World) — creative operator, marketing/brand leadership
+- **Pages created:** 12 | **Pages updated:** 4
+
+**Pages Created:**
+- `wiki/concepts/brand-social-show-strategy.md` — TV-format social show model; Alexis Petar drama series; Bape fishbowl challenge; format-as-moat principle
+- `wiki/concepts/influencer-seeding-economics.md` — Free product seeding infrastructure; EMV logic; gift card model; K-Beauty PR pack benchmarks; $2 upgrade principle
+- `wiki/concepts/content-goal-framework.md` — Shares vs saves vs comments as distinct design targets; 500-combined guarantee; why CTAs don't work
+- `wiki/concepts/little-luxury-economy.md` — "Little treat" to "little luxury" shift; Jolie shower head; Tinker toolkit; DTC opportunity map
+- `wiki/concepts/position-against-strategy.md` — Three positioning types: one competitor, unassailable metric, name-as-strategy; price game trap
+- `wiki/concepts/creator-whitelisting-strategy.md` — Whitelisting mechanics; deal structures; Jack Henry origin story; platform mechanics
+- `wiki/concepts/off-algorithm-research.md` — Print magazines + travel vs. algorithm convergence; B Magazine, Chrome Hearts, Popeye; Casa bookstore model
+- `wiki/concepts/target-consumption-habits.md` — When/where/how audience consumes; YouTube TV lunchtime mode; gender/age thumbnail differences
+- `wiki/concepts/emerging-influencer-alpha.md` — Pre-priced creator window; Kalo Data tool; $10K budget allocation; long-term relationship compounding
+- `wiki/concepts/creative-strategist-role.md` — Most in-demand marketing role; three competency pillars; influencer rolodex as career capital
+- `wiki/brands/HouseOfErrors.md` — Streetwear brand; new content-era benchmark for launch quality
+- `wiki/strategies/content-lift-impact-matrix.md` — Lift/impact rubric; four-pillar topic management; 20-post allocation model; Iconic 45-day revenue data
+
+**Pages Updated:**
+- `wiki/concepts/creative-toolkit-bookmark-system.md` — Talent database extension; VA-assisted Notion docs by location
+- `wiki/concepts/value-vs-entertainment-content-framework.md` — "Creator as conduit" framing; opinion starvation opportunity
+- `wiki/concepts/tiktok-shop-affiliate-model.md` — Two-tier program structure; Kalo Data; 5,000 follower threshold; Creators Corner
+- `wiki/strategies/content-lift-impact-matrix.md` — (new strategy page, see above)
+
+**Index Updated:** 236 → 248 pages; brands 14 → 15; concepts 127 → 137; strategies 52 → 53; operations 40 → 41
+
+---
+
 ## 2026-05-28 — Re-Ingest Batch 7 (5 videos)
 
 - **Operation:** DEEP RE-INGEST (batch)

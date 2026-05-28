@@ -8,15 +8,15 @@
 
 ## Stats
 
-- **Total brands:** 14
-- **Total concepts:** 127
-- **Total strategies:** 52
+- **Total brands:** 15
+- **Total concepts:** 137
+- **Total strategies:** 53
 - **Total ideas:** 28
 - **Total reference pages:** 10
 - **Total products:** 1 product (4 pages)
-- **Total wiki pages:** 236
-- **Source transcripts ingested:** 46+
-- **Ingest operations:** 40 (bulk 40 videos + wiki expansion pass + Drive sync + Dan Martell AI + Orin John Open Residency + Taylor Holiday 2026 E-Commerce Masterclass + Peter Rahal David Protein + Callaway Short-Form Masterclass + Orin John LinkedIn Cursed Opportunity + Pricing Psychology deep re-ingest + Boy Internet deep re-ingest + Brand Archetypes deep re-ingest + Enshittification deep re-ingest + Taste Economy deep re-ingest + Creative Offers deep re-ingest + Art of Yapping deep re-ingest + Hailey Bieber/Rhode deep re-ingest + Japan Branding deep re-ingest + Content Operations deep re-ingest + Internet Splintering deep re-ingest + Apple/Tech Branding deep re-ingest + Marketing Plan 2026 deep re-ingest + 1067 Short-Form deep re-ingest + Psychology of Luxury deep re-ingest + Batch 7 re-ingest)
+- **Total wiki pages:** 248
+- **Source transcripts ingested:** 47+
+- **Ingest operations:** 41 (bulk 40 videos + wiki expansion pass + Drive sync + Dan Martell AI + Orin John Open Residency + Taylor Holiday 2026 E-Commerce Masterclass + Peter Rahal David Protein + Callaway Short-Form Masterclass + Orin John LinkedIn Cursed Opportunity + Pricing Psychology deep re-ingest + Boy Internet deep re-ingest + Brand Archetypes deep re-ingest + Enshittification deep re-ingest + Taste Economy deep re-ingest + Creative Offers deep re-ingest + Art of Yapping deep re-ingest + Hailey Bieber/Rhode deep re-ingest + Japan Branding deep re-ingest + Content Operations deep re-ingest + Internet Splintering deep re-ingest + Apple/Tech Branding deep re-ingest + Marketing Plan 2026 deep re-ingest + 1067 Short-Form deep re-ingest + Psychology of Luxury deep re-ingest + Batch 7 re-ingest)
 
 ---
 
@@ -40,6 +40,7 @@
 | Loro Piana | Gift of Kings $12,200 jacket as hero product, House of Mastery / Master of Fibers process content, Succession cultural moment, supply chain controversy | [[LoroPiana]] |
 | Brunello Cucinelli | Humanistic capitalism philosophy, Solomeo as production story, formal-to-casual lifestyle range, combined process + setting strategy | [[BrunelloCucinelli]] |
 | Bottega Veneta | Intrecciato weave as logo-replacement signature, artful world traveler setting strategy, Daniel Lee social media deletion era, logo-free luxury tier | [[BottegaVeneta]] |
+| House of Errors | Streetwear brand that set a new benchmark for content quality at launch; content-era brand model; elevated production from day one | [[HouseOfErrors]] |
 
 ---
 
@@ -79,6 +80,7 @@
 | The Rebrand Playbook | Five-step rebrand framework with Bad Bunny, Burberry, Tyler the Creator case studies | [[the-rebrand-playbook]] |
 | Brand Scale Ceiling | Structural revenue limit (~$500M–$1B) for subculture/identity brands; why VF Corp's Supreme thesis failed; "quiet revenue" operating mode; exit timing | [[brand-scale-ceiling]] |
 | Logo Hierarchy Participation Architecture | Deliberate three-tier logo system (box logo → sub-logos → no-logo basics) managing scarcity and access simultaneously; Supreme model; B2B and services extension | [[logo-hierarchy-participation-architecture]] |
+| Position Against Strategy | Three positioning types: against one competitor (Grüns vs. AG1), unassailable metric (David), name-as-strategy (Satoshi Nakamoto); price game trap | [[position-against-strategy]] |
 
 ### Consumer Psychology & Behavior
 
@@ -96,6 +98,8 @@
 | Sports Creative Direction | How sports brands use creative direction and what other brands can steal | [[sports-creative-direction]] |
 | Enthusiasm as Byproduct of Education | Why education produces enthusiasm not just knowledge; fragrance case study; algorithm feedback loop; how to build category enthusiasts | [[enthusiasm-as-byproduct-of-education]] |
 | The Downfall of Old Luxury | Three disruption forces, the new premium playbook, positioning opportunity | [[the-downfall-of-old-luxury]] |
+| Little Luxury Economy | "Little treat" to "little luxury" consumer spending shift; Jolie shower head, Tinker toolkit; structural mechanism; DTC positioning opportunity | [[little-luxury-economy]] |
+| Target Consumption Habits | When/where/how audience consumes: YouTube TV lunchtime mode, casual B2B executive browsing, gender/age thumbnail differences, lunchtime content formula | [[target-consumption-habits]] |
 | The Taste Economy | What taste is, why it became currency, how brands and creators leverage it; flavor analogy; named brand examples; Laird Hamilton documentary model | [[the-taste-economy]] |
 
 ### Aesthetics & Visual Culture
@@ -163,6 +167,13 @@
 | TikTok Shop Affiliate Model | Commission-based creator commerce; $500M+ Black Friday 2025; economics by tier; once-in-a-lifetime window | [[tiktok-shop-affiliate-model]] |
 | Founder Email | Plain text email in founder's voice; pattern interrupt in distrust economy; when to use (launches, milestones, mistakes, post-purchase); welcome/post-purchase automation placement | [[founder-email]] |
 | Expert-Driven Content Model | Student/expert dual-position framework; professional knowledge has become inaccessible at human level; giving away the playbook converts better than gatekeeping | [[expert-driven-content-model]] |
+| Brand Social Show Strategy | TV-format social show model; Alexis Petar drama series, Bape fishbowl challenge; format-as-moat; show set lifecycle; brand objection rebuttals | [[brand-social-show-strategy]] |
+| Content Goal Framework | Shares vs saves vs comments as distinct design targets; Slack-share goal for B2B; argument-starting takes; bookmark-driving guides; Orin's 500-combined guarantee | [[content-goal-framework]] |
+| Creator Whitelisting Strategy | Whitelisting mechanics; brand and creator incentives; deal structure options; Jack Henry origin story; platform mechanics; deal packaging model | [[creator-whitelisting-strategy]] |
+| Influencer Seeding Economics | Free product seeding as marketing infrastructure; EMV logic; four returns; gift card model; PR pack post-rate engineering; K-Beauty benchmarks; $2 upgrade principle | [[influencer-seeding-economics]] |
+| Emerging Influencer Alpha | Pre-priced creator window; identifying characteristics; niche rate ceilings; long-term relationship compounding; Kalo Data tool; $10K budget allocation | [[emerging-influencer-alpha]] |
+| Creative Strategist Role | Most in-demand marketing role; three competency pillars (creative direction/platform intelligence/operational execution); relationship capital moat; influencer rolodex as career capital | [[creative-strategist-role]] |
+| Off-Algorithm Research | Print magazines and travel sourcing vs. algorithm convergence; Orin's collection (B Magazine, Chrome Hearts, Popeye); Casa bookstore model; AI-era differentiation logic | [[off-algorithm-research]] |
 
 ### Short-Form & YouTube Strategy
 
@@ -277,6 +288,7 @@
 | Marketing Campaign Masterclass | Full art of the campaign — strategy, creative, execution, measurement | [[marketing-campaign-masterclass]] |
 | Marketing Plan Framework 2026 | The complete 2026 marketing plan structure, step by step | [[marketing-plan-framework-2026]] |
 | Viral Content Playbook | The six virality mechanics with activation tactics for each | [[viral-content-playbook]] |
+| Content Lift Impact Matrix | Lift/impact rubric for content decisions; four-pillar topic management; format vs. topic portfolio split; 20-post allocation model; Iconic 45-day tranche revenue data | [[content-lift-impact-matrix]] |
 
 ### Creator Economy
 
