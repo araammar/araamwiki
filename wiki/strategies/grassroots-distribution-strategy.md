@@ -111,9 +111,33 @@ Starting in communities is not a constraint of limited resources. It is the stra
 
 ---
 
+---
+
+## Ketone-IQ (HVMN): Military-to-Consumer Variant
+
+A third distribution archetype: using government/military validation as Phase 0 before touching any consumer community at all.
+
+**The sequence:**
+- **Phase 0 — Government/Military:** $6M DoD Special Operations Command research grant; product developed and validated at the highest-stakes proving ground available
+- **Phase 1 — Elite Athletes:** Special Ops to elite sports is a natural bridge (same "treating operators as athletes" language); Sarah Hall (top-3 American marathoner), Team Ineos, NBA team owner investors
+- **Phase 2 — Specialty Retail:** Sprouts grocery (premium, innovative, fast-moving) before mass channels
+
+**Why this variant matters:**
+- The DoD grant is *unchallengeable* third-party credibility — no marketing budget replicates it
+- Special Operations units have begun formally treating soldiers as athletes (diet, sleep, recovery protocols) — creating a consumer-adjacent channel that didn't previously exist for supplement brands
+- The military-to-athlete-to-retail arc mirrors the caffeine adoption story: proven at the extreme performance edge, then universalized
+
+**What to steal:** For any performance/health brand with a legitimate science story, pursue institutional validation (NIH grant, sports medicine partnership, military contract, university study) before retail. Institutional proof collapses retail buyer skepticism and creates PR no paid campaign can buy.
+
+See [[military-to-consumer-validation]] for full concept breakdown.
+
+---
+
 ## Related Pages
 
 - [[consumer-surplus-framework]] — the product truth that makes community seeding work
 - [[product-first-brand-building]] — the philosophy behind sequencing distribution correctly
 - [[product-launch-seeding-model]] — the launch-day execution tactics
 - [[David]] — brand page with full RXBAR and David context
+- [[military-to-consumer-validation]] — full breakdown of the DoD/military validation path
+- [[KetoneIQ]] — brand page with full Ketone-IQ context

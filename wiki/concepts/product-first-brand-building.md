@@ -106,9 +106,24 @@ The answer — 28g protein, 150 calories — would seem impossible in a category
 
 ---
 
+---
+
+## Ketone-IQ (HVMN): Third Case Study
+
+Ketone-IQ adds a third product-first archetype alongside RXBAR and David — one where the product truth is so technically demanding that the founder had to build the science team before the marketing team.
+
+Michael Brandt's core insight: *"I'm trying to go as far up the stack as possible — introduce something that's a primitive, not something only valuable at the fringes."* The product thesis (ketones as a universally-accessible metabolic fuel) required an MIT Chemical Engineering VP of Product and an Oxford PhD Head of Science before a single distribution deal.
+
+**Key addition to the framework:** Where RXBAR and David prove product-first through consumer surplus at price point, Ketone-IQ proves it through institutional validation — a $6M DoD research grant is the strongest possible product truth signal before consumer launch. See [[tree-trunk-primitive-product-thesis]] and [[military-to-consumer-validation]].
+
+---
+
 ## Related Pages
 
 - [[consumer-surplus-framework]] — the mechanism that makes product-first building work
 - [[grassroots-distribution-strategy]] — how to seed product excellence before scaling
 - [[product-launch-seeding-model]] — the execution model for launching product-first
 - [[David]] — brand page with RXBAR and David Protein context
+- [[KetoneIQ]] — brand page with Ketone-IQ context
+- [[tree-trunk-primitive-product-thesis]] — framework for choosing which primitive to build
+- [[military-to-consumer-validation]] — institutional validation as the product-first signal

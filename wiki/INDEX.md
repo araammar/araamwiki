@@ -8,15 +8,15 @@
 
 ## Stats
 
-- **Total brands:** 18
-- **Total concepts:** 207
+- **Total brands:** 19
+- **Total concepts:** 212
 - **Total strategies:** 58
 - **Total ideas:** 28
 - **Total reference pages:** 10
 - **Total products:** 1 product (4 pages)
-- **Total wiki pages:** 326
-- **Source transcripts ingested:** 53+
-- **Ingest operations:** 47 (bulk 40 videos + wiki expansion pass + Drive sync + Dan Martell AI + Orin John Open Residency + Taylor Holiday 2026 E-Commerce Masterclass + Peter Rahal David Protein + Callaway Short-Form Masterclass + Orin John LinkedIn Cursed Opportunity + Pricing Psychology deep re-ingest + Boy Internet deep re-ingest + Brand Archetypes deep re-ingest + Enshittification deep re-ingest + Taste Economy deep re-ingest + Creative Offers deep re-ingest + Art of Yapping deep re-ingest + Hailey Bieber/Rhode deep re-ingest + Japan Branding deep re-ingest + Content Operations deep re-ingest + Internet Splintering deep re-ingest + Apple/Tech Branding deep re-ingest + Marketing Plan 2026 deep re-ingest + 1067 Short-Form deep re-ingest + Psychology of Luxury deep re-ingest + Batch 7 re-ingest)
+- **Total wiki pages:** 332
+- **Source transcripts ingested:** 54+
+- **Ingest operations:** 48 (bulk 40 videos + wiki expansion pass + Drive sync + Dan Martell AI + Orin John Open Residency + Taylor Holiday 2026 E-Commerce Masterclass + Peter Rahal David Protein + Callaway Short-Form Masterclass + Orin John LinkedIn Cursed Opportunity + Pricing Psychology deep re-ingest + Boy Internet deep re-ingest + Brand Archetypes deep re-ingest + Enshittification deep re-ingest + Taste Economy deep re-ingest + Creative Offers deep re-ingest + Art of Yapping deep re-ingest + Hailey Bieber/Rhode deep re-ingest + Japan Branding deep re-ingest + Content Operations deep re-ingest + Internet Splintering deep re-ingest + Apple/Tech Branding deep re-ingest + Marketing Plan 2026 deep re-ingest + 1067 Short-Form deep re-ingest + Psychology of Luxury deep re-ingest + Batch 7 re-ingest)
 
 ---
 
@@ -44,6 +44,7 @@
 | I Am Ath | Danny Yeung's supplement brand; $0→$100M ARR in 11 months; Meta-first paid scale; 1,500-ad creative volume; A-list celebrity partnerships (Sabalenka) | [[IAmAth]] |
 | Groot Hospitality | David Grutman's hospitality empire: LIV, Komodo, Poppy Steak, Strawberry Moon; full-night arc flywheel; venue activation strategy; IP ownership discipline | [[GrootHospitality]] |
 | Cadence | Ross Mackay's sports hydration brand; premium-at-scale model; single-SKU depth strategy; influencer authenticity filter; 3x sales from packaging redesign alone | [[Cadence]] |
+| Ketone-IQ | Michael Brandt's performance nutrition brand; military→elite athlete→consumer arc; Joe Montana fund; tree trunk primitive product thesis; dual-horizon goal framework | [[KetoneIQ]] |
 
 ---
 
@@ -226,6 +227,11 @@
 | Concept | Summary | Page |
 |---------|---------|------|
 | Consumer Surplus Framework | Gap between willingness-to-pay and actual price — when large enough, drives organic advocacy; RXBAR ($600M) and David ($725M) built on this | [[consumer-surplus-framework]] |
+| Human Body as Next Platform | Body-mounted sensors create data layer driving structural demand for performance nutrition; sensor proliferation → curiosity → product demand | [[human-body-as-next-platform]] |
+| Tree Trunk Primitive Product Thesis | Choose innovations fundamental to all 8B people (tree trunk) over fringe/niche (leaf); two diagnostic questions; applied to CPG | [[tree-trunk-primitive-product-thesis]] |
+| Military to Consumer Validation | Three-phase arc: DoD proving ground → elite athletes → specialty retail; military validation as unchallengeable credibility | [[military-to-consumer-validation]] |
+| Dual Horizon Goal Framework | Two simultaneous time horizons: 3-month operational (concrete, ABCs) + 10-year aspirational (galaxy brain); bridging question between them | [[dual-horizon-goal-framework]] |
+| Founder Magic Spark Principle | Identify 1-2 genuine zones of edge; hire smarter than yourself everywhere else; CEO as glue not genius | [[founder-magic-spark-principle]] |
 | Product-First Brand Building | Product > marketing philosophy; three pillars (Product/People/Distribution); RXBAR vs. David strategic opposition; "obvious but true" brand philosophy; paleo trap | [[product-first-brand-building]] |
 
 ### DTC & E-Commerce

@@ -4,6 +4,29 @@
 
 ---
 
+## 2026-05-28 — Michael Brandt / Ketone-IQ Open Residency (5aylzhoVsws)
+
+- **Operation:** DEEP INGEST — Open Residency podcast episode
+- **Guest:** Michael Brandt — co-founder of Ketone-IQ (HVMN); biohacking/performance nutrition
+- **Note:** Jeff Byers episode (5_6sNGZr84Y) unavailable — video no longer accessible
+- **Pages created:** 6 | **Pages updated:** 2
+
+**Pages Created:**
+- `wiki/brands/KetoneIQ.md` — Ketone-IQ brand page; military→athlete→consumer arc; Joe Montana fund; dual-horizon framework
+- `wiki/concepts/human-body-as-next-platform.md` — Body sensors create structural demand for performance nutrition; sensor→curiosity→product mechanism
+- `wiki/concepts/tree-trunk-primitive-product-thesis.md` — Innovations fundamental to all 8B people vs. fringe; two diagnostic questions
+- `wiki/concepts/military-to-consumer-validation.md` — DoD proving ground → elite athletes → specialty retail distribution arc
+- `wiki/concepts/dual-horizon-goal-framework.md` — 3-month operational + 10-year aspirational simultaneous goal horizons
+- `wiki/concepts/founder-magic-spark-principle.md` — Identify 1-2 edge zones; hire smarter everywhere else; CEO as glue not genius
+
+**Pages Updated:**
+- `wiki/strategies/grassroots-distribution-strategy.md` — Ketone-IQ military-to-consumer as third distribution archetype
+- `wiki/concepts/product-first-brand-building.md` — Ketone-IQ as third case study; institutional validation variant (DoD grant)
+
+**Index Updated:** 326 → 332 pages; brands 18 → 19; concepts 207 → 212; operations 47 → 48
+
+---
+
 ## 2026-05-28 — Dan Koe Open Residency (EVDQ1MijHbk)
 
 - **Operation:** DEEP INGEST — Open Residency podcast episode
