@@ -50,4 +50,13 @@ Charli XCX's Brat rollout (reportedly created by Aiden Zamiri, who also worked o
 - The "moment available" principle: when a spectacle moment presents itself (a monoculture event, a major cultural conversation), seize it fully rather than with restraint
 - Brands that do interesting things consistently are defined by the body of interesting work, not by any single spectacle moment
 
-## Related Pages: [[Art Direction as Brand Strategy]], [[Quiet Luxury]], [[Balenciaga]], [[BadBunny]], [[The Rebrand Playbook]]
+## Spectacle Marketing in Hospitality (Grutman Model)
+Groot Hospitality applies spectacle mechanics to the restaurant and nightlife context:
+
+**The $1,000 Steak (Poppy Steak):** A flagship menu item that arrives as a full theatrical production — brought to the table in a beef case with an accompanying show. The price point is not the point; the shareable moment is. Guests who order it photograph and post it. This is a product-as-headline item within the dining context: it doesn't need to sell in high volume; it sells the restaurant's cultural identity and drives earned media.
+
+**The insight:** Spectacle mechanics are not exclusive to fashion or consumer goods. Any category where experiences are delivered in person can deploy a spectacle item or moment that generates organic social content. A menu item, a tableside experience, a venue design element — these can all function as spectacle if designed to be share-worthy and culturally significant.
+
+**The Poppy Steak renovation cycle:** After 7–8 years of operation, Groot closed Poppy Steak for 4 months, invested $4M in renovations, and strategically withheld reservations on re-opening. This is the spectacle mechanics principle applied to a venue refresh: manufactured scarcity + anticipation buildup = cultural re-launch that makes a mature venue feel new and desirable again. "People are dying to go now." Spectacle is not a one-time campaign; it can be engineered on a multi-year cycle.
+
+## Related Pages: [[Art Direction as Brand Strategy]], [[Quiet Luxury]], [[Balenciaga]], [[BadBunny]], [[The Rebrand Playbook]], [[GrootHospitality]], [[hospitality-ecosystem-design]], [[experience-era]]

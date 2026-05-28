@@ -1,6 +1,6 @@
 ---
-tags: [concept, events, brand-activations, experiential-marketing, creator-economy, culture, 2026]
-source_videos: [QAjjOOMgqCs]
+tags: [concept, events, brand-activations, experiential-marketing, creator-economy, culture, 2026, hospitality]
+source_videos: [QAjjOOMgqCs, ZA79UxK_uUg-david-grutman-open-residency]
 last_updated: 2026-05-28
 ---
 
@@ -59,8 +59,20 @@ Experience-era events are also content infrastructure:
 - Hosting experience-era events (even small: a themed dinner where a decision gets made, a mini-competition in your niche) builds credibility and content simultaneously
 - The bar is lower than it looks; a strong concept with minimal production can create a memorable and shareable moment
 
+### Hospitality-Native Experience Design (Grutman Model)
+The hospitality industry at the highest level operationalizes experience-era principles as its core business model. David Grutman (Groot Hospitality) illustrates how multi-venue ecosystems can create total night-arc experiences that go far beyond a single "event gimmick":
+
+- **The $1,000 steak at Poppy Steak** — a theatrical tableside presentation that is explicitly a FOMO-engineered spectacle: guests photograph and share it because it is designed to be shared. This is the product-as-spectacle principle applied to a menu item.
+- **Celebrity gravity as ambient experience** — programming celebrity DJs, athletes, and entertainers into venues transforms the experience from "going to dinner" to "being part of the scene." The experience is not what you eat or drink; it's who is in the room with you.
+- **Venue renovation as re-launch moment** — Poppy Steak was physically closed for 4 months for renovations after 7–8 years, then re-opened with withheld reservations, creating artificial scarcity and a "grand re-opening" cultural moment. The refresh reset the FOMO cycle and made a mature venue feel new again. "Here we are, year seven, eight, and people are dying to go to Poppy Steak now."
+
+The meta-principle: in hospitality, the experience *is* the product — not a wrapper around the product. Operators at this level design the experiential arc (arrival energy, acoustic environment, lighting, meal pacing, theatrical menu items, guest body language) with the same intentionality that DTC brands design packaging.
+
 ## Related Pages
 - [[internet-splintering]] — the macro context making real-life shared experiences more valuable
 - [[trend-velocity-exhaustion]] — the online saturation that makes genuine IRL experiences feel refreshing by contrast
 - [[content-virality-mechanics]] — the mechanics of how in-person events become shareable content
 - [[monoculture-paradox]] — the inverse relationship between online fragmentation and the value of shared cultural moments
+- [[GrootHospitality]] — operator case study; premium hospitality ecosystem as experience-era practitioner
+- [[hospitality-ecosystem-design]] — how full-night arc design extends the experience-era model
+- [[hospitality-operational-obsession]] — the operational discipline that makes experience promises credible

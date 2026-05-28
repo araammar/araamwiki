@@ -8,15 +8,15 @@
 
 ## Stats
 
-- **Total brands:** 16
-- **Total concepts:** 165
-- **Total strategies:** 54
+- **Total brands:** 17
+- **Total concepts:** 175
+- **Total strategies:** 55
 - **Total ideas:** 28
 - **Total reference pages:** 10
 - **Total products:** 1 product (4 pages)
-- **Total wiki pages:** 278
-- **Source transcripts ingested:** 49+
-- **Ingest operations:** 43 (bulk 40 videos + wiki expansion pass + Drive sync + Dan Martell AI + Orin John Open Residency + Taylor Holiday 2026 E-Commerce Masterclass + Peter Rahal David Protein + Callaway Short-Form Masterclass + Orin John LinkedIn Cursed Opportunity + Pricing Psychology deep re-ingest + Boy Internet deep re-ingest + Brand Archetypes deep re-ingest + Enshittification deep re-ingest + Taste Economy deep re-ingest + Creative Offers deep re-ingest + Art of Yapping deep re-ingest + Hailey Bieber/Rhode deep re-ingest + Japan Branding deep re-ingest + Content Operations deep re-ingest + Internet Splintering deep re-ingest + Apple/Tech Branding deep re-ingest + Marketing Plan 2026 deep re-ingest + 1067 Short-Form deep re-ingest + Psychology of Luxury deep re-ingest + Batch 7 re-ingest)
+- **Total wiki pages:** 290
+- **Source transcripts ingested:** 50+
+- **Ingest operations:** 44 (bulk 40 videos + wiki expansion pass + Drive sync + Dan Martell AI + Orin John Open Residency + Taylor Holiday 2026 E-Commerce Masterclass + Peter Rahal David Protein + Callaway Short-Form Masterclass + Orin John LinkedIn Cursed Opportunity + Pricing Psychology deep re-ingest + Boy Internet deep re-ingest + Brand Archetypes deep re-ingest + Enshittification deep re-ingest + Taste Economy deep re-ingest + Creative Offers deep re-ingest + Art of Yapping deep re-ingest + Hailey Bieber/Rhode deep re-ingest + Japan Branding deep re-ingest + Content Operations deep re-ingest + Internet Splintering deep re-ingest + Apple/Tech Branding deep re-ingest + Marketing Plan 2026 deep re-ingest + 1067 Short-Form deep re-ingest + Psychology of Luxury deep re-ingest + Batch 7 re-ingest)
 
 ---
 
@@ -42,6 +42,7 @@
 | Bottega Veneta | Intrecciato weave as logo-replacement signature, artful world traveler setting strategy, Daniel Lee social media deletion era, logo-free luxury tier | [[BottegaVeneta]] |
 | House of Errors | Streetwear brand that set a new benchmark for content quality at launch; content-era brand model; elevated production from day one | [[HouseOfErrors]] |
 | I Am Ath | Danny Yeung's supplement brand; $0→$100M ARR in 11 months; Meta-first paid scale; 1,500-ad creative volume; A-list celebrity partnerships (Sabalenka) | [[IAmAth]] |
+| Groot Hospitality | David Grutman's hospitality empire: LIV, Komodo, Poppy Steak, Strawberry Moon; full-night arc flywheel; venue activation strategy; IP ownership discipline | [[GrootHospitality]] |
 
 ---
 
@@ -83,6 +84,10 @@
 | Logo Hierarchy Participation Architecture | Deliberate three-tier logo system (box logo → sub-logos → no-logo basics) managing scarcity and access simultaneously; Supreme model; B2B and services extension | [[logo-hierarchy-participation-architecture]] |
 | Position Against Strategy | Three positioning types: against one competitor (Grüns vs. AG1), unassailable metric (David), name-as-strategy (Satoshi Nakamoto); price game trap | [[position-against-strategy]] |
 | Celebrity Brand Accessibility Strategy | Luxury quality at accessible price point; Jason Tatum / Onside model; fan-can't-afford-Tom-Ford gap; Target exclusivity for full end caps | [[celebrity-brand-accessibility-strategy]] |
+| Brand Lane Discipline | "People want it; they just don't want it from me" — Winkers/Key Club failures; going below your tier confuses core audience without attracting a new one | [[brand-lane-discipline]] |
+| IP Ownership Discipline | Real wealth is at exit, not annual earnings; Komodo holdco mistake; never build where someone else controls the exit multiple | [[ip-ownership-discipline]] |
+| Valuation Discipline (Consumer Brands) | Consumer brands rarely sell above $1B; must be up-and-to-the-right until exit; down round mechanics; Gloss Lab failure; entry timing problem | [[valuation-discipline-consumer-brands]] |
+| Relationship Coupon Model | Deep genuine relationships accumulate rare callable favors; Jony Ive book cover story; over-delivery + non-transactional generosity as coupon-building mechanism | [[relationship-coupon-model]] |
 | Low Price Market Disruption | Targeting the ignored value tier nobody premium brands want; 3D Energy / Venom-NOS tier; blue-collar distribution; "can't cash cool" | [[low-price-market-disruption]] |
 
 ### Consumer Psychology & Behavior
@@ -128,6 +133,9 @@
 | Friend.com Campaign | $1M NYC subway engineered controversy; white-space-to-graffiti mechanic; Heineken response dynamic; marketer-to-marketer earned media | [[friend-com-campaign]] |
 | Viral Moment Retail Arbitrage | Converting organic social virality into physical retail leverage; Saratoga Water model; social impression data as demand velocity proof for buyers | [[viral-moment-retail-arbitrage]] |
 | Experience Era | Audiences expect live events to have a concept gimmick; Expo West "America's Next Top Snacks"; IRL-to-content flywheel; concept > production budget | [[experience-era]] |
+| Hospitality Ecosystem Design | Full-night arc flywheel (dinner → lounge → club); restaurants as nightclub marketing; owning multiple touchpoints prevents guest loss and compounds cultural gravity | [[hospitality-ecosystem-design]] |
+| Venue Activation Strategy | Making cold areas hot through brand programming; activation track record inverts landlord leverage; extends to platform and category activation | [[venue-activation-strategy]] |
+| Hospitality Operational Obsession | Full venue entry checklist: lights, room energy, guest body language, table management, meal pacing, real-time social scanning; acoustics and lighting as non-negotiables | [[hospitality-operational-obsession]] |
 | Gen Alpha Brand Relevance | Legacy brands face existential relevance gap with Gen Alpha; 3-year streaming awareness investment thesis; Jake Paul/W model | [[gen-alpha-brand-relevance]] |
 | Post-Masterclass Information Economy | Information monetization window for workshops/cohorts/memberships in middle-of-bell-curve categories; AI didn't kill paid learning | [[post-masterclass-information-economy]] |
 | Prediction Markets as Information Economy | Polymarket/Kalshi as Stage 1 of information asymmetry being formally priced; Super Bowl/Anthropic betting example; Stage 2 implications | [[prediction-markets-as-information-economy]] |
@@ -267,6 +275,9 @@
 | CEO Delegation Framework | Dom's multi-company operating philosophy: define mission, let teams lead, 80/20 mistake rule, hire for hunger under $100M / skill above | [[ceo-delegation-framework]] |
 | CPG Brand House Model | Multiple brands under one holding company: distribution flywheel, athlete/influencer flywheel, team isolation, anti-cannibalization mandate | [[cpg-brand-house-model]] |
 | Lean Business Bootstrapping | No-debt, distributions-not-salary model; 20% EBITDA reinvestment threshold; warehouse heat mapping as $7-figure logistics win; RAW to $200M with zero debt | [[lean-business-bootstrapping]] |
+| Lease vs Management Deal Portfolio | Deliberate mix of owned leases (enterprise value / IP ownership) vs. management deals (cash flow, no capital risk); when each is appropriate | [[lease-vs-management-deal-portfolio]] |
+| Investor Value-Add Model | "Most valuable investor" philosophy; proof-first approach; three channels: celebrity intros, venue/distribution integration, cross-portfolio collaboration; valuation red flags | [[investor-value-add-model]] |
+| Cross-Portfolio Brand Collaboration | Shared investor facilitates portfolio brand collaborations; trust/negotiation friction collapses; Symbiotica × Coconut Cultures model; portfolio-as-ecosystem | [[cross-portfolio-brand-collaboration]] |
 | Proactive vs Reactive Leadership | Core hiring filter for multi-company leadership; healthy C-suite debate culture; finance-sees-everything-first cadence | [[proactive-vs-reactive-leadership]] |
 | Franchise Business Model (CPG) | Relive Health franchise arc: 600 sq ft to 40+ locations; Orange Theory founder validation; 30x EBITDA franchise multiple; Revive/Relive consumer lifecycle flywheel | [[franchise-business-model-cpg]] |
 | Offer Architecture | The "I do X for Y at Z" formula, the three differentiators, offer stacking, two-tier pricing, VSL layer, offer/content alignment | [[offer-architecture]] |
@@ -319,6 +330,7 @@
 | Viral Content Playbook | The six virality mechanics with activation tactics for each | [[viral-content-playbook]] |
 | Content Lift Impact Matrix | Lift/impact rubric for content decisions; four-pillar topic management; format vs. topic portfolio split; 20-post allocation model; Iconic 45-day tranche revenue data | [[content-lift-impact-matrix]] |
 | Founder-Led Speed Operating Model | Founder deep-in-weeds mandate; decision compression; 24/7 accessibility; ambitious wolf hiring filter; social proof ladder for early days | [[founder-led-speed-operating-model]] |
+| Hospitality Empire Building | Full 5-phase playbook: operator credibility → anchor venue with IP discipline → ecosystem expansion → cultural relevance maintenance → investor/venture layer | [[hospitality-empire-building]] |
 
 ### Creator Economy
 

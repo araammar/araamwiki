@@ -4,6 +4,35 @@
 
 ---
 
+## 2026-05-28 — David Grutman Open Residency (ZA79UxK_uUg)
+
+- **Operation:** DEEP INGEST — Open Residency podcast episode
+- **Guest:** David Grutman — founder of Groot Hospitality (LIV, Komodo, Poppy Steak, Strawberry Moon); hospitality empire builder
+- **Pages created:** 12 | **Pages updated:** 3
+
+**Pages Created:**
+- `wiki/brands/GrootHospitality.md` — Groot Hospitality empire: LIV, Komodo, Poppy Steak; full-night arc flywheel; portfolio voice/strategy
+- `wiki/concepts/hospitality-ecosystem-design.md` — Full-night arc flywheel; restaurants as nightclub marketing; multi-touchpoint cultural gravity
+- `wiki/concepts/lease-vs-management-deal-portfolio.md` — Owned leases vs. management deals; IP ownership vs. cash flow tradeoff
+- `wiki/concepts/ip-ownership-discipline.md` — Real wealth at exit; Komodo holdco mistake; never build where someone else controls the exit multiple
+- `wiki/concepts/venue-activation-strategy.md` — Making cold areas hot; activation track record inverts landlord leverage
+- `wiki/concepts/hospitality-operational-obsession.md` — Full venue entry checklist; acoustics and lighting as non-negotiables
+- `wiki/concepts/brand-lane-discipline.md` — "People want it; they just don't want it from me"; Winkers/Key Club failures as canon
+- `wiki/concepts/investor-value-add-model.md` — "Most valuable investor" philosophy; three channels; proof-first approach
+- `wiki/concepts/cross-portfolio-brand-collaboration.md` — Shared investor collapses collaboration friction; Symbiotica × Coconut Cultures model
+- `wiki/concepts/valuation-discipline-consumer-brands.md` — Consumer brands rarely above $1B; Gloss Lab failure; entry timing problem
+- `wiki/concepts/relationship-coupon-model.md` — Genuine relationships accumulate callable favors; Jony Ive story; over-delivery as coupon-building
+- `wiki/strategies/hospitality-empire-building.md` — Full 5-phase playbook: operator credibility → IP discipline → ecosystem → cultural relevance → venture layer
+
+**Pages Updated:**
+- `wiki/concepts/experience-era.md` — $1,000 steak as spectacle product; Poppy Steak re-launch as manufactured cultural moment
+- `wiki/concepts/spectacle-marketing.md` — Groot Hospitality section; multi-year renovation cycle as spectacle re-engineering
+- `wiki/concepts/celebrity-partnership-architecture.md` — Hospitality as trust-bridge; Grutman Symbiotica intro model; pre-trusted introductions
+
+**Index Updated:** 278 → 290 pages; brands 16 → 17; concepts 165 → 175; strategies 54 → 55; operations 43 → 44
+
+---
+
 ## 2026-05-28 — Danny Yeung Open Residency (xE_algbPrwQ)
 
 - **Operation:** DEEP INGEST — Open Residency podcast episode
