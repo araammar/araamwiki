@@ -79,3 +79,4 @@ A specific form of group think: the shared belief that conditions need to improv
 - [[the-taste-paradox]]
 - [[identity-and-creative-work]]
 - [[identity-change-framework]]
+- [[competitive-drive-as-creative-engine]]

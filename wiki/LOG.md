@@ -4,6 +4,34 @@
 
 ---
 
+## 2026-05-28 — Re-Ingest Batch 6 (5 videos)
+
+- **Operation:** DEEP RE-INGEST (batch)
+- **Videos:** Q4-rF3kQsvc · C1K5E--EHhM · Li-M7A7-plk · c936_pCbgxQ · qviOuXlHYG0
+- **Method:** 5 parallel agents; [EXISTS]/[NEW]/[SKIP] tagging
+- **Pages created:** 5 | **Pages updated:** 8
+
+**Pages Created:**
+- `wiki/concepts/three-lever-product-decision-framework.md` — Performance/look/cost diagnostic; incumbents' abandoned lever; Beast, Fellow, Arcteryx challengers
+- `wiki/concepts/competitive-drive-as-creative-engine.md` — Jordan manufactured-scenario model; Parkinson's Law as commitment device
+- `wiki/concepts/friend-com-campaign.md` — $1M NYC subway engineered controversy; white-space-to-graffiti; Heineken response; earned media layers
+- `wiki/concepts/competitor-contrast-effect.md` — Competitor failure as amplification multiplier; "always have pipeline" principle
+- `wiki/concepts/viral-moment-retail-arbitrage.md` — Saratoga Water tactic; social data as retail demand proof; zero-cost shelf expansion
+
+**Pages Updated:**
+- `wiki/concepts/the-downfall-of-old-luxury.md` — Arcteryx cautionary arc, size of prize math, alternative bag market (Marne/Sevet/Caperne)
+- `wiki/strategies/viral-content-playbook.md` — Executive Conversation Tool framing + 2026 emotion trend + expert examples
+- `wiki/brands/VirgilAblohOffWhite.md` — Been Trill expanded + Nike The Ten cultural commentary + Alessi case study
+- `wiki/concepts/dark-psychology-of-creatives.md` — Pattern 6 expanded + North Star section
+- `wiki/concepts/creative-self-sabotage.md` — Parkinson's Law/deliberate overloading mechanism
+- `wiki/concepts/group-think-in-creative-industries.md` — Cross-links updated
+- `wiki/concepts/the-taste-paradox.md` — Cross-links updated
+- `wiki/concepts/worst-marketing-patterns.md` — Major expansion: Arcteryx, Burberry Weather, luxury AI conundrum, Claude OOH, Elf internal-warning detail, Saratoga, Duolingo collapse mechanics, Friend.com summary
+
+**Index Updated:** 218 → 223 pages; concepts 113 → 118; operations 34 → 39
+
+---
+
 ## 2026-05-28 — Re-Ingest Batch 5 (5 videos)
 
 - **Operation:** DEEP RE-INGEST (batch)

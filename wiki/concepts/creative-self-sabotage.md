@@ -61,9 +61,10 @@ What does not work:
 
 What creates movement:
 - Naming specific behaviors as sabotage without excuse
-- Embracing competitive drive as a legitimate motivator ("it's okay to want to win")
-- Overloading your schedule so inaction becomes harder than action: "Tasks expand to fill the time on hand"
+- Embracing competitive drive as a legitimate motivator ("it's okay to want to win") — see [[competitive-drive-as-creative-engine]]
+- **Deliberate overloading (Parkinson's Law applied):** Tasks expand to fill the time available, so the antidote to inaction is not clearing the schedule — it is signing up for more than you can do. The host: "I sign up for way too much... I never am at the end of my list. I never hit the goal thing at the end of the day. But you know what I do get done? Like 10X more than I ever thought was humanly possible because I'm attempting to do so much." The discomfort of being behind is more productive than the comfort of having a manageable list.
 - Using physical friction — "the brick" — to reduce access to numbing behaviors (turning off the phone, leaving it in another room)
+- Relentless list-making (physical and digital), with rough time assignments — not for completion, but for forward motion on multiple fronts simultaneously
 
 ## Key Insights
 

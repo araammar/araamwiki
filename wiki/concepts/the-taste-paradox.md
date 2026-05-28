@@ -73,3 +73,4 @@ Comparing your output to the work you admire most — which is often the most re
 - [[group-think-in-creative-industries]]
 - [[identity-change-framework]]
 - [[on-camera-confidence-framework]]
+- [[competitive-drive-as-creative-engine]]

@@ -10,14 +10,15 @@
 
 - **Total brands:** 9
 - **Total brands:** 10
-- **Total concepts:** 113
+- **Total brands:** 10
+- **Total concepts:** 118
 - **Total strategies:** 52
 - **Total ideas:** 28
 - **Total reference pages:** 10
 - **Total products:** 1 product (4 pages)
-- **Total wiki pages:** 218
+- **Total wiki pages:** 223
 - **Source transcripts ingested:** 46+
-- **Ingest operations:** 34 (bulk 40 videos + wiki expansion pass + Drive sync + Dan Martell AI + Orin John Open Residency + Taylor Holiday 2026 E-Commerce Masterclass + Peter Rahal David Protein + Callaway Short-Form Masterclass + Orin John LinkedIn Cursed Opportunity + Pricing Psychology deep re-ingest + Boy Internet deep re-ingest + Brand Archetypes deep re-ingest + Enshittification deep re-ingest + Taste Economy deep re-ingest + Creative Offers deep re-ingest + Art of Yapping deep re-ingest + Hailey Bieber/Rhode deep re-ingest + Japan Branding deep re-ingest + Content Operations deep re-ingest + Internet Splintering deep re-ingest + Apple/Tech Branding deep re-ingest + Marketing Plan 2026 deep re-ingest + 1067 Short-Form deep re-ingest + Psychology of Luxury deep re-ingest)
+- **Ingest operations:** 39 (bulk 40 videos + wiki expansion pass + Drive sync + Dan Martell AI + Orin John Open Residency + Taylor Holiday 2026 E-Commerce Masterclass + Peter Rahal David Protein + Callaway Short-Form Masterclass + Orin John LinkedIn Cursed Opportunity + Pricing Psychology deep re-ingest + Boy Internet deep re-ingest + Brand Archetypes deep re-ingest + Enshittification deep re-ingest + Taste Economy deep re-ingest + Creative Offers deep re-ingest + Art of Yapping deep re-ingest + Hailey Bieber/Rhode deep re-ingest + Japan Branding deep re-ingest + Content Operations deep re-ingest + Internet Splintering deep re-ingest + Apple/Tech Branding deep re-ingest + Marketing Plan 2026 deep re-ingest + 1067 Short-Form deep re-ingest + Psychology of Luxury deep re-ingest)
 
 ---
 
@@ -50,7 +51,9 @@
 |---------|---------|------|
 | Art Direction as Brand Strategy | How visual identity and creative direction become the primary brand-building tool | [[art-direction-as-brand-strategy]] |
 | Brand Artifacts and Lore | Physical objects that extend brand identity and create cultural lore; Anduril Game Boys, TBPN guest merch, Rhode phone case; material storytelling principle | [[brand-artifacts-and-lore]] |
+| Competitor Contrast Effect | A competitor's failure creates a measurable amplification multiplier for brands with good work in pipeline; "always have pipeline" principle | [[competitor-contrast-effect]] |
 | Counterposition for Personalities | Category code audit for musicians/creators/founders; Bad Bunny, Tyler, Billie Eilish, guru counter-signaling; repositioning against yourself | [[counterposition-for-personalities]] |
+| Three-Lever Product Decision Framework | Performance/look/cost diagnostic for finding incumbents' abandoned lever; Beast, Fellow, Arcteryx challengers as examples | [[three-lever-product-decision-framework]] |
 | Hybrid Brand Fusion | Combining two authentic cultural reference worlds as differentiation; Kapital (Americana + Japanese craft), Noah, next-generation brand differentiation | [[hybrid-brand-fusion]] |
 | Creative Bravery | Real creative risk vs. calculated stunt; 10-year vision test; Bad Bunny drag, Tyler provocations, Charli XCX abrasion | [[creative-bravery]] |
 | Cultural Authenticity at Scale | "Pop comes to us" mantra; Bad Bunny/BTS proof; depth-before-width sequence; language-is-not-a-barrier principle | [[cultural-authenticity-at-scale]] |
@@ -110,6 +113,8 @@
 | Answer Engine Optimization (AEO) | 60% of searches end without a click; how to appear when AI systems recommend brands in your category; visibility score, Reddit strategy, category clarity | [[answer-engine-optimization]] |
 | Content Positioning Pyramid | Position > content — credibility stack, one-sentence position statement, niche specificity | [[content-positioning-pyramid]] |
 | Content Virality Mechanics | The six ways brands go viral — a full mechanical breakdown | [[content-virality-mechanics]] |
+| Friend.com Campaign | $1M NYC subway engineered controversy; white-space-to-graffiti mechanic; Heineken response dynamic; marketer-to-marketer earned media | [[friend-com-campaign]] |
+| Viral Moment Retail Arbitrage | Converting organic social virality into physical retail leverage; Saratoga Water model; social impression data as demand velocity proof for buyers | [[viral-moment-retail-arbitrage]] |
 | Experience Era | Audiences expect live events to have a concept gimmick; Expo West "America's Next Top Snacks"; IRL-to-content flywheel; concept > production budget | [[experience-era]] |
 | Gen Alpha Brand Relevance | Legacy brands face existential relevance gap with Gen Alpha; 3-year streaming awareness investment thesis; Jake Paul/W model | [[gen-alpha-brand-relevance]] |
 | Post-Masterclass Information Economy | Information monetization window for workshops/cohorts/memberships in middle-of-bell-curve categories; AI didn't kill paid learning | [[post-masterclass-information-economy]] |
@@ -203,6 +208,7 @@
 | Concept | Summary | Page |
 |---------|---------|------|
 | Communication as a Life Skill | Four questions of communicating well, the idea-workshopping loop, why content-making sharpens all communication | [[communication-as-a-life-skill]] |
+| Competitive Drive as Creative Engine | Using competitive instinct as antidote to inaction; Michael Jordan manufactured-scenario model; Parkinson's Law overloading as commitment device | [[competitive-drive-as-creative-engine]] |
 | Creative Self-Sabotage | Six named patterns (Ceiling Collapse, Justified Distraction, Inaction Loop, Stolen Idea Trap, Taste Masquerade, Organic Discovery Trap) and the comfort-level-ceiling mechanism | [[creative-self-sabotage]] |
 | Group Think in Creative Industries | Three-phase enforcement mechanism, four named patterns, the AI-in-creative-work case study, how to stay outside the herd | [[group-think-in-creative-industries]] |
 | Identity and Creative Work | Identity as a predictive model, five-step deliberate change mechanism, five named patterns (Identity Ceiling, Frozen Self, Comfort-Group Anchor, etc.) | [[identity-and-creative-work]] |

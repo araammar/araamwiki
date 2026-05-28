@@ -15,6 +15,9 @@ A definitive framework for how brands go viral on short-form video platforms (Ti
 - When briefing leadership or executives on what virality actually requires and costs
 - When deciding how to allocate creative budget for content production
 
+## The Executive Conversation Tool
+This framework was designed to be sent directly to bosses and executive teams. Instead of the indefinite "how do we go viral?" loop, the six methods give a team a concrete decision menu: "Here are the six things we can choose from. We need to pick one, take at least ten shots at it over the next quarter, and revise on hook rate and share rate each time." The framework converts a vague request into a structured resource allocation decision.
+
 ## The Two Metrics That Matter
 Before the six methods, know the only analytics worth obsessing over:
 
@@ -60,12 +63,15 @@ Optimize both. Ask these questions every time you iterate: "What are we doing to
 
 **Best for:** Brands with existing shoot budgets who want to redirect that investment toward social-native output.
 
+**2026 content trend — emotion and heat:** The next wave of social-first art direction is trending toward emotional and sensual content. Victoria's Secret traditional Angels are returning. Diesel is running campaigns with high physical intensity (thigh-grabbing, city rooftop energy). The internet rewards emotion — content that makes people feel buzzed, attracted, excited — and social-native creative directors are leaning into this. Brands that were avoiding that tension for safety are now at a disadvantage.
+
 **Examples:**
 - The Ordinary: Full-scale social-first campaign on skincare concepts — art directed for feed, not TV
 - Rains: Board game series (Stratego, crossword, guessing games) shot on white background — conceptual, recognizable, batchable
-- Diesel: Jib shot content in extraordinary locations — even the director's personal post outperforms standard campaigns
-- Jacob & Co: Chameleon moving across watches and shifting colors — 2025's best piece of content by many measures
+- Diesel: Jib shot content in extraordinary locations — even the director's personal post (60K likes) outperforms standard campaigns; leading the emotion-first trend
+- Jacob & Co: Chameleon moving across watches and shifting colors — among the best pieces of social content in 2025
 - Patrick Ta "The Menu": Food-as-makeup concept, full set design, episodic reveal structure
+- Burberry, Ferragamo, luxury brands: Waking up to social-first art direction — momentum is building across the category
 
 ### Method 4 — Expert Content
 **What it is:** A credible person on camera delivering viral takes, excellent explainers, or ranking/rating videos within a category. The expert is the product, or represents the product's world.
@@ -79,7 +85,9 @@ Optimize both. Ask these questions every time you iterate: "What are we doing to
 **Examples:**
 - Cut 30 dentist: 1.6M views ranking common dental products — first video ever made
 - Cut 30 baker: Equally viral with the same ranking format in a different category
-- Craig Hill (designer objects): Story-driven design breakdowns — hinge history, material choices, aesthetic decisions
+- Cut 30 roofing company grad: Ranking/rating format applied to roof siding — proof the format works in unexpected B2C service categories
+- Cut 30 jewelry brand grad: Went "silly viral" with expert format in the jewelry category
+- Craig Hill (designer objects): Story-driven design breakdowns — hinge history, material choices, aesthetic decisions. Small social team doing a lot of pre-writing/concepting; not reinventing camera setups, just telling good stories in a satisfying aesthetic way.
 - Vintage luxury resale brand: Expert woman on camera explaining Chanel bag history and fashion context, simple white background setup
 - Fiber supplement founder: Hoodie, casual, top 5 high-fiber fruits — no production, all expertise
 
