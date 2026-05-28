@@ -385,4 +385,38 @@ All 24 new pages + updated INDEX uploaded to Drive. New INDEX Drive ID: 1gXv1L_b
 
 ---
 
+---
+
+## 2026-05-27 — Ingest: Orin John — LinkedIn Cursed Opportunity
+
+- **Operation:** INGEST
+- **Source:** YouTube — Orin John (Orin Meets World), "The Cursed Opportunity of LinkedIn" (https://www.youtube.com/watch?v=HtUiaOX12ls) — 640 segments, ~4,800 words, 4 chunks
+- **Speaker:** Orin John — creative operator, marketing/brand/product leader, creator
+- **Previous total:** 164 pages
+- **New total:** 171 pages (+7 new pages, +2 existing pages updated)
+
+### Pages Created (7)
+
+**Concepts (6)**
+- wiki/concepts/linkedin-platform-strategy.md — Overview: cursed opportunity thesis, video plays vs. impressions, bottom-of-funnel closer mechanic, Three Personas (Creator/Brand/Employee), Company Cohort Effect
+- wiki/concepts/linkedin-cursed-opportunity.md — LinkedIn's cringe/bad UX reduces competition; vacuum rule; professional stakes; why surface negatives = strategic opportunity
+- wiki/concepts/linkedin-impression-inflation.md — Carousel phantom impressions vs. plays as real metric; at-work consumption behavior; how to read LinkedIn analytics
+- wiki/concepts/linkedin-bottom-of-funnel-closer.md — LinkedIn as closing layer for creators; professional context removes DM awkwardness; cross-posting as minimum viable strategy
+- wiki/concepts/the-steve-role.md — Non-founder employee as brand LinkedIn correspondent; personal pages ~13x brand page reach; how to identify and activate your Steve
+- wiki/concepts/linkedin-lens-framework.md — Fixed expertise filter permanently solving "what do I post?"; social-first onboarding (3-5 comments/week); Company Cohort Effect as free amplifier
+
+**Strategies (1)**
+- wiki/strategies/linkedin-brand-playbook.md — Chlorophyll Water cheerleading strategy; Steve Role operational details; Corell Water founder-as-distributor model; Lens Framework; social-first onboarding; brand vs. personal page exception logic
+
+### Pages Updated (2)
+- wiki/strategies/linkedin-content-strategy-2026.md — Added LinkedIn Platform Context section: Company Cohort Effect, brand account exception, Three Personas summary, plays-not-impressions rule, cross-posting strategy
+- wiki/concepts/creator-first-brand-strategy.md — Added LinkedIn as Closing Layer section
+
+### INDEX.md Updated
+- Stats: 75 concepts, 48 strategies, 171 total pages
+- New concept subcategory added: "LinkedIn" (6 pages)
+- LinkedIn Brand Playbook added to Marketing & Campaigns strategies
+
+---
+
 *Next ingest: drop a file into /raw and say `ingest [filename]`*

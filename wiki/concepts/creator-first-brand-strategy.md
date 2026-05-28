@@ -80,6 +80,12 @@ A format you find aesthetically unpleasant may be exactly what your customer eng
 
 ---
 
+## LinkedIn as the Closing Layer
+
+Creator-first distribution typically runs on Instagram and TikTok — but the deals those channels generate often close somewhere else. LinkedIn functions as the bottom-of-funnel closing layer for creators: potential clients, sponsors, and partners who discover a creator on Instagram or TikTok feel more comfortable making a business inquiry via LinkedIn, where the professional context removes the social friction of a personal-app DM. Reaching out from a work account carries different weight than an Instagram DM. For creators in marketing, business, and B2B-adjacent niches, cross-posting existing content to LinkedIn converts existing reach on other platforms into inbound business without requiring any additional content creation. The content already exists — LinkedIn provides the professional surface where the inquiry gets made. See [[linkedin-platform-strategy]] for the full mechanics of this funnel layer.
+
+---
+
 ## What to Steal
 
 Before building the creator program, answer: What do 50 creators posting about my brand weekly look like? What formats? What briefs? What incentive structure? Work backwards from the fully running program to figure out what needs to be built today. The brands that underperform start by hiring one creator manager and treating it as an experiment. The brands that win treat it as infrastructure from day one.
@@ -92,3 +98,4 @@ Before building the creator program, answer: What do 50 creators posting about m
 - [[affiliate-creator-program-strategy]] — the operational system for building the creator tier
 - [[viral-organic-content-formats]] — the formats that perform in creator-first programs
 - [[tiktok-shop-affiliate-model]] — the commerce layer on top of creator-first strategy
+- [[linkedin-platform-strategy]] — LinkedIn as the bottom-of-funnel closing layer for creator-built reach

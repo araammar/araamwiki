@@ -105,3 +105,26 @@ After the golden window, LinkedIn routes the post to users who have engaged with
 - [[linkedin-post-tool]] — CLI tool for generating posts using this strategy
 - [[content-positioning-pyramid]] — strategic layer that determines what to post about
 - [[colandify-prelaunch-content-strategy]] — applied LinkedIn strategy for Colandify launch
+- [[linkedin-platform-strategy]] — WHY and HOW to use LinkedIn; personas, bottom-of-funnel mechanics, impression inflation
+- [[linkedin-brand-playbook]] — operational brand-side playbook: Steve Role, cheerleading, Lens Framework, cohort effect
+
+---
+
+## LinkedIn Platform Context (from Orin John)
+
+Additional strategic context from Orin John's LinkedIn deep-dive (video HtUiaOX12ls), layered on top of the algorithm mechanics above.
+
+**Company Cohort Effect — internal team engagement as free algorithmic amplifier**
+When multiple employees post about the company, tag the brand page, and engage with each other's content, LinkedIn's algorithm treats this as a strong collective signal and amplifies all of them. This is the legitimate organic version of an engagement pod — internally driven, algorithmically blessed, and free. "A lot of the companies that do well on there is because there's a high engagement level between their team members and the actual content that they're producing as a brand." Building a simple internal protocol for team members to engage with brand LinkedIn content compounds reach without paid spend.
+
+**Brand account exception — when personal pages don't have to do all the work**
+The default rule (personal profiles get 13x more reach than brand accounts) has a specific exception: when a brand has built a significant following, has a dedicated social team, or — most importantly — has activated the Company Cohort Effect. Brand accounts perform when they are the hub that personal posts orbit and tag, not when they broadcast as standalone channels. A brand account with no internal cohort is a broadcast with near-zero distribution.
+
+**The Three Personas — brief summary**
+LinkedIn strategy differs by role. Orin John identifies three distinct use cases, each with a matching strategy: (1) Creator — cross-post existing content for bottom-of-funnel business inbound; (2) Brand — assign The Steve Role or founder defaults into it, post consumer content on personal pages; (3) Employee — use Contribution Posts and Lens Posts while being genuinely social. See [[linkedin-platform-strategy]] for the full breakdown of all three.
+
+**Plays, not impressions — the video metric rule**
+LinkedIn's desktop video carousel displays multiple videos continuously and counts each appearance as an impression, whether the video plays or not. Impression counts are largely phantom. The only metric worth tracking for LinkedIn video is plays — someone who actually clicked and watched. Most creators misread their own video performance by trusting impression counts.
+
+**Cross-posting as a valid low-effort strategy**
+For creators and brand operators already active on Instagram or TikTok, cross-posting existing content to LinkedIn is a legitimate minimum viable strategy. You do not need to create LinkedIn-native content to benefit from the platform. The primary value for creators is bottom-of-funnel closing — people who discover you on other platforms use LinkedIn to make professional inquiries. Cross-posting provides the presence that makes that closing possible.

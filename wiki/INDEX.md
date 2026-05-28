@@ -9,14 +9,14 @@
 ## Stats
 
 - **Total brands:** 9
-- **Total concepts:** 69
-- **Total strategies:** 47
+- **Total concepts:** 75
+- **Total strategies:** 48
 - **Total ideas:** 28
 - **Total reference pages:** 7
 - **Total products:** 1 product (4 pages)
-- **Total wiki pages:** 164
-- **Source transcripts ingested:** 45+
-- **Ingest operations:** 8 (bulk 40 videos + wiki expansion pass + Drive sync + Dan Martell AI + Orin John Open Residency + Taylor Holiday 2026 E-Commerce Masterclass + Peter Rahal David Protein + Callaway Short-Form Masterclass)
+- **Total wiki pages:** 171
+- **Source transcripts ingested:** 46+
+- **Ingest operations:** 9 (bulk 40 videos + wiki expansion pass + Drive sync + Dan Martell AI + Orin John Open Residency + Taylor Holiday 2026 E-Commerce Masterclass + Peter Rahal David Protein + Callaway Short-Form Masterclass + Orin John LinkedIn Cursed Opportunity)
 
 ---
 
@@ -91,6 +91,17 @@
 | The Future of Marketing | What's changing in marketing and why — the macro shifts no one is talking about | [[the-future-of-marketing]] |
 | Value vs Entertainment Framework | Two-path framework: bookmarkable expert content vs personality-driven entertainment | [[value-vs-entertainment-content-framework]] |
 | Worst Marketing Patterns | Anti-patterns and failures from real 2025 examples — what to never do | [[worst-marketing-patterns]] |
+
+### LinkedIn
+
+| Concept | Summary | Page |
+|---------|---------|------|
+| LinkedIn Platform Strategy | Why and how to use LinkedIn; cursed opportunity thesis; Three Personas (Creator/Brand/Employee); Company Cohort Effect; plays vs. impressions; bottom-of-funnel closer mechanic | [[linkedin-platform-strategy]] |
+| LinkedIn Cursed Opportunity | LinkedIn's cringe/bad UX reduces competition — the surface negatives are exactly why it's worth using; vacuum rule; professional stakes | [[linkedin-cursed-opportunity]] |
+| LinkedIn Impression Inflation | Video impressions are phantom (carousel display ≠ view); plays are the only real metric; how to actually read LinkedIn analytics | [[linkedin-impression-inflation]] |
+| LinkedIn Bottom-of-Funnel Closer | LinkedIn's primary creator value is closing people who discovered you on other platforms; professional context removes DM awkwardness; cross-posting as minimum viable strategy | [[linkedin-bottom-of-funnel-closer]] |
+| The Steve Role | Non-founder employee who acts as brand's personal LinkedIn correspondent; personal pages outperform brand pages ~13x; how to identify and activate your Steve | [[the-steve-role]] |
+| LinkedIn Lens Framework | Fixed expertise filter applied to industry events — permanently solves "what do I post?"; social-first onboarding (3-5 comments/week before posting); Company Cohort Effect | [[linkedin-lens-framework]] |
 
 ### Creator Systems & Platform Intelligence
 
@@ -202,6 +213,7 @@
 | Colandify Pre-Launch Content Strategy | Media-company model pre-launch: 3-phase plan, ICP targeting, channel strategy, weekly KPIs | [[colandify-prelaunch-content-strategy]] |
 | Content Operations Playbook | How to build and structure a marketing team in 2026 | [[content-operations-playbook]] |
 | LinkedIn Content Strategy 2026 | Depth Score algorithm, engagement hierarchy, what died, what's winning, 70/30 posting rule | [[linkedin-content-strategy-2026]] |
+| LinkedIn Brand Playbook | Operational brand-side LinkedIn: cheerleading strategy (Chlorophyll Water), Steve Role, founder-as-distributor (Corell Water), Lens Framework, social-first onboarding, brand vs. personal page | [[linkedin-brand-playbook]] |
 | Marketing Campaign Masterclass | Full art of the campaign — strategy, creative, execution, measurement | [[marketing-campaign-masterclass]] |
 | Marketing Plan Framework 2026 | The complete 2026 marketing plan structure, step by step | [[marketing-plan-framework-2026]] |
 | Viral Content Playbook | The six virality mechanics with activation tactics for each | [[viral-content-playbook]] |
