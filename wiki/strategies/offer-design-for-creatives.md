@@ -165,3 +165,4 @@ An offer that works looks like:
 The benchmark from the transcript: "One thing I can buy. He does landing pages. I know anytime I need a landing page in Framer that I want to look good, I can go to him." The buyer has no ambiguity. The seller has predictable, recurring demand.
 
 ## Related Concepts: [[offer-architecture]], [[value-and-pricing-philosophy]], [[creative-business-models-2026]], [[lessons-from-1000-hours-of-content]]
+## Related Reference: [[framer]]

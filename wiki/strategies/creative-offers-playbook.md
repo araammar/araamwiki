@@ -72,3 +72,4 @@ Store all leads, past clients, and non-converted inquiries in a CRM. Email them 
 
 ## Related Concepts: [[Creator Economy in 2026]]
 ## Related Strategies: [[Short-Form Video That Makes Money]], [[Personal Branding Full Playbook]], [[Making Money as a Creative 2026]]
+## Related Reference: [[framer]]

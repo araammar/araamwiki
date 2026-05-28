@@ -4,6 +4,32 @@
 
 ---
 
+## 2026-05-28 — Re-Ingest Batch 2 (5 videos)
+
+- **Operation:** DEEP RE-INGEST (batch)
+- **Videos:** vHaJu1ExBdg · CS0A4hJfcy4 · bpjukyNSjpw · Q6m5-kYTcfM · IdmtqdoZTBA
+- **Method:** 5 parallel agents, one per video; [EXISTS]/[NEW]/[SKIP] tagging
+- **Pages created:** 5 | **Pages updated:** 6
+
+**Pages Created:**
+- `wiki/reference/framer.md` — Framer website builder: portfolio sites, offer pages, VSL funnels, Contra companion
+- `wiki/concepts/video-literacy-as-professional-competency.md` — Video as baseline professional competency for all marketers; 4-mechanic attention complex model; competency floor
+- `wiki/concepts/content-squad-era.md` — 2026 squad/TV-show content paradigm; three-phase evolution arc; mutual amplification; scaling model
+- `wiki/concepts/content-anchors-framework.md` — Five anchor types (Fame/Influence/Story/Production Element/Events); decision table; per-anchor use cases
+- `wiki/concepts/brand-trust-category-expansion.md` — Brand trust as transferable category expansion capital; Muji model; Graza/Satisfy/Kin's as DTC parallels
+
+**Pages Updated:**
+- `wiki/brands/HaileyBieberRhode.md` — Added top-of-funnel replacement playbook + squad-era entries + Particle/Claude MCP workflow
+- `wiki/strategies/content-operations-playbook.md` — Added 6 brand examples + Head of Growth role definition
+- `wiki/concepts/japanese-branding-philosophy.md` — Added Erewhon parallel + Brand Ownership Anomalies section
+- `wiki/concepts/japan-as-a-creative-philosophy.md` — Added Modern DTC Parallel section (Graza/Satisfy/Kin's)
+- `wiki/strategies/creative-offers-playbook.md` — Added framer cross-link
+- `wiki/strategies/offer-design-for-creatives.md` — Added framer cross-link
+
+**Index Updated:** 187 → 192 pages; concepts 86 → 90; reference 7 → 8; operations 14 → 19
+
+---
+
 ## 2026-05-28 — Taste Economy Deep Re-Ingest
 
 - **Operation:** DEEP RE-INGEST

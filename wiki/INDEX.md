@@ -9,14 +9,14 @@
 ## Stats
 
 - **Total brands:** 9
-- **Total concepts:** 86
+- **Total concepts:** 90
 - **Total strategies:** 52
 - **Total ideas:** 28
-- **Total reference pages:** 7
+- **Total reference pages:** 8
 - **Total products:** 1 product (4 pages)
-- **Total wiki pages:** 187
+- **Total wiki pages:** 192
 - **Source transcripts ingested:** 46+
-- **Ingest operations:** 14 (bulk 40 videos + wiki expansion pass + Drive sync + Dan Martell AI + Orin John Open Residency + Taylor Holiday 2026 E-Commerce Masterclass + Peter Rahal David Protein + Callaway Short-Form Masterclass + Orin John LinkedIn Cursed Opportunity + Pricing Psychology deep re-ingest + Boy Internet deep re-ingest + Brand Archetypes deep re-ingest + Enshittification deep re-ingest + Taste Economy deep re-ingest)
+- **Ingest operations:** 19 (bulk 40 videos + wiki expansion pass + Drive sync + Dan Martell AI + Orin John Open Residency + Taylor Holiday 2026 E-Commerce Masterclass + Peter Rahal David Protein + Callaway Short-Form Masterclass + Orin John LinkedIn Cursed Opportunity + Pricing Psychology deep re-ingest + Boy Internet deep re-ingest + Brand Archetypes deep re-ingest + Enshittification deep re-ingest + Taste Economy deep re-ingest + Creative Offers deep re-ingest + Art of Yapping deep re-ingest + Hailey Bieber/Rhode deep re-ingest + Japan Branding deep re-ingest + Content Operations deep re-ingest)
 
 ---
 
@@ -47,6 +47,7 @@
 | Concept | Summary | Page |
 |---------|---------|------|
 | Art Direction as Brand Strategy | How visual identity and creative direction become the primary brand-building tool | [[art-direction-as-brand-strategy]] |
+| Brand Trust Category Expansion | Accumulated brand trust as transferable capital for limitless category expansion; Muji as model; Graza/Satisfy/Kin's as DTC parallels | [[brand-trust-category-expansion]] |
 | Brand Archetypes | The five social media archetypes — Oracle, Performer, World Builder, Catalyst, Helper — with full descriptions, examples, content funnels, and the Two-Account Method | [[brand-archetypes]] |
 | Design Dupe Economy | Furniture copyright law, counterfeit vs. replica, Interior Icons, Blue Elephant, Alohas — structural margin-recapture dynamic | [[design-dupe-economy]] |
 | Distrust Economy | Consumer default assumption of deception; Reddit gaming; influencer commerce assumption; specificity as trust signal; transparency as brand strategy | [[distrust-economy]] |
@@ -118,7 +119,10 @@
 
 | Concept | Summary | Page |
 |---------|---------|------|
+| Content Anchors Framework | Five anchor types (Fame/Influence/Story/Production Element/Events) — the structural elements a brand uses to give its content world something to orbit around | [[content-anchors-framework]] |
+| Content Squad Era | 2026 squad/TV-show content paradigm: three-phase evolution arc, mutual amplification mechanics, "Secret Lives of Mormon Wives" effect, squad scaling model | [[content-squad-era]] |
 | Creative Toolkit Bookmark System | Notion database turning saved references into queryable strategy library — Sunday processing + tried/untried column | [[creative-toolkit-bookmark-system]] |
+| Video Literacy as Professional Competency | Understanding short-form video's attention complex as a baseline skill for all marketers — 4-mechanic model, competency floor, beyond just on-camera practice | [[video-literacy-as-professional-competency]] |
 | Messages, Concepts, Hooks Framework | Three-pillar content system: messages (what), concepts (how), hooks (why someone stops); modular and testable | [[messages-concepts-hooks-framework]] |
 | Owned, Enabled, Paid Media Ecosystem | Three-tier media model: brand accounts + creator affiliates + ads; enabled tier most underused; organic feeds paid | [[owned-enabled-paid-media-ecosystem]] |
 | Creator-First Brand Strategy | Making creators the primary content production engine; why all popping brands have creator-first infrastructure | [[creator-first-brand-strategy]] |
@@ -377,6 +381,7 @@
 
 | Page | Summary |
 |------|---------|
+| [[framer]] | Website builder for creative portfolio sites, offer pages, VSL landing pages, and funnel architecture; templates, quick-start steps, Contra companion platform |
 | [[recommended-books]] | 25+ books organized by category: Branding, Marketing/Design, Context, Mindset, Fashion, Business, Fiction |
 | [[reel-idea-tool]] | Idea generator + scorer: 8 criteria (100pt system), 4 modes (full/angles/score/brief), uses claude-opus-4-5 |
 | [[reel-script-tool]] | Script generator: voice DNA from 12 scripts, 10 hook types, 4 energy modes, CTA taxonomy |
