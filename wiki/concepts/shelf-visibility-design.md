@@ -1,6 +1,6 @@
 ---
 tags: [packaging, retail, CPG, product-design, shelf, branding]
-source_videos: [TUdTU1pwoZ4-dom-iacovone-open-residency]
+source_videos: [TUdTU1pwoZ4-dom-iacovone-open-residency, GaIsWb9Hatg-ross-mackay-open-residency]
 last_updated: 2026-05-28
 ---
 
@@ -55,8 +55,23 @@ Shelf velocity (units sold per week per store) is the metric retailers track. If
 - **Design the bottom of the package for DTC/e-commerce close-ups** — it doesn't need to serve the retail environment.
 - **Do this before retail entry, not after.** Dom spent 3 days iterating 400 renders. The earlier you start, the cheaper the iteration.
 
+## Real Data: Packaging Change = 3x Sales
+
+Ross Mackay (Cadence) provides one of the most concrete data points on packaging's direct impact on sell-through:
+
+> *"Our first can was just like the minimal D2C can, but it didn't work on shelf. We saw that data. When we launched the new can — same liquid — sales were three times. It was literally a packaging decision."*
+
+The change: added a prominent half-inch colored rim for flavor identification, moved key USPs (no sugar, no caffeine) to the visible zone, and redesigned for instant shelf legibility. The liquid didn't change. The brand didn't change. The packaging changed — and velocity tripled.
+
+This is the single most powerful case study for why shelf visibility investment is not optional for brands entering retail.
+
+**Additional tension from regulatory constraints:**
+Approximately 35% of a beverage can's surface area is non-negotiable: barcode, UPC, FDA-required callouts, fluid ounce designations. Brands fight to maximize brand expression in the remaining 65%. The art direction battle is real — QA and regulatory requirements constantly clash with design intent.
+
 ## Related Pages
 - [[retail-sequencing-strategy]]
 - [[price-pack-architecture]]
 - [[postability-as-design-criterion]]
 - [[product-first-brand-building]]
+- [[Cadence]] — 3x sell-through case study on packaging iteration
+- [[beverage-retail-velocity]] — the velocity metrics that packaging directly impacts

@@ -4,6 +4,29 @@
 
 ---
 
+## 2026-05-28 — Ross Mackay Open Residency (GaIsWb9Hatg)
+
+- **Operation:** DEEP INGEST — Open Residency podcast episode
+- **Guest:** Ross Mackay — founder of Cadence sports hydration; premium positioning at scale operator
+- **Pages created:** 8 | **Pages updated:** 1
+
+**Pages Created:**
+- `wiki/brands/Cadence.md` — Sports hydration brand; premium-at-scale model; influencer authenticity filter; 3x sales from packaging redesign
+- `wiki/concepts/premium-at-scale.md` — Premium positioning at mass distribution; On Running, Red Bull, Nespresso examples; four enabling levers
+- `wiki/concepts/beverage-retail-velocity.md` — Beverage CPG retail mechanics; units-per-store-per-week KPI; 30-day retail clock; EDLP loop
+- `wiki/concepts/generalist-to-spike-hiring.md` — Two-phase hiring model; "when did you join" diagnostic; clarity-creates-velocity
+- `wiki/concepts/influencer-authenticity-filter.md` — "I wouldn't want to be Bob" framework; three-tier influencer architecture
+- `wiki/concepts/single-sku-depth-before-breadth.md` — $10M threshold before next SKU; volume concentration compounding
+- `wiki/concepts/operator-investor-vs-board-investor.md` — War room vs. board room; operator investor criteria; dinner table test
+- `wiki/concepts/anchor-customer-underwriting.md` — Retail buyer commitment before production; demand-pull vs. inventory-push
+
+**Pages Updated:**
+- `wiki/concepts/shelf-visibility-design.md` — Cadence data: same liquid, 3x sales from packaging change; regulatory constraint section
+
+**Index Updated:** 290 → 298 pages; brands 17 → 18; concepts 175 → 182; operations 44 → 45
+
+---
+
 ## 2026-05-28 — David Grutman Open Residency (ZA79UxK_uUg)
 
 - **Operation:** DEEP INGEST — Open Residency podcast episode

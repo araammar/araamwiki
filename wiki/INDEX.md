@@ -8,15 +8,15 @@
 
 ## Stats
 
-- **Total brands:** 17
-- **Total concepts:** 175
+- **Total brands:** 18
+- **Total concepts:** 182
 - **Total strategies:** 55
 - **Total ideas:** 28
 - **Total reference pages:** 10
 - **Total products:** 1 product (4 pages)
-- **Total wiki pages:** 290
-- **Source transcripts ingested:** 50+
-- **Ingest operations:** 44 (bulk 40 videos + wiki expansion pass + Drive sync + Dan Martell AI + Orin John Open Residency + Taylor Holiday 2026 E-Commerce Masterclass + Peter Rahal David Protein + Callaway Short-Form Masterclass + Orin John LinkedIn Cursed Opportunity + Pricing Psychology deep re-ingest + Boy Internet deep re-ingest + Brand Archetypes deep re-ingest + Enshittification deep re-ingest + Taste Economy deep re-ingest + Creative Offers deep re-ingest + Art of Yapping deep re-ingest + Hailey Bieber/Rhode deep re-ingest + Japan Branding deep re-ingest + Content Operations deep re-ingest + Internet Splintering deep re-ingest + Apple/Tech Branding deep re-ingest + Marketing Plan 2026 deep re-ingest + 1067 Short-Form deep re-ingest + Psychology of Luxury deep re-ingest + Batch 7 re-ingest)
+- **Total wiki pages:** 298
+- **Source transcripts ingested:** 51+
+- **Ingest operations:** 45 (bulk 40 videos + wiki expansion pass + Drive sync + Dan Martell AI + Orin John Open Residency + Taylor Holiday 2026 E-Commerce Masterclass + Peter Rahal David Protein + Callaway Short-Form Masterclass + Orin John LinkedIn Cursed Opportunity + Pricing Psychology deep re-ingest + Boy Internet deep re-ingest + Brand Archetypes deep re-ingest + Enshittification deep re-ingest + Taste Economy deep re-ingest + Creative Offers deep re-ingest + Art of Yapping deep re-ingest + Hailey Bieber/Rhode deep re-ingest + Japan Branding deep re-ingest + Content Operations deep re-ingest + Internet Splintering deep re-ingest + Apple/Tech Branding deep re-ingest + Marketing Plan 2026 deep re-ingest + 1067 Short-Form deep re-ingest + Psychology of Luxury deep re-ingest + Batch 7 re-ingest)
 
 ---
 
@@ -43,6 +43,7 @@
 | House of Errors | Streetwear brand that set a new benchmark for content quality at launch; content-era brand model; elevated production from day one | [[HouseOfErrors]] |
 | I Am Ath | Danny Yeung's supplement brand; $0→$100M ARR in 11 months; Meta-first paid scale; 1,500-ad creative volume; A-list celebrity partnerships (Sabalenka) | [[IAmAth]] |
 | Groot Hospitality | David Grutman's hospitality empire: LIV, Komodo, Poppy Steak, Strawberry Moon; full-night arc flywheel; venue activation strategy; IP ownership discipline | [[GrootHospitality]] |
+| Cadence | Ross Mackay's sports hydration brand; premium-at-scale model; single-SKU depth strategy; influencer authenticity filter; 3x sales from packaging redesign alone | [[Cadence]] |
 
 ---
 
@@ -85,6 +86,8 @@
 | Position Against Strategy | Three positioning types: against one competitor (Grüns vs. AG1), unassailable metric (David), name-as-strategy (Satoshi Nakamoto); price game trap | [[position-against-strategy]] |
 | Celebrity Brand Accessibility Strategy | Luxury quality at accessible price point; Jason Tatum / Onside model; fan-can't-afford-Tom-Ford gap; Target exclusivity for full end caps | [[celebrity-brand-accessibility-strategy]] |
 | Brand Lane Discipline | "People want it; they just don't want it from me" — Winkers/Key Club failures; going below your tier confuses core audience without attracting a new one | [[brand-lane-discipline]] |
+| Premium at Scale | Maintaining premium positioning while achieving mass distribution; On Running, Red Bull, Nespresso as solved examples; four enabling levers | [[premium-at-scale]] |
+| Single-SKU Depth Before Breadth | $10M threshold before launching next SKU; volume concentration compounding; anchor customer gate for new launches; flavor expansion as Phase 2 | [[single-sku-depth-before-breadth]] |
 | IP Ownership Discipline | Real wealth is at exit, not annual earnings; Komodo holdco mistake; never build where someone else controls the exit multiple | [[ip-ownership-discipline]] |
 | Valuation Discipline (Consumer Brands) | Consumer brands rarely sell above $1B; must be up-and-to-the-right until exit; down round mechanics; Gloss Lab failure; entry timing problem | [[valuation-discipline-consumer-brands]] |
 | Relationship Coupon Model | Deep genuine relationships accumulate rare callable favors; Jony Ive book cover story; over-delivery + non-transactional generosity as coupon-building mechanism | [[relationship-coupon-model]] |
@@ -184,6 +187,7 @@
 | Creator Whitelisting Strategy | Whitelisting mechanics; brand and creator incentives; deal structure options; Jack Henry origin story; platform mechanics; deal packaging model | [[creator-whitelisting-strategy]] |
 | Influencer Seeding Economics | Free product seeding as marketing infrastructure; EMV logic; four returns; gift card model; PR pack post-rate engineering; K-Beauty benchmarks; $2 upgrade principle | [[influencer-seeding-economics]] |
 | Emerging Influencer Alpha | Pre-priced creator window; identifying characteristics; niche rate ceilings; long-term relationship compounding; Kalo Data tool; $10K budget allocation | [[emerging-influencer-alpha]] |
+| Influencer Authenticity Filter | "I wouldn't want to be Bob" selection framework; three-tier architecture (credibility anchors/volume drivers/community layer); authenticity vs. ROI inflection point | [[influencer-authenticity-filter]] |
 | Creative Strategist Role | Most in-demand marketing role; three competency pillars (creative direction/platform intelligence/operational execution); relationship capital moat; influencer rolodex as career capital | [[creative-strategist-role]] |
 | Equity Influencer Partnership Model | Giving equity to anchor influencers instead of cash retainers; RAW/Bumstead 2021 model; gravity effect on secondary influencer rates; vesting lessons | [[equity-influencer-partnership-model]] |
 | Athlete Influencer Education Specialist | Internal role coaching influencers on authentic content creation; audience growth; 3-month decay problem; short vs. long contract strategy | [[athlete-influencer-education-specialist]] |
@@ -225,6 +229,8 @@
 | Shelf Visibility Design | Packaging for retail shelf environment; blocker bar constraint; top-40% rule; Bum Energy 400-render redesign; flavor color-coding; 2-second legibility | [[shelf-visibility-design]] |
 | Stagegate Innovation Framework | Weekly go/no-go product gate: Can we innovate? Is it margin-creative? Is the TAM big enough? Kills bad products before development spend | [[stagegate-innovation-framework]] |
 | DTC Retail Rejection Strategy | Deliberately refusing retail offers to compound D2C leverage; focus preservation; global D2C first; Amazon 2% exception; when to finally enter retail | [[dtc-retail-rejection-strategy]] |
+| Beverage Retail Velocity | Beverage CPG retail mechanics; 86% daily purchase stat; units-per-store-per-week KPI; 30-day retail clock; EDLP trial-building loop; distributor vs. direct | [[beverage-retail-velocity]] |
+| Anchor Customer Underwriting | Don't press go on production until retail buyer commits; demand-pull vs. inventory-push manufacturing; self-financing founder pitch mechanic | [[anchor-customer-underwriting]] |
 | Subscription AOV Architecture | 3-month prepaid subscription tier design; habitualization mechanic; non-discount value stacking; AOV lift to $280 globally | [[subscription-aov-architecture]] |
 | Meta-First Paid Scale | 85/15 Meta/Google split; 1,500-ad creative volume flywheel; CAC/LTV as spend unlock signal; channel diversification queue | [[meta-first-paid-scale]] |
 | Static vs Video Ad Mix | 75% statics / 25% video inversion insight; why statics win on direct response now; AI commoditization thesis; video as future differentiation moat | [[static-vs-video-ad-mix]] |
@@ -279,6 +285,8 @@
 | Investor Value-Add Model | "Most valuable investor" philosophy; proof-first approach; three channels: celebrity intros, venue/distribution integration, cross-portfolio collaboration; valuation red flags | [[investor-value-add-model]] |
 | Cross-Portfolio Brand Collaboration | Shared investor facilitates portfolio brand collaborations; trust/negotiation friction collapses; Symbiotica × Coconut Cultures model; portfolio-as-ecosystem | [[cross-portfolio-brand-collaboration]] |
 | Proactive vs Reactive Leadership | Core hiring filter for multi-company leadership; healthy C-suite debate culture; finance-sees-everything-first cadence | [[proactive-vs-reactive-leadership]] |
+| Generalist to Spike Hiring | Two-phase model: generalists 0→$10-30M, spikes thereafter; "when did you join" interview diagnostic; clarity-creates-velocity principle | [[generalist-to-spike-hiring]] |
+| Operator Investor vs Board Investor | War room vs. board room distinction; what operator investors actually provide; dinner table test; network vs. institutional capital at early stage | [[operator-investor-vs-board-investor]] |
 | Franchise Business Model (CPG) | Relive Health franchise arc: 600 sq ft to 40+ locations; Orange Theory founder validation; 30x EBITDA franchise multiple; Revive/Relive consumer lifecycle flywheel | [[franchise-business-model-cpg]] |
 | Offer Architecture | The "I do X for Y at Z" formula, the three differentiators, offer stacking, two-tier pricing, VSL layer, offer/content alignment | [[offer-architecture]] |
 | Value and Pricing Philosophy | Why creatives undercharge — agency extraction model, "selling out" cultural conditioning, salary anchor problem, how TikTok Shop made creative ROI visible | [[value-and-pricing-philosophy]] |
