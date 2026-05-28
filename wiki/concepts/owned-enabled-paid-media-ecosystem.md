@@ -1,7 +1,7 @@
 ---
 tags: [concept, content-strategy, creator-economy, media, influencer, paid-ads, brand-building, orin-john]
-source_videos: [orin-john-open-residency-2025, orin-meets-world-viral-content-masterclass]
-last_updated: 2026-05-25
+source_videos: [orin-john-open-residency-2025, orin-meets-world-viral-content-masterclass, 8MzPLXbNOeQ-taste-economy]
+last_updated: 2026-05-28
 ---
 
 # Concept: Owned, Enabled, Paid — The Three-Tier Media Ecosystem
@@ -76,9 +76,21 @@ Content is a funnel. If you want to hit your goals, you need to address each sta
 
 ---
 
+## Events and Physical Activations as Enabled Media
+
+Physical brand activations are not about direct ROI from sales at the event. They are about purchasing an enabling ripple effect.
+
+**The Gap Coachella model:** Gap spent approximately $1M on a Coachella activation selling branded hoodies. The question is not whether $1M in hoodie sales were made — it's what the $1M actually bought. Coachella is the most-documented cultural event of the year. The attendees overindex on social media posting: they are micro-influencers to major influencers. Everyone in line for the hoodie makes a video. Everyone who buys the hoodie wears it in Coachella content, which significantly outperforms average content in engagement. The activation purchased an enabling ripple effect that a comparable $1M media buy elsewhere couldn't replicate.
+
+**The billboard principle:** A Times Square billboard is no longer primarily valued for how many eyes see it — it is valued for how many people photograph it and share it. The impression is the photo, not the passive view. Every physical presence in culture — events, pop-ups, billboards, installations — should be evaluated through this lens: how many people will produce enabled content because of this?
+
+**The organic conversation multiplier:** When the entire owned + enabled + paid stack is executing well, a fourth effect emerges — more organic conversation about the brand that wasn't paid for, seeded, or requested. The stack generates cultural presence that generates word-of-mouth that generates more presence. Each tier feeds the next, and a well-functioning ecosystem amplifies itself.
+
 ## What to Steal
 
 Start the enabled tier. Pick 5 creators from your existing customer base (use tools like Outer Signal to find customers with social followings). Seed product. Brief loosely. Let them post naturally. Measure what performs. Purchase the rights to the top 2–3 pieces. Feed them into paid. That's the full loop.
+
+For events and activations: evaluate every physical spend through the "enabling ripple effect" lens. How many people at this event are posters? What is the content velocity of this venue/moment? What is the shelf life of content produced here? A music festival, a product launch at a cultural venue, a pop-up in a high-traffic neighborhood — each has a different enabling multiplier. Prioritize activations where the attendees are themselves the distribution channel.
 
 ---
 
@@ -88,3 +100,5 @@ Start the enabled tier. Pick 5 creators from your existing customer base (use to
 - [[affiliate-creator-program-strategy]] — the operational system for scaling the enabled tier
 - [[viral-organic-content-formats]] — the content formats that perform in the enabled tier
 - [[content-virality-mechanics]] — how organic content spreads through the ecosystem
+- [[the-taste-economy]] — why the enabled stack is required in a world where taste is transferred peer-to-peer
+- [[spectacle-marketing]] — Balenciaga's version of the event-as-enabled-media principle

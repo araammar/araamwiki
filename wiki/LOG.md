@@ -4,6 +4,84 @@
 
 ---
 
+## 2026-05-28 — Taste Economy Deep Re-Ingest
+
+- **Operation:** DEEP RE-INGEST
+- **Source:** `raw/8MzPLXbNOeQ_in-this-video-we-are-going-to-talk-about-a-term-that-i-hate-.txt`
+- **Video:** 8MzPLXbNOeQ — "The Taste Economy"
+- **Reason:** Original ingest captured the high-level definition, two forces, three tactics, and four archetypes at a summary level. Missed: the flavor analogy (Doritos/Raising Canes framing, "life with the volume off," the permanent floor-effect on consumer baseline); the enthusiasm loop as a named mechanism (education → enthusiasm → participation, with fragrance as the canonical case study — boys 14–18, TikTok-driven category obsession); specific named brand examples (Comfort Hoodies "softest hoodie" positioning mechanics, The Ordinary ingredient-on-label strategy, Flamingo Estate origin story and product expansion arc, Benny/Nordic Knots rugs from viral creator video, Gruns, ESOP/Loewe/Kate denim as Petite Bourgeoisie archetype examples); the Laird Hamilton/NASA foiling documentary as the model for reaching the True Elite consumer; the algorithm feedback loop that deepens category enthusiasm; the insight economy framework (operational vs. insight-driven marketing, stated vs. real consumer insights, the insight catalog practice, the duality problem for marketers); the events-as-content-generation mechanic (Gap/Coachella activation, billboard-for-photo logic, organic conversation multiplier); and the agentic commerce concept (LLMs building commerce layers with misaligned incentives, brand-owned agentic storefronts, Swap metrics).
+
+**Pages Updated:**
+- `wiki/concepts/the-taste-economy.md` — major expansion: updated source_videos tag; added Flavor Analogy section; expanded Three Tactics section with specific named brand examples and search habit mechanics; added Enthusiasm Loop section with fragrance case study; added Named Brand Examples section; expanded all four archetypes with specific detail (Bourdain generation, Petite Bourgeoisie brand examples, Laird Hamilton documentary for True Elite); expanded Enabled Economy section with old vs. new stack mechanics, Gap/Coachella full analysis, billboard principle; updated Key Takeaways and Related Pages
+- `wiki/concepts/owned-enabled-paid-media-ecosystem.md` — added new section: Events and Physical Activations as Enabled Media; Gap/Coachella model; billboard principle; organic conversation multiplier; updated Related Pages; updated source_videos tag
+
+**Pages Created:**
+- `wiki/concepts/enthusiasm-as-byproduct-of-education.md` — named mechanism; fragrance case study (14–18 male cohort, TikTok-driven obsession, rare fragrance shops); algorithm feedback loop; how the three tactics (best thing / ingredient / transformation) each operate through enthusiasm; marketing applications; KPIs that capture enthusiasm vs. awareness
+- `wiki/concepts/insight-economy.md` — insight as last uncommoditizable marketing asset; two types of consumer insights (stated vs. real); the insight catalog practice and public testing method; operational-to-insight-driven marketer shift; the duality problem; practical applications
+- `wiki/concepts/agentic-commerce.md` — LLMs building commerce layers; brand data ownership risk; brand-owned agentic storefronts; domain + brand voice + customer history triad; Swap metrics (2x conversion, 3x time-on-site, 20% fewer returns); early adopter brands; the customer relationship as compound asset
+
+**Index Updated:** Stats updated (83 concepts → 86, 184 pages → 187); Enthusiasm as Byproduct of Education and Insight Economy added to Consumer Psychology & Behavior section; Agentic Commerce added to Marketing & Platform section; Taste Economy entry updated with expanded summary; ingest operations count updated to 14
+
+---
+
+## 2026-05-28 — Enshittification Deep Re-Ingest
+
+- **Operation:** DEEP RE-INGEST
+- **Source:** `raw/aHNphtjvdhA_does-it-seem-like-everything-we-buy-kind-of-sucks-now-the-po.txt`
+- **Video:** aHNphtjvdhA — "Does It Seem Like Everything We Buy Kind of Sucks Now? The Problem of Enshittification"
+- **Reason:** Original ingest captured the high-level framework (5 mechanisms named but thin on detail) and missed: the specific Italian last-procedure legal loophole mechanics and Shinola/US contrast; the two-factory spectrum concept (artisan vs. Shein within miles); the "polyester smut" named pattern (Comfy-type brands, synthetic materials engineered to feel soft while offering no durability); the design dupe economy with full furniture copyright law analysis (US vs. EU, 70-year EU protection, functional object classification); the counterfeit vs. replica legal distinction with live brand examples (Interior Icons, Blue Elephant/Gentle Monster lawsuit, Alohas, Keens); the distrust economy as a named framework with the Reddit-gaming paradox, influencer-commerce-assumption dynamic, and two-tier consumer segmentation; the specific AI SEO playbook (Ahrefs Brand Radar, descriptive product copy, knowledge bases, Reddit/YouTube seeding); and the "Show It" principle as a structured counter-strategy with steps.
+
+**Pages Updated:**
+- `wiki/concepts/enshittification.md` — major expansion: renamed "How It Works" to "The Five Mechanisms" with full detail on each; added The China Quality Spectrum section; added Design Dupe Economy section with brand examples; added full Counter-Strategies section (Show It, Expert-First, De-Middleman); expanded Related Pages; updated tags and last_updated
+
+**Pages Created:**
+- `wiki/concepts/provenance-fraud.md` — Italian last-procedure rule mechanics, migrant labor structure, documented brand examples (Dior, Valentino, Armani, Loro Piana), US vs. EU labeling standards, Shinola case, "100% Made in Italy" designation, China quality spectrum context, marketer application guide
+- `wiki/concepts/design-dupe-economy.md` — counterfeit vs. replica legal distinction, US furniture copyright law vs. EU 70-year protection, Interior Icons, Blue Elephant/Gentle Monster lawsuit, Alohas, Keens, structural margin-recapture thesis, ethics of reproduction, Foshan furniture market context
+- `wiki/concepts/distrust-economy.md` — named framework for consumer default distrust; what has been gamed (Reddit, influencer placements, labels, social proof); three-tier consumer segmentation (Temu/educated mid-market/high-end); influencer commerce assumption dynamic; structural opportunity for transparent brands; Reddit paradox (most AI-weighted + most gamed); specificity as trust signal; disclosure as brand positioning
+- `wiki/strategies/show-it-principle.md` — 6-step framework: claim-to-evidence audit → film production context → technical product descriptions → explicit trade-off description → organic Reddit/YouTube seeding → knowledge base building; examples (Valuables brand, Tricko, Dior raid contrast)
+- `wiki/strategies/ai-seo-strategy.md` — AI discovery shift mechanics; 6-step Brand Radar playbook: baseline tracking → product copy rewrite → knowledge base creation → organic Reddit entry → organic YouTube entry → progress monitoring; Ahrefs Brand Radar tool; the "agents look for solutions to questions, not vibes" principle
+
+**Index Updated:** Stats updated (80 concepts → 83, 50 strategies → 52, 179 pages → 184); three new concept pages added to Branding & Identity section; two new strategy pages added to Marketing & Campaigns section; ingest operations count updated to 13
+
+---
+
+## 2026-05-28 — Boy Internet vs Girl Internet Deep Re-Ingest
+
+- **Operation:** DEEP RE-INGEST
+- **Source:** `raw/up2BLatM1EY_in-this-video-we-are-going-to-talk-about-boy-internet-versus.txt`
+- **Video:** up2BLatM1EY — "Boy Internet vs Girl Internet"
+- **Reason:** Original ingest captured the framework outline but missed: the trad-to-woke four-square naming and mechanics, the literary/intellectual algorithm lane as a distinct separate system, the specific dark-tactic product playbook in the men's algorithm (creatine subscription traps, peptides, high-ticket closer courses, AI escape narrative), the anti-partner dynamic in men's purchases, the phones-in-dreams stat, the intra-gender signaling shift as a named sociological trend, and the Cultural Insight Banking methodology (burner accounts, paid scroll sessions, Cut 30 database, ad account validation loop). AEO (Answer Engine Optimization) was mentioned as a sponsored segment but represents a distinct and important emerging concept.
+
+**Pages Updated:**
+- `wiki/concepts/boy-internet-vs-girl-internet.md` — expanded Women's Algorithm section with proper four-square naming (trad-to-woke × sweet-to-scandalous) and literary/intellectual lane detail; expanded Men's Algorithm section with the full "Hey You Suck" compounding mechanic, specific dark-tactic product categories, anti-partner dynamic, phones-in-dreams stat; added Research Methodology section; added Content TAM Multiplication section; updated related links
+
+**Pages Created:**
+- `wiki/concepts/cultural-insight-banking.md` — 5-step thesis-forming methodology: thesis formation → social validation → feed research (burner accounts + paid scroll) → ad account testing → platform-level pattern tracking; Cut 30 video database; Outer Signal tool usage; thesis bank template
+- `wiki/concepts/answer-engine-optimization.md` — AEO concept: 60% zero-click search stat, how AI answer engines work, Reddit as signal, visibility score mechanics, old funnel vs. new funnel diagram, action framework
+- `wiki/concepts/intra-gender-signaling-shift.md` — structural shift from cross-gender to intra-gender purchase motivation; old model (Abercrombie, cologne) → breakdown (algorithmic segregation) → new model (men buying for men / women buying for women); dark side of men's compensation loop; phones-in-dreams stat; marketer application guide; full era timeline table
+
+**Index Updated:** Stats updated (79 concepts → effectively 82 with Archetypes re-ingest additions, 176 pages); three new concepts added to Consumer Psychology & Behavior and Marketing & Platform sections; Boy Internet summary line expanded; ingest operations count updated to 11
+
+---
+
+## 2026-05-28 — Brand Archetypes Deep Re-Ingest
+
+- **Operation:** DEEP RE-INGEST
+- **Source:** `raw/tcqf6sgw_Ho_in-this-video-we-are-going-to-talk-about-a-secret-weapon-for.txt`
+- **Video:** tcqf6sgw_Ho — "Once You Master Brand Archetypes, You Master Social Media"
+- **Reason:** Original ingest was shallow — covered archetype definitions but missed the workshop methodology, Oracle Content Funnel model, Two-Account Method, boring business nerd audience insight, World Builder moonshot decision logic, Helper/Catalyst distinction, and organic-paid synergy mechanism
+
+**Pages Updated:**
+- `wiki/concepts/brand-archetypes.md` — added: resource constraint insight, Oracle Content Funnel (3-tier), Two-Account Method, boring business nerd audience argument, B2B Oracle examples, World Builder moonshot decision logic + Cluey case study, Helper/Catalyst distinction detail, Marpipe organic-paid synergy mechanism, rarest skill set framing, updated related links
+
+**Pages Created:**
+- `wiki/strategies/brand-archetype-exercise.md` — full 5-step workshop methodology: resource audit → cross-reference archetypes → pick one → brainstorm 15-30 ideas → connect to content pillars; includes freelancer/client deliverable framing and leadership buy-in rationale
+- `wiki/concepts/oracle-content-funnel.md` — 3-tier funnel model (wide-reach education → development previews → product releases); Ken Sakata and Blam Motorworks case studies; Two-Account variation; Nerd Audience Principle; application guides for product/service/B2B
+
+**Index Updated:** Added Oracle Content Funnel to Branding & Identity concepts; added Brand Archetype Exercise to Brand Building strategies; updated stats (80 concepts, 50 strategies, 179 total pages)
+
+---
+
 ## 2026-05-24 — Vault Initialized
 
 - **Operation:** INIT
@@ -416,6 +494,39 @@ All 24 new pages + updated INDEX uploaded to Drive. New INDEX Drive ID: 1gXv1L_b
 - Stats: 75 concepts, 48 strategies, 171 total pages
 - New concept subcategory added: "LinkedIn" (6 pages)
 - LinkedIn Brand Playbook added to Marketing & Campaigns strategies
+
+---
+
+## 2026-05-28 — Deep Re-Ingest: Pricing Psychology (l3inbx2jeZU)
+
+- **Operation:** DEEP-REINGEST
+- **Source:** YouTube — l3inbx2jeZU — "In this video we're going to talk about the psychology of why people buy"
+- **File:** raw/l3inbx2jeZU_in-this-video-were-going-to-talk-about-the-psychology-of-why.txt
+- **Purpose:** Original ingest was shallow on the personas half of the video. Full extraction of all concepts, tactics, and frameworks.
+
+### New Material Extracted (not in original page)
+- Survey bias problem in traditional persona-building (whiteboard workshops + paid surveys both structurally unreliable)
+- Outer Signal tool: Shopify/email-based behavioral persona generation, buyer identity classification, LTV and repurchase rate per segment, influencer surfacing
+- LTV-weighted segmentation tactics (high-LTV vs. low-LTV strategic logic)
+- Professional vs. personal consumer persona rift (wellness professional vs. biohacker case study)
+- Per-persona landing page strategy (duplication method, Replo/Fermat/Framer tools)
+- Segmented email automation by persona (touch-point count differentiation, sequence logic by segment type)
+- AI-powered persona-to-copy workflow (Claude project architecture: persona data + brand materials + copywriter system prompt; three query types)
+- Product mix architecture extended to services and software ($99 audit → $1,000/month retainer model)
+- Pro-consumer framing of pricing psychology tactics
+
+### Pages Created (2)
+- wiki/concepts/data-driven-persona-segmentation.md — Why traditional personas fail, Outer Signal method, LTV-weighted segments, professional vs. personal buyer rift, named tools
+- wiki/strategies/persona-to-conversion-stack.md — Five-step framework from persona data to per-persona landing pages, segmented email automation, and AI copy generation; applies to e-commerce, services, and software
+
+### Pages Updated (1)
+- wiki/concepts/pricing-psychology.md — Added: service/software product mix extension, survey bias problem, Outer Signal method, LTV-based segmentation tactics, per-persona landing pages and email automation, AI copy workflow, pro-consumer awareness framing; updated source_videos frontmatter; expanded key takeaways and related pages
+
+### INDEX.md Updated
+- Stats: 76 concepts, 49 strategies, 173 total pages
+- Data-Driven Persona Segmentation added to Consumer Psychology & Behavior concepts
+- Persona-to-Conversion Stack added to DTC & E-Commerce strategies
+- Pricing Psychology description updated to reflect new scope
 
 ---
 

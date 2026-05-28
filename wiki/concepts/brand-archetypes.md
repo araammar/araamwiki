@@ -1,7 +1,7 @@
 ---
 tags: [concept, brand-strategy, social-media, content-archetypes, brand-identity]
-source_videos: [tcqf6sgw_Ho, kFfN_t3bH_8]
-last_updated: 2026-05-24
+source_videos: [tcqf6sgw_Ho, kFfN_t3bH_8, tcqf6sgw_Ho-brand-archetypes]
+last_updated: 2026-05-28
 ---
 
 # Concept: Brand Archetypes
@@ -17,6 +17,10 @@ Run the archetype exercise before choosing content pillars. Start by auditing:
 - What resources can realistically be committed?
 
 Cross-reference these resources with the archetypes below. Pick one. Build a brainstorm list of specific content ideas within that archetype. You now have a content roadmap that leadership can approve and a team can execute.
+
+For the full step-by-step workshop methodology, see: [[brand-archetype-exercise]]
+
+**The key constraint insight:** Most brands have a vision for an amazing thing they want to do on social — rarely does anyone actually execute it. The gap is resource constraints. Mapping resources first forces the exercise to produce a *doable* archetype rather than an aspirational one. This is why the exercise creates buy-in: leadership doesn't just approve a content calendar, they approve a strategy that accounts for what the org actually has.
 
 ## The Five Archetypes
 
@@ -39,6 +43,26 @@ Cross-reference these resources with the archetypes below. Pick one. Build a bra
 - Dentist (Cut 30): Sitting in the dentist chair rating whitening products, checking if new dental trends are worth it — the formula is "is X better than Y for Z?"
 
 **Operator tip:** The expert can be a student-perspective creator or a genuine authority. Both work. Student: "I'm learning this — here's what I discovered." Expert: "I know this category — here's what others get wrong." Wear the costume: dentist in scrubs, baker in a coat, mechanic in the garage.
+
+**The boring business argument:** No category is too dull for the Oracle. Industrial parts manufacturing — every screw, every bolt, every welding piece, CNC machines, supply chain, why things are made in one country vs. another — people will nerd out about all of it. The key insight: a video that gets 2,000 views from people obsessing over welded parts is more valuable than 100,000 random views, because those 2,000 people are likely adjacent to industries that actually procure those parts. Niche depth = qualified audience.
+
+**The Oracle Content Funnel (3-tier model):**
+1. **Wide-reach historical content** — top-of-funnel, broad appeal, explains the world/category
+2. **Development previews** — mid-funnel, behind-the-scenes on what the brand is building, signals the expert has studied the craft
+3. **Product carousels / releases** — bottom-of-funnel, the actual product release; viewers who've watched the first two tiers trust the expert and convert
+
+Ken Sakata executes this exactly: historical workwear explainers (top) → details on pieces he's developing (mid) → product release carousels (bottom). When he releases a jacket two months after explaining its history, the trust is pre-built. See: [[oracle-content-funnel]]
+
+**The Two-Account Method:**
+A brand with a strong founder or staff expert doesn't have to choose between standard brand content and Oracle content. Run both simultaneously:
+- **Brand account** — standard visual/product content, typical brand aesthetic
+- **Founder/expert personal account** — Oracle-style expertise content (trends, comparisons, industry takes)
+
+The personal account funnels into the brand through ambient authority: viewers follow the expert, trust builds, and when the brand releases product the expert has been explaining, conversion follows. The brand doesn't depend on the personal account, but leverages it when it grows. Crease Furniture executes this: standard interior brand on the main account + founder expert account on landscaping trends, paint colors, and industry commentary.
+
+**B2B and software work just as well:** Email marketing agencies (e.g., Instantly/Infinity) answering common outreach questions or discussing techniques — the Oracle archetype is not product-category dependent. Any business with a topic can do it.
+
+For the full Oracle funnel model: [[oracle-content-funnel]]
 
 ---
 
@@ -78,6 +102,16 @@ Cross-reference these resources with the archetypes below. Pick one. Build a bra
 
 **Risk note:** This is the highest-effort, highest-upside archetype. When it fails, it fails invisibly (nobody cares). When it works, it builds the deepest brand affinity. Only appropriate when you've decided the standard playbook isn't working and you're willing to make a real bet.
 
+**The Moonshot Decision Logic:** The World Builder is the right call when:
+- The brand has already invested in social (agencies, budget, internal team)
+- Nothing they've tried is generating traction
+- They're spending money anyway and it's going nowhere
+- The question becomes: redirect that same budget toward something genuinely interesting rather than continuing to fund mediocre results
+
+The argument: if you keep trudging along doing standard content and spending money on it, and it goes nowhere — use that same budget to take a creative shot. Brands that are stuck need to make a bet, not refine a failing approach. The World Builder is that bet.
+
+**Cluey case study (product-market fit vs. content excellence):** Cluey has bad product-market fit — nobody knows what they do, few buy — but their social media is exceptional. The lesson: imagine applying their World Builder strategy to a business with actual product-market fit. The combination would be extremely powerful. Most brands have product-market fit but boring content. Cluey has the reverse. The World Builder archetype is the bridge.
+
 ---
 
 ### The Catalyst
@@ -112,12 +146,17 @@ Cross-reference these resources with the archetypes below. Pick one. Build a bra
 **Examples:**
 - Kiyoko Beauty (Korean skincare retailer): Multiple creators breaking down Korean skincare basics — "don't buy this serum, get this instead" — not from a chemist's authority but from a fellow shopper's perspective
 - Hashihome: Host-life relatable content — skits and situations that anyone who hosts dinner parties will recognize. Products (ceramics) are present but not lectured about.
-- Marpipe (catalog ads software): Creator on brand account posting helpful content about marketing trends and what's happening in the ad world — most of it loosely related to the product. Result: the brand is more recognized and ads perform better because viewers have ambient familiarity.
+- Marpipe (catalog ads software): Creator Miranda (also has her own account) posts informational content about marketing trends and what's happening in the ad world — most of it loosely related to the brand. Not every video hits. But the cumulative effect: brand is more recognized, and ads perform better. When a viewer who's seen the Helper content then encounters a Marpipe ad, the "oh I've heard of that brand" effect lowers the barrier to click and reduces effective CAC. This is the organic-paid synergy mechanism specific to the Helper archetype — even for dense, complex B2B products. The Helper creates ambient familiarity at scale; paid converts it.
+
+**Helper vs. Catalyst distinction (important):**
+The Catalyst is aspirational — "here's who you could become, here's a better life/brand out there." It's motivational; it gets shared because it inspires. The Helper is practical — "here's what to do today, here's a comparison, here's a tip." The Helper doesn't require a deep expert or a founder. A relatable person who's one step ahead of the audience is sufficient. When choosing between them: if the brand's audience needs motivation and identity-level aspiration, Catalyst. If they need guidance, answers, and practical help on their current journey, Helper.
 
 ## Why Archetypes Matter for Organizations
 The archetype framework translates marketing strategy into terms leadership understands. CMOs and executives already know archetype thinking from traditional brand strategy. Bringing it down to social media content makes the conversation less about "should we post more" and more about "which persona do we want to own in the market."
 
-For a younger employee pitching a new content direction to leadership, an archetype exercise — with resource mapping and a concrete idea list at the end — creates buy-in faster than a content calendar because it answers the strategic question before the tactical one.
+For a younger employee pitching a new content direction to leadership, an archetype exercise — with resource mapping and a concrete idea list at the end — creates buy-in faster than a content calendar because it answers the strategic question before the tactical one. You're not pitching "let's try reels." You're pitching a strategic persona backed by resource reality and a brainstormed idea list the team is already excited about.
 
-## Related Concepts: [[Content Virality Mechanics]] | [[Internet Splintering]] | [[The Future of Marketing]]
-## Related Strategies: [[2026 Content Playbook]] | [[Brand Social Media from Scratch]] | [[Content Operations Playbook]] | [[Viral Content Playbook]]
+**The rarest skill set:** Many people work in social media. Very few make social media actually work. The combination of running the archetype exercise, mapping resources, selecting the right archetype, generating a concrete idea list, and executing it consistently is uncommon — and is the core competency separating strategists who drive results from ones who drive post volume.
+
+## Related Concepts: [[content-virality-mechanics]] | [[internet-splintering]] | [[the-future-of-marketing]] | [[oracle-content-funnel]]
+## Related Strategies: [[2026-content-playbook]] | [[brand-social-media-from-scratch]] | [[content-operations-playbook]] | [[viral-content-playbook]] | [[brand-archetype-exercise]]

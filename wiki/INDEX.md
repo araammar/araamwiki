@@ -1,7 +1,7 @@
 # Vault Index
 
 *Master index of everything in the Araamwiki knowledge base.*
-*Last updated: 2026-05-27*
+*Last updated: 2026-05-28*
 *Auto-maintained by Claude — update after every ingest.*
 
 ---
@@ -9,14 +9,14 @@
 ## Stats
 
 - **Total brands:** 9
-- **Total concepts:** 75
-- **Total strategies:** 48
+- **Total concepts:** 86
+- **Total strategies:** 52
 - **Total ideas:** 28
 - **Total reference pages:** 7
 - **Total products:** 1 product (4 pages)
-- **Total wiki pages:** 171
+- **Total wiki pages:** 187
 - **Source transcripts ingested:** 46+
-- **Ingest operations:** 9 (bulk 40 videos + wiki expansion pass + Drive sync + Dan Martell AI + Orin John Open Residency + Taylor Holiday 2026 E-Commerce Masterclass + Peter Rahal David Protein + Callaway Short-Form Masterclass + Orin John LinkedIn Cursed Opportunity)
+- **Ingest operations:** 14 (bulk 40 videos + wiki expansion pass + Drive sync + Dan Martell AI + Orin John Open Residency + Taylor Holiday 2026 E-Commerce Masterclass + Peter Rahal David Protein + Callaway Short-Form Masterclass + Orin John LinkedIn Cursed Opportunity + Pricing Psychology deep re-ingest + Boy Internet deep re-ingest + Brand Archetypes deep re-ingest + Enshittification deep re-ingest + Taste Economy deep re-ingest)
 
 ---
 
@@ -47,8 +47,12 @@
 | Concept | Summary | Page |
 |---------|---------|------|
 | Art Direction as Brand Strategy | How visual identity and creative direction become the primary brand-building tool | [[art-direction-as-brand-strategy]] |
-| Brand Archetypes | The full framework — all 12 archetypes and how to use them on social media | [[brand-archetypes]] |
-| Enshittification | The product quality decline cycle — why everything sucks now and how to counter it | [[enshittification]] |
+| Brand Archetypes | The five social media archetypes — Oracle, Performer, World Builder, Catalyst, Helper — with full descriptions, examples, content funnels, and the Two-Account Method | [[brand-archetypes]] |
+| Design Dupe Economy | Furniture copyright law, counterfeit vs. replica, Interior Icons, Blue Elephant, Alohas — structural margin-recapture dynamic | [[design-dupe-economy]] |
+| Distrust Economy | Consumer default assumption of deception; Reddit gaming; influencer commerce assumption; specificity as trust signal; transparency as brand strategy | [[distrust-economy]] |
+| Enshittification | The product quality decline cycle — five mechanisms, China quality spectrum, polyester smut, counter-strategies | [[enshittification]] |
+| Provenance Fraud | "Made in Italy" legal loophole (last-procedure rule), Dior/Valentino/Armani raids, US vs. EU labeling standards, Shinola | [[provenance-fraud]] |
+| Oracle Content Funnel | 3-tier trust-to-conversion funnel for Oracle brands: wide-reach education → development previews → product releases; Ken Sakata / Blam Motorworks case studies | [[oracle-content-funnel]] |
 | Japanese Branding Philosophy | What Japan does differently: Muji anti-brand, Beams curation, North Face Purple Label | [[japanese-branding-philosophy]] |
 | Quiet Luxury | The four pillars of quiet luxury art direction and brand philosophy | [[quiet-luxury]] |
 | Spectacle Marketing | Balenciaga's three-tier attention model and product-as-headline mechanics | [[spectacle-marketing]] |
@@ -59,14 +63,19 @@
 
 | Concept | Summary | Page |
 |---------|---------|------|
-| Boy Internet vs Girl Internet | How algorithms create different digital realities and what it means for targeting | [[boy-internet-vs-girl-internet]] |
+| Boy Internet vs Girl Internet | How algorithms create different digital realities and what it means for targeting; trad-to-woke four-square; literary lane; quantified man mechanic; intra-gender signaling | [[boy-internet-vs-girl-internet]] |
+| Cultural Insight Banking | Methodology for forming, stress-testing, and validating consumer behavior theses — burner accounts, paid scroll sessions, Cut 30 video database, ad account testing | [[cultural-insight-banking]] |
 | Dark Psychology of Creatives | Six patterns: taste paradox, group think, self-sabotage, inaction, theft, distraction | [[dark-psychology-of-creatives]] |
+| Data-Driven Persona Segmentation | Why traditional personas fail (survey bias, whiteboard fiction), Outer Signal method, LTV-weighted segments, professional vs. personal buyer rift | [[data-driven-persona-segmentation]] |
+| Intra-Gender Signaling Shift | Structural shift from buying to impress opposite sex → buying to impress same gender; driven by algorithmic gender segregation; full timeline from monoculture to tailored algo era | [[intra-gender-signaling-shift]] |
 | How to Develop Taste | The process and practices for building aesthetic taste — frameworks and progression arc | [[how-to-develop-taste]] |
-| Pricing Psychology | Anchoring, price-as-quality-signal, charm vs. rounded pricing, product tier architecture | [[pricing-psychology]] |
+| Insight Economy | Why insight is now the uncommoditizable marketing asset; stated vs. real consumer insights; operational-to-insight-driven shift; the insight catalog practice | [[insight-economy]] |
+| Pricing Psychology | Anchoring, price-as-quality-signal, charm vs. rounded pricing, product tier architecture, service mix extension, data-driven persona tactics | [[pricing-psychology]] |
 | Psychology of Luxury | Two root motivations, four psychological drivers, the abundance fantasy | [[psychology-of-luxury]] |
 | Sports Creative Direction | How sports brands use creative direction and what other brands can steal | [[sports-creative-direction]] |
+| Enthusiasm as Byproduct of Education | Why education produces enthusiasm not just knowledge; fragrance case study; algorithm feedback loop; how to build category enthusiasts | [[enthusiasm-as-byproduct-of-education]] |
 | The Downfall of Old Luxury | Three disruption forces, the new premium playbook, positioning opportunity | [[the-downfall-of-old-luxury]] |
-| The Taste Economy | What taste is, why it became currency, how brands and creators leverage it | [[the-taste-economy]] |
+| The Taste Economy | What taste is, why it became currency, how brands and creators leverage it; flavor analogy; named brand examples; Laird Hamilton documentary model | [[the-taste-economy]] |
 
 ### Aesthetics & Visual Culture
 
@@ -81,7 +90,9 @@
 
 | Concept | Summary | Page |
 |---------|---------|------|
+| Agentic Commerce | LLMs building their own commerce layers; brand data ownership risk; brand-owned agentic storefronts; 2x conversion / 3x time-on-site benchmark | [[agentic-commerce]] |
 | AI in Marketing | Displacement reality, four levels of AI engagement, what AI can/can't do | [[ai-in-marketing]] |
+| Answer Engine Optimization (AEO) | 60% of searches end without a click; how to appear when AI systems recommend brands in your category; visibility score, Reddit strategy, category clarity | [[answer-engine-optimization]] |
 | Content Positioning Pyramid | Position > content — credibility stack, one-sentence position statement, niche specificity | [[content-positioning-pyramid]] |
 | Content Virality Mechanics | The six ways brands go viral — a full mechanical breakdown | [[content-virality-mechanics]] |
 | Creator Economy in 2026 | The income map, algorithm fragmentation, platform splits, monetization thresholds | [[creator-economy-in-2026]] |
@@ -199,6 +210,7 @@
 |----------|---------|------|
 | 7 Levels of Brand Building | The full framework — each level, what it takes to reach it, real brand examples | [[7-levels-of-brand-building]] |
 | Aesthetic-Led Brand Strategy | Seven steps: concept → object design → reference library → algorithm testing → coherence | [[aesthetic-led-brand-strategy]] |
+| Brand Archetype Exercise | 5-step workshop: resource audit → archetype pick → brainstorm list → content pillars → roadmap; client deliverable and leadership pitch tool | [[brand-archetype-exercise]] |
 | Creative Director Approach to Brand Building | Eight-step framework from world definition to iconographic system to Free Game | [[creative-director-approach-to-brand-building]] |
 | Luxury Brand Positioning Strategy | Seven-step framework: tier diagnosis → scarcity → discounting rules → collab strategy | [[luxury-brand-positioning-strategy]] |
 | New Luxury / Premium Brand Strategy | Three positioning poles, product tier architecture, new aesthetic codes | [[new-luxury-premium-brand-strategy]] |
@@ -209,6 +221,8 @@
 | Strategy | Summary | Page |
 |----------|---------|------|
 | 2026 Content Playbook | How to get ahead of 99% of brands — the content strategy for 2026 | [[2026-content-playbook]] |
+| AI SEO Strategy | Brand Radar playbook: AI share-of-voice tracking, descriptive product copy, Reddit/YouTube seeding for AI search visibility (Ahrefs Brand Radar) | [[ai-seo-strategy]] |
+| Show It Principle | Radical manufacturing transparency as brand strategy: film the factory, name the materials with specificity, describe trade-offs honestly | [[show-it-principle]] |
 | Brand Social Media from Scratch | Step-by-step guide for brands starting social media with zero audience | [[brand-social-media-from-scratch]] |
 | Colandify Pre-Launch Content Strategy | Media-company model pre-launch: 3-phase plan, ICP targeting, channel strategy, weekly KPIs | [[colandify-prelaunch-content-strategy]] |
 | Content Operations Playbook | How to build and structure a marketing team in 2026 | [[content-operations-playbook]] |
@@ -262,6 +276,7 @@
 |----------|---------|------|
 | Creative Demand Planning | Ad production as supply chain: Creative Demand Score (5 inputs), 150–400+ ads/month, iteration beats breakthrough, organic-to-paid pipeline | [[creative-demand-planning]] |
 | DTC Allocator of Capital | Integrated DTC operating framework: marketer → capital allocator identity shift, decision tree, contribution margin as north star, survival vs. growth mode | [[dtc-allocator-of-capital]] |
+| Persona-to-Conversion Stack | Five-step framework: real persona data → AI copy project → persona-specific landing pages → segmented email automation → iteration; applies to e-commerce, services, and software | [[persona-to-conversion-stack]] |
 
 ### Product & Launch
 
