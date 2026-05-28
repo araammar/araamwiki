@@ -13,12 +13,16 @@ AI in marketing has crossed from experimental tool to active job displacer — p
 
 ### The Displacement Reality
 
-Major agency holding companies are merging and eliminating thousands of creative jobs. The reason is not efficiency-seeking for its own sake: it's that 2–3 AI-enabled people can now do the work of a mid-tier specialist team (project manager + copywriter + strategist + art director + designer as separate headcount). The agencies that survive are those that do more with less. The individuals who thrive are those who close what might be called the "exploitation gap" — operating independently with AI tools at agency-level quality, at lower cost.
+Major agency holding companies are merging and eliminating thousands of creative jobs. The reason is not efficiency-seeking for its own sake: it's that 2–3 AI-enabled people can now do the work of a mid-tier specialist team (project manager + copywriter + strategist + art director + designer as separate headcount). The agencies that survive are those that do more with less. The individuals who thrive are those who close what might be called the [[exploitation-gap]] — operating independently with AI tools at agency-level quality, at lower cost.
 
 This is not a prediction about the future. It is the present:
-- Valentino ran an AI-generated surreal art campaign and largely ignored the backlash
-- Revolve ran a full AI content series for a product launch
+- Valentino ran an AI-generated surreal art campaign and largely ignored the backlash — the critics were not Valentino customers; the comments section only amplified the campaign
+- Revolve ran a full AI content series ("Revolve World" launch) — hard to tell for most of their consumer base; one London execution drew backlash but the brand leaned into it on their main feed with no material commercial consequence
+- Leebe ran a creator-hosted "is this real or is it AI?" series on their brand feed — surfaced AI ambiguity as a content hook rather than concealing or defending it, with strongly positive audience response
 - Major e-commerce retailers now generate 20–30% of product imagery with AI; consumers cannot distinguish it from photography
+- Luxury 3D CGI work — previously done by high-paid specialist artists — is now produced with AI at equivalent visual quality; "no one even knows, looks the same on feed"
+
+These examples map to three distinct brand postures: stealth (invisible use), art (explicit aesthetic statement), and fourth-wall (AI ambiguity as the content hook). See [[ai-content-postures-for-brands]] for the full taxonomy and application guide.
 
 ### The Four Levels of AI Engagement
 
@@ -118,4 +122,4 @@ Generic input produces generic output. AI scripts generate content that reads li
 **"I need AI perfection before I use it."**
 The goal is useful output fast, not technically flawless generation. Speed and volume of useful creative material beats the perfect single artifact.
 
-## Related Concepts: [[Creator Economy in 2026]], [[Camera Aesthetics for Creatives]]
+## Related Concepts: [[Creator Economy in 2026]], [[Camera Aesthetics for Creatives]], [[exploitation-gap]], [[ai-content-postures-for-brands]], [[quiz-funnel-strategy]]

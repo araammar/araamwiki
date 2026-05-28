@@ -9,14 +9,15 @@
 ## Stats
 
 - **Total brands:** 9
-- **Total concepts:** 107
+- **Total brands:** 10
+- **Total concepts:** 113
 - **Total strategies:** 52
 - **Total ideas:** 28
 - **Total reference pages:** 10
 - **Total products:** 1 product (4 pages)
-- **Total wiki pages:** 211
+- **Total wiki pages:** 218
 - **Source transcripts ingested:** 46+
-- **Ingest operations:** 29 (bulk 40 videos + wiki expansion pass + Drive sync + Dan Martell AI + Orin John Open Residency + Taylor Holiday 2026 E-Commerce Masterclass + Peter Rahal David Protein + Callaway Short-Form Masterclass + Orin John LinkedIn Cursed Opportunity + Pricing Psychology deep re-ingest + Boy Internet deep re-ingest + Brand Archetypes deep re-ingest + Enshittification deep re-ingest + Taste Economy deep re-ingest + Creative Offers deep re-ingest + Art of Yapping deep re-ingest + Hailey Bieber/Rhode deep re-ingest + Japan Branding deep re-ingest + Content Operations deep re-ingest + Internet Splintering deep re-ingest + Apple/Tech Branding deep re-ingest + Marketing Plan 2026 deep re-ingest + 1067 Short-Form deep re-ingest + Psychology of Luxury deep re-ingest)
+- **Ingest operations:** 34 (bulk 40 videos + wiki expansion pass + Drive sync + Dan Martell AI + Orin John Open Residency + Taylor Holiday 2026 E-Commerce Masterclass + Peter Rahal David Protein + Callaway Short-Form Masterclass + Orin John LinkedIn Cursed Opportunity + Pricing Psychology deep re-ingest + Boy Internet deep re-ingest + Brand Archetypes deep re-ingest + Enshittification deep re-ingest + Taste Economy deep re-ingest + Creative Offers deep re-ingest + Art of Yapping deep re-ingest + Hailey Bieber/Rhode deep re-ingest + Japan Branding deep re-ingest + Content Operations deep re-ingest + Internet Splintering deep re-ingest + Apple/Tech Branding deep re-ingest + Marketing Plan 2026 deep re-ingest + 1067 Short-Form deep re-ingest + Psychology of Luxury deep re-ingest)
 
 ---
 
@@ -35,6 +36,7 @@
 | Virgil Abloh / Off-White | Iconographic systems, Free Game philosophy, cross-discipline, Nike The Ten | [[VirgilAblohOffWhite]] |
 | David | Science-driven protein bar (28g/150cal/0g sugar); Peter Rahal; $725M in 255 days; anti-marketing, product-surplus model | [[David]] |
 | Callaway | Systems-first content strategist; reverse-engineers viral short-form; 7 Lego Bricks, 5 Content Games, Shock Score; Sandcastles, Content.game | [[Callaway]] |
+| Kapital | Americana + Japanese craft + surrealism brand universe; skeletal jacket iconography; three-family founding; literal-to-surreal evolution arc | [[Kapital]] |
 
 ---
 
@@ -49,6 +51,7 @@
 | Art Direction as Brand Strategy | How visual identity and creative direction become the primary brand-building tool | [[art-direction-as-brand-strategy]] |
 | Brand Artifacts and Lore | Physical objects that extend brand identity and create cultural lore; Anduril Game Boys, TBPN guest merch, Rhode phone case; material storytelling principle | [[brand-artifacts-and-lore]] |
 | Counterposition for Personalities | Category code audit for musicians/creators/founders; Bad Bunny, Tyler, Billie Eilish, guru counter-signaling; repositioning against yourself | [[counterposition-for-personalities]] |
+| Hybrid Brand Fusion | Combining two authentic cultural reference worlds as differentiation; Kapital (Americana + Japanese craft), Noah, next-generation brand differentiation | [[hybrid-brand-fusion]] |
 | Creative Bravery | Real creative risk vs. calculated stunt; 10-year vision test; Bad Bunny drag, Tyler provocations, Charli XCX abrasion | [[creative-bravery]] |
 | Cultural Authenticity at Scale | "Pop comes to us" mantra; Bad Bunny/BTS proof; depth-before-width sequence; language-is-not-a-barrier principle | [[cultural-authenticity-at-scale]] |
 | Vision Extension | World-building beyond core product; Charli XCX/Brat rollout as model; participatory mechanics + physical artifacts + meme-ability | [[vision-extension]] |
@@ -93,6 +96,7 @@
 | Concept | Summary | Page |
 |---------|---------|------|
 | Camera Aesthetics for Creatives | Camcorder strategy, film vs. digital, Fuji color science, gear discipline | [[camera-aesthetics-for-creatives]] |
+| Outstanding Work Paradox | Accessible tools raise the floor of creative quality while the proportion of outstanding work decreases; vision is the only ceiling-raiser | [[outstanding-work-paradox]] |
 | K-Pop Aesthetic Playbook | PAF concept-per-release model, Tamburins design, reference library methodology | [[k-pop-aesthetic-playbook]] |
 | Taste as a Learnable Skill | Five-phase development path, critique matrix (composition/effectivity/vibes), design periods to study | [[taste-as-a-learnable-skill]] |
 | Visual Craft Philosophy | What each camera format communicates, lens choices as aesthetic signature, full toolkit map | [[visual-craft-philosophy]] |
@@ -135,6 +139,8 @@
 | Concept | Summary | Page |
 |---------|---------|------|
 | Campaign Central Object | Single physical prop/theme coordinating brand + UGC + influencer + expert tiers into one unified cultural moment; Morphe butter example; designed-to-be-filmed principle | [[campaign-central-object]] |
+| Perpetual Campaign Cadence | Always-on campaign chaining with no gaps; Skims as benchmark; compounding vs. stopping costs; calendar mandate mechanism | [[perpetual-campaign-cadence]] |
+| Quiz Funnel Strategy | Quiz-to-purchase funnel: ads → interactive quiz → personalized recommendation → purchase; trust-transfer mechanism; first-party data compounding; il Makiage canonical example | [[quiz-funnel-strategy]] |
 | Content Anchors Framework | Five anchor types (Fame/Influence/Story/Production Element/Events) — the structural elements a brand uses to give its content world something to orbit around | [[content-anchors-framework]] |
 | Content Squad Era | 2026 squad/TV-show content paradigm: three-phase evolution arc, mutual amplification mechanics, "Secret Lives of Mormon Wives" effect, squad scaling model | [[content-squad-era]] |
 | Creative Toolkit Bookmark System | Notion database turning saved references into queryable strategy library — Sunday processing + tried/untried column | [[creative-toolkit-bookmark-system]] |
@@ -186,7 +192,9 @@
 
 | Concept | Summary | Page |
 |---------|---------|------|
+| AI Content Postures for Brands | Three-posture taxonomy: Stealth (invisible production), Art (AI as aesthetic statement), Fourth Wall (AI ambiguity as hook/character) — posture selection guide | [[ai-content-postures-for-brands]] |
 | AI Operating System for Founders | Rebuilding business operations with AI as the foundational layer — 17 companies, 1-person finance team, 225M impressions | [[ai-operating-system-for-founders]] |
+| Exploitation Gap | AI-enabled independents bypass agency double-exploitation; deliver equivalent work directly to brands; three required inputs: content savvy + distribution + AI proficiency | [[exploitation-gap]] |
 | Three Levels of AI | 4-tier maturity model: Personal → Team → Compounding → Scalable; 95% stuck at Level 1 | [[three-levels-of-ai]] |
 | AI Mistakes Founders Make | 15 named mistakes with structural fixes; three meta-patterns: role confusion, sequence failure, architecture failure | [[ai-mistakes-founders-make]] |
 

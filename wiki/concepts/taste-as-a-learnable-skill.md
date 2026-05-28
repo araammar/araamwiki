@@ -1,7 +1,7 @@
 ---
 tags: [aesthetics, culture, taste, creative-life, creative-development]
 source_videos: [qifGvtE31N4, 8gvCc5jvcH0, kl4DLGKK_VI]
-last_updated: 2026-05-25
+last_updated: 2026-05-28
 ---
 
 # Concept: Taste as a Learnable Skill
@@ -15,6 +15,8 @@ Taste is not innate. It is completely learned. It is also a lifelong project —
 ## Why It Matters
 
 In an era where AI generates massive volumes of undifferentiated content, taste is the primary differentiator. Tech companies are actively searching for tasteful people to integrate into creative departments. The cultural conversation around taste — in product design, brand identity, content, fashion, software — has reached a new peak. Quarter applied basic creative direction to financial product branding and stood out against decades of stale incumbents. Claude (the AI company) positioned its entire brand around taste and earned popular acclaim. The signal is clear: taste is now a professional and economic asset, not just a personal one.
+
+**Why tech specifically:** For decades, tech treated taste as a counter-signal — having any care about aesthetics or visual culture was almost a liability when the only thing that mattered was hitting a technological goal. That era is over. In a world that is more visual than ever, where consumers have higher standards than ever, and where content is educating them at scale, tech has finally discovered the value of taste. The shift is structural, not a trend.
 
 The professional with taste can assess campaigns, direct creative work, identify what's good and bad, and advocate for quality decisions. Without it, a creative is executing instructions. With it, they're shaping outcomes.
 
@@ -100,6 +102,14 @@ Taste is ultimately bounded by the range of experience a person has had. The tra
 
 The practice: when traveling, seek out what is locally considered excellent. What music is popular? What are the clothing brands people are wearing? What are the coffee shops? What are people proud of? This expansion of reference shapes opinion in ways that can't be acquired at home.
 
+### The Underlying Mindset — Ideas Over People
+
+The capstone of taste development is not a technique. It is an orientation: a curious mind state about the world that defaults to talking about ideas rather than about other people or current events. People with taste are characterized by this shift — conversations become about what makes something excellent, why a period of design was influential, what makes this album different from that one, why this brand is compelling.
+
+This is the difference between passive consumption and active engagement. The person developing taste becomes "consumed with the idea" — genuinely interested in understanding what makes things good or bad, wanting to argue about it, wanting to hear other people's frameworks and push back on them. It is a way of being in the world, not just a set of techniques.
+
+Starting age is irrelevant. The practice can begin at 12 or 50. What determines the outcome is whether it keeps going and progressing, and whether the person develops genuine curiosity about the question of quality.
+
 ## Named Examples / Case Studies
 
 **Anthropic's Claude brand:** Positioned the entire AI product around taste. Pop-up events. Aesthetic-forward marketing. Made taste the differentiating signal in a technical product category.
@@ -128,4 +138,8 @@ The practice: when traveling, seek out what is locally considered excellent. Wha
 
 7. **Anti-opinion culture kills taste development.** If you are never required to say something is good or bad and defend it, you cannot develop the discrimination that taste requires.
 
-## Related Pages: [[visual-craft-philosophy]], [[developing-a-visual-point-of-view]], [[the-taste-economy]], [[lessons-from-1000-hours-of-content]]
+8. **Starting age is irrelevant; continuation is everything.** The foundation can be built quickly at any age. What determines development is whether the curious engagement continues and progresses — "it just matters if it keeps going."
+
+9. **Taste is a character orientation, not just a skill set.** The underlying disposition is a curious mind state that prefers talking about ideas over people or current events. Taste development is as much about becoming the kind of person who asks "why is this considered excellent?" as it is about learning any technique.
+
+## Related Pages: [[visual-craft-philosophy]], [[developing-a-visual-point-of-view]], [[the-taste-economy]], [[lessons-from-1000-hours-of-content]], [[how-to-develop-taste]], [[the-taste-economy]]

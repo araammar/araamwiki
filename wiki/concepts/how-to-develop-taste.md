@@ -1,7 +1,7 @@
 ---
 tags: [taste, aesthetics, creative-development, design, culture, personal-brand]
 source_videos: [qifGvtE31N4]
-last_updated: 2026-05-24
+last_updated: 2026-05-28
 ---
 
 # Concept: How to Develop Taste
@@ -11,6 +11,8 @@ Taste is the cultivated ability to evaluate, critique, and make decisions about 
 
 ## Why It Matters in Marketing
 In a world where production quality has been democratized and every brand can access good-looking visuals and competent copy, taste is the differentiator that cannot be templated. Technology firms now actively recruit for it. Brands with taste convert better and command higher prices — not because of their product, but because of how they present it, curate it, and position it in culture. For marketers and creatives, taste is increasingly the skill gap that separates commodity work from premium positioning.
+
+**The tech industry shift is particularly significant:** for decades, caring about aesthetics was treated as a counter-signal inside tech — the only thing that mattered was hitting a technological goal. That era ended. In a world more visual than ever, with consumers educated by algorithmic taste exposure and standards higher than ever, tech has finally integrated taste as a core function. Claude (Anthropic) built its entire brand around taste positioning. Quarter applied basic creative direction to financial product branding and differentiated immediately from the old guard. The category of brands recognizing taste as a competitive advantage is expanding rapidly.
 
 ## How It Works
 
@@ -76,6 +78,11 @@ The development arc:
 
 Starting age is irrelevant. The practice compounds over a lifetime. The goal is not to arrive — it is to be in continuous, engaged movement.
 
+### The Capstone: A Curious Mind State
+The underlying disposition that makes all of the above possible is a curious mind state — defaulting to talking about ideas rather than about other people or current events. People with developed taste are recognizable by this orientation: they want to discuss what makes something excellent, why a design period was influential, what separates this album from that one, why one brand is compelling and another is not.
+
+This is the character layer underneath all the techniques. Begin asking "why was this appreciated?" and "why do I like it or not?" about the things you encounter — and follow the question wherever it leads. The curiosity itself is what sustains the practice over time. You do not arrive at taste; you become a person for whom quality is a live, ongoing question.
+
 ## Examples in This Vault
 - [[The Taste Economy]] — the commercial expression of taste as cultural currency
 - [[K-Pop Aesthetic Playbook]] — K-pop as a case study in taste applied at institutional scale
@@ -89,5 +96,7 @@ Starting age is irrelevant. The practice compounds over a lifetime. The goal is 
 - Taste is only real when it drives decisions. The thrift store exercise is a forcing function.
 - Public defense of opinions is the accelerant. Sharing your take — and having it challenged — is how taste actually sharpens.
 - Depth of engagement with a subculture (K-pop, menswear, fragrance) generates taste faster than broad shallow consumption.
+- The capstone is a curious mind state: defaulting to talking about ideas instead of people or events. This orientation is what makes the practice sustainable over a lifetime.
+- Starting age is irrelevant. What matters is continuous, progressing engagement — "it just matters if it keeps going."
 
-## Related Pages: [[The Taste Economy]], [[K-Pop Aesthetic Playbook]], [[Dark Psychology of Creatives]], [[Aesthetic-Led Brand Strategy]], [[Psychology of Luxury]]
+## Related Pages: [[The Taste Economy]], [[K-Pop Aesthetic Playbook]], [[Dark Psychology of Creatives]], [[Aesthetic-Led Brand Strategy]], [[Psychology of Luxury]], [[taste-as-a-learnable-skill]], [[the-taste-paradox]]

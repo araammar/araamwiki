@@ -4,6 +4,35 @@
 
 ---
 
+## 2026-05-28 — Re-Ingest Batch 5 (5 videos)
+
+- **Operation:** DEEP RE-INGEST (batch)
+- **Videos:** qifGvtE31N4 · OqxedKwmbYc · LI2qf34jy8k · tSopiLVEreM · jM10LqMwaXY
+- **Method:** 5 parallel agents; [EXISTS]/[NEW]/[SKIP] tagging
+- **Pages created:** 7 | **Pages updated:** 7
+
+**Pages Created:**
+- `wiki/brands/Kapital.md` — Americana + Japanese craft + surrealism brand universe; skeletal jacket iconography; three-family founding
+- `wiki/concepts/hybrid-brand-fusion.md` — Combining two authentic cultural worlds as differentiation; Kapital, Noah as examples
+- `wiki/concepts/perpetual-campaign-cadence.md` — Always-on campaign chaining; Skims benchmark; calendar mandate mechanism
+- `wiki/concepts/outstanding-work-paradox.md` — Accessible tools raise floor, outstanding work rarer; vision is only ceiling-raiser
+- `wiki/concepts/exploitation-gap.md` — AI-enabled independents bypass agency double-exploitation; three required inputs
+- `wiki/concepts/ai-content-postures-for-brands.md` — Three-posture taxonomy: Stealth / Art / Fourth Wall
+- `wiki/concepts/quiz-funnel-strategy.md` — Quiz-to-purchase funnel; trust-transfer; first-party data; il Makiage example
+
+**Pages Updated:**
+- `wiki/concepts/taste-as-a-learnable-skill.md` — Tech/ideas-over-people additions
+- `wiki/concepts/how-to-develop-taste.md` — Tech industry shift + curious mind state section
+- `wiki/brands/RalphLauren.md` — Ralph vs. Kith/Stüssy contrasts; Gen Z tension; 2019 cafe-as-runway
+- `wiki/strategies/marketing-campaign-masterclass.md` — Lift Foils, Cluey, HubSpot, Set Active, Skims, Reborn, tools
+- `wiki/concepts/k-pop-aesthetic-playbook.md` — PAF collabs, Tamburins arc, HEAZ archive, MLMA, practitioners
+- `wiki/strategies/ai-workflows-for-marketers.md` — Perplexity Comet, vibe-coding, Leebe fourth-wall example
+- `wiki/concepts/ai-in-marketing.md` — Leebe fourth-wall + luxury CGI displacement + three postures
+
+**Index Updated:** 211 → 218 pages; brands 9 → 10; concepts 107 → 113; operations 29 → 34
+
+---
+
 ## 2026-05-28 — Re-Ingest Batch 4 (5 videos)
 
 - **Operation:** DEEP RE-INGEST (batch)

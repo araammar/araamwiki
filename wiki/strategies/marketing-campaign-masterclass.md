@@ -71,20 +71,38 @@ Your campaign lives beyond your own channels. Map who else will be posting, and 
 **Crossover:** Organic posts that perform become ads. Influencer posts get spark-ad spend. Partner posts go into email. The 1+1+1+1=6.5 principle: simultaneous deployment across channels creates compounding attention that exceeds the sum of individual parts.
 
 ## Real Examples
+
+### Product Launches
 - **Break Archive Black Friday:** 15 posts total — teaser chyrons, hot girl investing carousel as the main launch concept, meme carousels for shareability, multiple promotional posts. Classic well-executed campaign.
 - **Patrick Ta "The Menu":** Conceptual campaign with food/cooking theme. Teaser apron reveal → partial unveil → coming soon post → 24-hour early access → full product showcase. Art direction-forward with no single "big video" moment.
 - **Tier Mavericks Shoe Launch:** 22 content pieces from two filming locations, built around a mad scientist narrative. Drone footage, FPV reel, lab set carousels, athlete footage, multiple recuts. Planned entirely in advance.
 - **Gel Blaster at Costco:** Briefed micro-influencers on a video game scenario concept to support a Costco-exclusive bundled product. Brief smashed with millions of views from a creator with under 50K followers.
-- **Lift Foils:** Campaign world built through hundreds of reseller/rental affiliates. Fed them content, collab posted with the best performers, ran regional paid spend behind their content. Brand world multiplied by the affiliate network.
-- **HubSpot Inbound:** Anchored a Loop Marketing launch to a trade show event. Deployed through owned social, sponsored creator network, podcast network, and advertising simultaneously — B2B version of the same playbook.
+
+### Affiliate / Partner Network World-Building
+- **Lift Foils:** Campaign world built through hundreds of reseller/rental affiliates. The system worked as follows: the brand produced immaculately shot launch videos and social assets, then fed raw and pre-edited content into a folder affiliates (rental stands + resellers worldwide) could access and post on their own channels. Affiliates who made high-quality content could request a collab post with the main brand account, gaining exposure while supplying the brand with more content. Top affiliate content was also licensed and run as paid ads — including regional paid spend to drive traffic directly to a specific rental partner's location. Approximately 10% of affiliates made truly excellent content; relationships with those individuals were actively cultivated. The model is symbiotic: the affiliate gets brand amplification and reach, the brand gets a multiplied content network without a proportional production budget increase.
+
+### B2B and Software
+- **HubSpot Inbound:** Anchored a Loop Marketing launch to a trade show event. Deployed through owned social (1M+ YouTube channel), sponsored creator network, podcast media network, and advertising simultaneously — B2B version of the same playbook at enterprise scale.
+- **Cluey Creator Flywheel:** Cluey (app brand) runs a creator flywheel managed by a dedicated person (Katie). They find a concept that works, then multiply it through dozens to hundreds of UGC creators. Budget determines whether you start with 5, 10, or 100 — but the principle is the same: identify a working idea, then scale it through a creator network rather than re-creating from scratch each time. Separate from the core content is a distinct viral organic presence on the brand account.
+
+### Aesthetic Campaign Cadencing
+- **Set Active (Boiling/Freezing Point):** Seasonal Black Friday campaign built around a temperature theme — boiling point/freezing point. Executed with retro-styled forecast mock-up graphics, magazine mock-up carousels, conceptual reels, and photo shoots all tied to the same theme. Immediately followed by a gift-giving campaign, demonstrating back-to-back campaign cadencing.
+- **Skims:** The benchmark for perpetual campaign cadence. There is always a Skims campaign running — Black Friday flows directly into holiday, into New Year/New You, into pro team announcement, into Valentine's Day, and so on with no gaps. The result is a compounding attention effect that generates sustained sales momentum. See [[perpetual-campaign-cadence]] for the full model.
+- **Bandit Running:** Fewer posts per campaign than most brands but extraordinarily high production quality and art direction. Documents campaign development in a blog called "B Mail" — publishing mood boards, lookbooks, and behind-the-scenes of the design process. Builds brand lore while demonstrating creative process to the audience.
+- **Reborn (Dancing Campaign):** Simple, easily executable influencer concept — a "dancing in Reborn" theme where any influencer can film themselves dancing in the product. Demonstrates how the concept brief can be so immediately clear and natural that creators self-select into it without complex direction.
 
 ## Pitfalls to Avoid
 - **Shooting without a content plan:** You will come out with 2 assets from a shoot you could have turned into 22. Pre-plan every phase, angle, and format before the shoot starts.
 - **Betting on one big video:** The social algorithm era rewards multiple shots at the same concept. Recut, reframe, restructure into formats (carousels, memes, FAQs).
 - **Skipping the refresh:** Launch traction fades in 2–8 weeks. Without a pre-planned wave two, campaigns die instead of compound.
-- **Not activating customers:** Your most loyal buyers are an untapped promotional layer. Early access, customer-only pricing, and personal outreach convert them into advocates.
-- **Standardized budgets:** If the economics are working, push for more volume. A fixed marketing budget is a ceiling — if the product and ROI justify it, scale spend with results.
+- **Not activating customers:** Your most loyal buyers are an untapped promotional layer. Early access, customer-only pricing (via one-to-one VIP email outreach), and personal outreach convert them into advocates.
+- **Standardized budgets:** If the economics are working, push for more volume. A fixed marketing budget is a ceiling — if the product and ROI justify it, scale spend with results. The 1+1+1+1=6.5 principle: simultaneous deployment across channels creates compounding attention that exceeds the sum of individual parts, which is exactly why scaling a working campaign pays disproportionate dividends.
 - **Working with production firms that don't think in content phases:** If your production partner doesn't understand the teaser-to-refresh arc, they will under-deliver assets.
+- **Stopping between campaigns:** At scale, campaign gaps are costly. Train toward the Skims model — always have the next campaign brief ready before the current one ends. See [[perpetual-campaign-cadence]].
 
-## Related Concepts: [[Internet Splintering]] | [[Content Virality Mechanics]] | [[The Future of Marketing]]
-## Related Strategies: [[Marketing Plan Framework 2026]] | [[Content Operations Playbook]] | [[Brand Social Media from Scratch]] | [[Viral Content Playbook]]
+## Tools Referenced
+- **Our Signal** — software that scrapes customer profiles and analyzes relative importance; useful for identifying VIP customers to contact one-to-one before launch
+- **Social Growth Engineers** (website) — case study library for software and consumer app campaigns using low-fi content with strong concepts; useful for seeing faceless TikTok formats, dream hook examples, and carousel-led growth for apps
+
+## Related Concepts: [[Internet Splintering]] | [[Content Virality Mechanics]] | [[The Future of Marketing]] | [[perpetual-campaign-cadence]] | [[campaign-central-object]]
+## Related Strategies: [[Marketing Plan Framework 2026]] | [[Content Operations Playbook]] | [[Brand Social Media from Scratch]] | [[Viral Content Playbook]] | [[affiliate-creator-program-strategy]]

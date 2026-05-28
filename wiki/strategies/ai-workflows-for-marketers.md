@@ -41,12 +41,14 @@ The strategic imperative: if you work in any field where AI is being applied aro
 
 ### Workflow Category 1: Strategy & Research
 
-**Tool: Perplexity (Agent Mode)**
-Use for social media comment analysis at scale. The workflow:
+**Tool: Perplexity / Comet (Agent Mode)**
+Use for social media comment and video analysis at scale. The "Comet" feature within Perplexity's agent mode is specifically built for this. The workflow:
 1. Open a TikTok search for your product category or competitor
-2. Prompt Perplexity to "watch 100–300 of these videos, list the most mentioned brands with pros and cons, and what content strategies are performing best"
-3. Let agent mode run in the background (can take 20+ minutes for 300 videos)
-4. Output: comprehensive brand sentiment analysis, common complaints, content hook performance ranking, audience demographics
+2. Prompt: "Watch 100–300 of these videos, list the most mentioned brands with their pros and cons, and what content strategies are performing best in these reviews"
+3. Let agent mode run in the background — can take 20+ minutes for 300 videos; work on other tasks while it runs
+4. Output: comprehensive brand sentiment analysis, common complaints, content hook performance ranking, audience demographics, suggested hooks with engagement estimates
+
+You can also prompt for demographic analysis (age/race breakdown visible in comments), screenshot-based sentiment work, and deep dives on specific competitors: "Give me all the top complaints about [competitor brand]." The TikTok comment section is the best brand strategy research environment available — real people giving unfiltered product reactions in real time.
 
 This replaces hours of manual research that used to be done by junior analysts. Use the output to brief content, identify competitor weaknesses to address in your own content, and generate hook angles from real consumer language.
 
@@ -54,9 +56,9 @@ This replaces hours of manual research that used to be done by junior analysts. 
 Use for building influencer seed lists at scale:
 1. Set parameters: follower range (e.g., 5K–200K), keywords/brands mentioned, posting frequency (active in last 30 days)
 2. Let Manis search TikTok via API, verify and filter, and return a list of 100–200 qualified creators
-3. Can build a simple front-end interface within Manis so your team can run searches without you
+3. **Vibe-code a front end within Manis** — you can ask Manis to build a simple functional website/interface where team members enter keywords and parameters and receive the generated list, without needing you to run each search. One platform, minimal dev work, done in a single session.
 
-This replaces manual influencer research and outreach list building — previously a multi-hour or multi-day task.
+This replaces manual influencer research and outreach list building — previously a multi-hour or multi-day task. The vibe-coded front end also removes the workflow bottleneck of routing everything through one person.
 
 **Tool: Claude or ChatGPT (Brand Second Brain)**
 Build a project in Claude/ChatGPT that functions as an in-house brand strategist:
@@ -128,6 +130,15 @@ Connect your content performance data to Excel and use agent mode for analysis:
 - "Plan a content mix to reach X new followers given my current average per-post performance, by pillar"
 - Generate full competitive scorecards: "Build a ranking system for every [product category] product in the market using criteria [list], research each one, score them, and output a ranked table I can adjust weighting on"
 
+**Competitive Scorecard Deep Dive:**
+Ask Excel agent mode to build a weighted criteria scorecard for your product category. Example workflow for a setting spray:
+1. Prompt: "Create a ranking parameter system and bring in every setting spray product in the market"
+2. Agent builds criteria (hold, waterproof, finish, value) with weighted scores and researches each competitor
+3. Output: fully ranked table with pros/cons per product — you can then adjust the weighting live ("make value more important than hold") and the rankings update
+4. Also outputs top value props and common complaints for each competitor
+
+No manual research required. The resulting ranked table in Excel becomes a living competitive intelligence document.
+
 This replaces analyst work that would previously require hiring a specialist or outsourcing to an agency research team.
 
 **HubSpot Loop Prompt Library**
@@ -141,9 +152,12 @@ A structured set of AI prompts covering the full marketing loop (Express → Tai
 These prompts require you to gather real data and feed it in — they're not magic wands. But with your data input, they produce analysis that would previously cost thousands to commission from an agency.
 
 ## Real Examples
-- **Beauty brand campaign research**: Used Perplexity agent mode to watch 300 TikTok creatine review videos → identified top competing brands by mention frequency, common pros/cons, and best-performing content angles → fed results directly into organic content brief and ad hook library
-- **Internal brand AI clone**: Uploaded all YouTube transcripts + newsletters + reports into a ChatGPT project → team can now query for brand strategy answers and get responses eerily accurate to the creator's actual perspective
+- **Beauty brand campaign research**: Used Perplexity/Comet agent mode to watch 300 TikTok creatine review videos → identified top competing brands by mention frequency, common pros/cons, and best-performing content angles → fed results directly into organic content brief and ad hook library
+- **Internal brand AI clone**: Uploaded all YouTube transcripts + newsletters + reports into a ChatGPT project → team can now query for brand strategy answers and get responses eerily accurate to the creator's actual perspective. This is the "creator clone" approach — not just a brand second brain, but a personal POV replication tool for scaling your thinking across a team
+- **Manis influencer research with self-serve front end**: Defined parameters (5K–200K followers, mentioned competitor brands, posted in last 30 days) → Manis returned 100–200 qualified creators → then vibe-coded a simple front-end interface inside Manis so any team member can run the search without routing through the strategist
+- **Competitive setting spray scorecard**: Excel agent mode researched every setting spray brand on the market, built a weighted scoring system (hold, waterproof, finish, value), and output a ranked table with adjustable criteria weighting and per-product pros/cons
 - **Hospitality consultant**: Used Excel agent mode to analyze content pillar performance monthly → discovered that shares (not views or hook rate) most correlated with new follower growth → shifted strategy accordingly
+- **Leebe fourth-wall AI campaign**: Brand ran a creator-hosted series ("is this real or is it AI?") on their main feed — used AI ambiguity as the content hook itself rather than concealing or justifying AI use. Strong positive response. See [[ai-content-postures-for-brands]] for the full posture taxonomy.
 
 ## Pitfalls to Avoid
 - **Trying to use AI to generate viral organic scripts** — doesn't work, produces generic content that gets ignored
@@ -153,5 +167,5 @@ These prompts require you to gather real data and feed it in — they're not mag
 - **Not feeding real data into the analytics prompts** — these tools only work as well as the data you give them; vague inputs produce vague outputs
 - **Thinking AI resistance is a strategy** — it's a trajectory toward obsolescence in any creative/marketing field
 
-## Related Concepts: [[AI in Marketing]], [[Creator Economy in 2026]]
+## Related Concepts: [[AI in Marketing]], [[Creator Economy in 2026]], [[exploitation-gap]], [[ai-content-postures-for-brands]], [[quiz-funnel-strategy]]
 ## Related Strategies: [[Short-Form Video That Makes Money]], [[Personal Branding Full Playbook]]
