@@ -67,7 +67,7 @@ Art direction extends beyond photography to content creation. In the 2026 landsc
 - [[HaileyBieberRhode]] — sensory minimalism and visual DNA for mass-market beauty
 - [[Apple]] — multi-era art direction mapped to brand lifecycle stages
 - [[BadBunny]] — art direction applied to music personal brand
-- [[Quiet Luxury]] — art direction through restraint and curation
+- [[Quiet Luxury]] — art direction through restraint and curation; [[BottegaVeneta]], [[TheRow]], [[LoroPiana]], [[BrunelloCucinelli]] as specific brand executions
 
 ## Key Takeaways
 - Visual DNA must be planned deliberately and maintained over time — it does not emerge from individual shoot decisions

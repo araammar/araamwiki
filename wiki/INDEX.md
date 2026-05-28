@@ -8,17 +8,15 @@
 
 ## Stats
 
-- **Total brands:** 9
-- **Total brands:** 10
-- **Total brands:** 10
-- **Total concepts:** 118
+- **Total brands:** 14
+- **Total concepts:** 127
 - **Total strategies:** 52
 - **Total ideas:** 28
 - **Total reference pages:** 10
 - **Total products:** 1 product (4 pages)
-- **Total wiki pages:** 223
+- **Total wiki pages:** 236
 - **Source transcripts ingested:** 46+
-- **Ingest operations:** 39 (bulk 40 videos + wiki expansion pass + Drive sync + Dan Martell AI + Orin John Open Residency + Taylor Holiday 2026 E-Commerce Masterclass + Peter Rahal David Protein + Callaway Short-Form Masterclass + Orin John LinkedIn Cursed Opportunity + Pricing Psychology deep re-ingest + Boy Internet deep re-ingest + Brand Archetypes deep re-ingest + Enshittification deep re-ingest + Taste Economy deep re-ingest + Creative Offers deep re-ingest + Art of Yapping deep re-ingest + Hailey Bieber/Rhode deep re-ingest + Japan Branding deep re-ingest + Content Operations deep re-ingest + Internet Splintering deep re-ingest + Apple/Tech Branding deep re-ingest + Marketing Plan 2026 deep re-ingest + 1067 Short-Form deep re-ingest + Psychology of Luxury deep re-ingest)
+- **Ingest operations:** 40 (bulk 40 videos + wiki expansion pass + Drive sync + Dan Martell AI + Orin John Open Residency + Taylor Holiday 2026 E-Commerce Masterclass + Peter Rahal David Protein + Callaway Short-Form Masterclass + Orin John LinkedIn Cursed Opportunity + Pricing Psychology deep re-ingest + Boy Internet deep re-ingest + Brand Archetypes deep re-ingest + Enshittification deep re-ingest + Taste Economy deep re-ingest + Creative Offers deep re-ingest + Art of Yapping deep re-ingest + Hailey Bieber/Rhode deep re-ingest + Japan Branding deep re-ingest + Content Operations deep re-ingest + Internet Splintering deep re-ingest + Apple/Tech Branding deep re-ingest + Marketing Plan 2026 deep re-ingest + 1067 Short-Form deep re-ingest + Psychology of Luxury deep re-ingest + Batch 7 re-ingest)
 
 ---
 
@@ -38,6 +36,10 @@
 | David | Science-driven protein bar (28g/150cal/0g sugar); Peter Rahal; $725M in 255 days; anti-marketing, product-surplus model | [[David]] |
 | Callaway | Systems-first content strategist; reverse-engineers viral short-form; 7 Lego Bricks, 5 Content Games, Shock Score; Sandcastles, Content.game | [[Callaway]] |
 | Kapital | Americana + Japanese craft + surrealism brand universe; skeletal jacket iconography; three-family founding; literal-to-surreal evolution arc | [[Kapital]] |
+| The Row | Mystery-as-strategy, personality-driven luxury, Spotify playlist curation, price-upon-request jewelry, Olsen twins founder model | [[TheRow]] |
+| Loro Piana | Gift of Kings $12,200 jacket as hero product, House of Mastery / Master of Fibers process content, Succession cultural moment, supply chain controversy | [[LoroPiana]] |
+| Brunello Cucinelli | Humanistic capitalism philosophy, Solomeo as production story, formal-to-casual lifestyle range, combined process + setting strategy | [[BrunelloCucinelli]] |
+| Bottega Veneta | Intrecciato weave as logo-replacement signature, artful world traveler setting strategy, Daniel Lee social media deletion era, logo-free luxury tier | [[BottegaVeneta]] |
 
 ---
 
@@ -75,6 +77,8 @@
 | Spectacle Marketing | Balenciaga's three-tier attention model and product-as-headline mechanics | [[spectacle-marketing]] |
 | Streetwear Brand Strategy | People curation, scarcity, collab-as-market-testing, drop culture | [[streetwear-brand-strategy]] |
 | The Rebrand Playbook | Five-step rebrand framework with Bad Bunny, Burberry, Tyler the Creator case studies | [[the-rebrand-playbook]] |
+| Brand Scale Ceiling | Structural revenue limit (~$500M–$1B) for subculture/identity brands; why VF Corp's Supreme thesis failed; "quiet revenue" operating mode; exit timing | [[brand-scale-ceiling]] |
+| Logo Hierarchy Participation Architecture | Deliberate three-tier logo system (box logo → sub-logos → no-logo basics) managing scarcity and access simultaneously; Supreme model; B2B and services extension | [[logo-hierarchy-participation-architecture]] |
 
 ### Consumer Psychology & Behavior
 
@@ -127,6 +131,9 @@
 | The Future of Marketing | What's changing in marketing and why — the macro shifts no one is talking about | [[the-future-of-marketing]] |
 | Value vs Entertainment Framework | Two-path framework: bookmarkable expert content vs personality-driven entertainment | [[value-vs-entertainment-content-framework]] |
 | Worst Marketing Patterns | Anti-patterns and failures from real 2025 examples — what to never do | [[worst-marketing-patterns]] |
+| Wild Posting / Urban Brand Strategy | Saturating a city's physical surfaces with poster campaigns generates earned media and cultural momentum; Supreme NYC model + Friend AI modern evolution; city-as-canvas | [[wild-posting-urban-brand-strategy]] |
+| Postability as Design Criterion | Shareability must be designed into products at development stage, not bolted on by marketing; 5 postability properties; viral SKU strategy; Progresso, IKEA, David examples | [[postability-as-design-criterion]] |
+| USP-to-TikTok Shop Pipeline | Brand-side TikTok Shop scaling model: product USP → commission-only affiliate distribution → GMV Max amplification; David Bar and Prima as primary examples | [[usp-to-tiktok-shop-pipeline]] |
 
 ### LinkedIn
 
@@ -154,6 +161,8 @@
 | Owned, Enabled, Paid Media Ecosystem | Three-tier media model: brand accounts + creator affiliates + ads; enabled tier most underused; organic feeds paid | [[owned-enabled-paid-media-ecosystem]] |
 | Creator-First Brand Strategy | Making creators the primary content production engine; why all popping brands have creator-first infrastructure | [[creator-first-brand-strategy]] |
 | TikTok Shop Affiliate Model | Commission-based creator commerce; $500M+ Black Friday 2025; economics by tier; once-in-a-lifetime window | [[tiktok-shop-affiliate-model]] |
+| Founder Email | Plain text email in founder's voice; pattern interrupt in distrust economy; when to use (launches, milestones, mistakes, post-purchase); welcome/post-purchase automation placement | [[founder-email]] |
+| Expert-Driven Content Model | Student/expert dual-position framework; professional knowledge has become inaccessible at human level; giving away the playbook converts better than gatekeeping | [[expert-driven-content-model]] |
 
 ### Short-Form & YouTube Strategy
 
@@ -161,6 +170,7 @@
 |---------|---------|------|
 | Three-Part Hook Framework | Visual hook + text hook + spoken hook must align; confusion=churn; contrast as scroll-stopper; visual set as strategic asset; context-first brain processing | [[three-part-hook-framework]] |
 | Absorption Rate Framework | Absorption rate as master KPI (not views); Content Minutes trust math; offer price requires X content minutes consumed; 20:1 short-form vs. long-form ratio | [[absorption-rate-framework]] |
+| Short-Form Content Longevity | Short-form video is NOT ephemeral for value-driven content; Google indexes Reels; seasonal resurgence; algorithm redistribution to new cohorts months later | [[short-form-content-longevity]] |
 | Five Content Games | Five content-business model types: Entertainment Media / Education Media / Commoditized Consumer Product / Educational Consumer Product / B2B High-Education; Traffic→Funnels→Offers hierarchy | [[five-content-games]] |
 | Format Maturity Cycles | How content formats progress from low supply → flood → saturation → evolution; one-of-one moat when formats commoditize; niche maturity benchmarking | [[format-maturity-cycles]] |
 | Creator vs. Entrepreneur Dichotomy | Creator (view-addiction spiral) vs. entrepreneur (business outcomes); broad-audience monetization failure; narrow ICP economics; open season arbitrage thesis | [[creator-vs-entrepreneur-dichotomy]] |
@@ -231,6 +241,7 @@
 | Japan as a Creative Philosophy | Imitation-to-surpassing dynamic, Muji philosophy as confidence, curation as original practice, craft-as-identity | [[japan-as-a-creative-philosophy]] |
 | Legacy and Creative Impact | Virgil's Free Game philosophy, documentation as legacy infrastructure, iconography as the residue that persists, ripple effects over accumulation | [[legacy-and-creative-impact]] |
 | Subculture to Mainstream Pipeline | Five-stage model: founding community → gatekeeper networks → crossover moment → institutional absorption → echo/successor phase | [[subculture-to-mainstream-pipeline]] |
+| Streetwear × Sports Crossover | The successor trend to streetwear × luxury era; sports (athletes, teams, running culture) as new prestige crossover vehicle; Trapstar/Jets, Amiri, Venezia FC, Bandit Running | [[streetwear-sports-crossover]] |
 | The Reading Mind for Creatives | Full learning philosophy + 25+ named books by category with author, what each teaches, and application context | [[the-reading-mind-for-creatives]] |
 
 ---

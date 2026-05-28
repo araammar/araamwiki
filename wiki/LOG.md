@@ -4,6 +4,44 @@
 
 ---
 
+## 2026-05-28 — Re-Ingest Batch 7 (5 videos)
+
+- **Operation:** DEEP RE-INGEST (batch)
+- **Videos:** dSyHnvWlAFI · 13jzjINwFQ0 · HP_6MJAdILY · pKeZ5XK2vp4 · zeHkJuMORJE
+- **Method:** 5 parallel agents; [EXISTS]/[NEW]/[SKIP] tagging
+- **Pages created:** 13 | **Pages updated:** 10
+
+**Pages Created:**
+- `wiki/brands/TheRow.md` — Mystery-as-strategy, personality-driven luxury, Spotify curation, price-upon-request jewelry
+- `wiki/brands/LoroPiana.md` — Gift of Kings hero product, House of Mastery process content, Succession moment, supply chain controversy
+- `wiki/brands/BrunelloCucinelli.md` — Humanistic capitalism, Solomeo production story, process + setting strategy
+- `wiki/brands/BottegaVeneta.md` — Intrecciato weave as logo-replacement, artful world traveler setting, Daniel Lee era
+- `wiki/concepts/wild-posting-urban-brand-strategy.md` — City-as-canvas poster saturation; Supreme NYC + Friend AI modern evolution; earned media mechanic
+- `wiki/concepts/brand-scale-ceiling.md` — ~$500M–$1B revenue ceiling for subculture brands; VF Corp thesis failure; "quiet revenue" mode
+- `wiki/concepts/streetwear-sports-crossover.md` — Sports as successor prestige crossover to streetwear × luxury; Trapstar/Jets, Amiri, Venezia FC, Bandit Running
+- `wiki/concepts/logo-hierarchy-participation-architecture.md` — Three-tier logo system (box logo → sub-logos → no-logo); scarcity + access architecture; B2B extension
+- `wiki/concepts/founder-email.md` — Plain text founder voice email; pattern interrupt in distrust economy; automation placement
+- `wiki/concepts/short-form-content-longevity.md` — Short-form is not ephemeral; Google indexes Reels; seasonal resurgence; algorithm redistribution
+- `wiki/concepts/expert-driven-content-model.md` — Student/expert dual-position; giving away the playbook converts better than gatekeeping
+- `wiki/concepts/usp-to-tiktok-shop-pipeline.md` — Product USP → commission affiliates → GMV Max amplification; David Bar and Prima examples
+- `wiki/concepts/postability-as-design-criterion.md` — Shareability designed into product at development stage; 5 postability properties; viral SKU strategy
+
+**Pages Updated:**
+- `wiki/concepts/quiet-luxury.md` — Added links to four new brand pages; multi-platform curation to Key Takeaways
+- `wiki/concepts/art-direction-as-brand-strategy.md` — Quiet luxury bullet linked to four specific brand pages
+- `wiki/strategies/luxury-brand-positioning-strategy.md` — Quiet luxury example linked to four brand pages
+- `wiki/reference/recommended-books.md` — Added Gray Mirror (Curtis Yarvin) as current read bonus; updated Related Pages
+- `wiki/concepts/the-reading-mind-for-creatives.md` — Added Category 6 (Contrarian Reading) with Gray Mirror; removed phantom "Absolute Savages" entry
+- `wiki/strategies/intellectual-development-for-creatives.md` — Gray Mirror as named example under Level 5 (Contrarian Reading)
+- `wiki/brands/Supreme.md` — Added "Lessons for Brand Builders" section (6 lessons); expanded Related Concepts
+- `wiki/strategies/brand-social-media-from-scratch.md` — Added "Content Is Not Ephemeral" section; cross-links to new pages
+- `wiki/concepts/the-future-of-marketing.md` — Koshi/PJ Asuro specifics added to AI Advertising section; cross-links to new pages
+- `wiki/concepts/tiktok-shop-affiliate-model.md` — New "GMV Max Layer" section: organic affiliate → GMV Max amplification sequence
+
+**Index Updated:** 223 → 236 pages; brands 10 → 14; concepts 118 → 127; operations 39 → 40
+
+---
+
 ## 2026-05-28 — Re-Ingest Batch 6 (5 videos)
 
 - **Operation:** DEEP RE-INGEST (batch)

@@ -111,6 +111,8 @@ Specific practices:
 
 The specific practice: read material that argues for positions you currently disagree with, not to be persuaded but to understand how strong arguments are constructed. "The way with which they argue, the way with which they talk, how they present the alternatives, and the way people's minds work and approach it is just a really fascinating thing."
 
+**Example contrarian read: Gray Mirror** (Curtis Yarvin / Mencius Moldbug) — the host's current read. Challenges common liberal historiography. Recommended not for agreement with conclusions, but as a model of how contrarian arguments are constructed, positioned, and argued. Study the rhetoric; interrogate the logic; apply the method to your own strategic positioning work.
+
 What this builds: the ability to construct your own strong arguments rather than relying on positions you already hold. The person who has read the best argument against their own position is better equipped to defend it — or to recognize when they should update it. In a creative context, this translates to: the ability to find the compelling case for the brief you disagree with, the campaign direction you find obvious, the aesthetic you find tired. That ability makes you more useful as a strategist and more honest as a critic.
 
 ---

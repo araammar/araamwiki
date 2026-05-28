@@ -116,5 +116,12 @@ Chinese science fiction translated into English. The most useful thing about it:
 
 The most sustainable reading habit: 30 minutes before sleep, devices off, no screens. One book per month is realistic for most people with full schedules. The goal isn't volume — it's building a lens that helps you think differently than the people around you who are consuming the same algorithm-curated content as everyone else.
 
+## Current Read (Bonus)
+
+**Gray Mirror** — (author Curtis Yarvin / Mencius Moldbug)
+A book about critical thinking that "positions a lot of common liberal perceptions of the past and presents counterpoints to them." Recommended not for the conclusions but for studying how contrarian arguments are constructed: "the way with which they argue, the way with which they talk, how they present the alternatives, and the way people's minds work and approach it is just a really fascinating thing." The host's explicit framing: reading contrarian material is preparation for an era where ChatGPT and Claude summarize consensus — your edge is the ability to position contrarian statements and think in ways that AI summarizes poorly. For strategists who want to study argument structure and positioning mechanics from outside the marketing canon.
+
+---
+
 ## Related Strategies: [[Systems for Creatives]], [[Personal Rebrand Playbook]], [[Making Money as a Creative 2026]]
-## Related Concepts: [[Creator Economy in 2026]]
+## Related Concepts: [[Creator Economy in 2026]], [[the-reading-mind-for-creatives]], [[intellectual-development-for-creatives]]

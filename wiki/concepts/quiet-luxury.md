@@ -37,10 +37,10 @@ Mystery is part of their strategy too: the Olsen twins' deliberate public absenc
 Quiet luxury brands present spectacular, unattainable product at the top of their ranges not to sell those pieces, but to frame the more accessible ones (wallets, scarves, basic polo shirts) as entry points into that world. Virgil Abloh did this explicitly at Louis Vuitton: people dressed as cities wasn't to sell the city jacket — it was to sell the LV wallet. The spectacle at the top makes the entry-level item feel like belonging to something greater.
 
 ## Examples in This Vault
-- **Loro Piana:** Process content as price justification; consistent setting of artful travel; controversial supply chain reality behind the brand image
-- **The Row:** Mystery + curation as brand strategy; personality-driven luxury built around the Olsen twin mystique
-- **Brunello Cucinelli:** Italian craft lifestyle; men's to casual wear bridge; the founder's vision as brand identity
-- **Bottega Veneta:** Logo-free at the highest luxury tier; pattern and form (the intrecciato weave) as signature rather than a mark; most aggressive use of "setting" photography
+- **[[LoroPiana]]:** Process content as price justification; consistent setting of artful travel; controversial supply chain reality behind the brand image; Gift of Kings $12,200 jacket as hero product
+- **[[TheRow]]:** Mystery + curation as brand strategy; personality-driven luxury built around the Olsen twin mystique; Spotify as multi-platform curation vehicle (93K followers, monthly playlists)
+- **[[BrunelloCucinelli]]:** Italian craft lifestyle; men's to casual wear bridge; the founder's humanistic capitalism philosophy as brand identity
+- **[[BottegaVeneta]]:** Logo-free at the highest luxury tier; intrecciato weave as iconographic signature; most aggressive use of "setting" photography; Daniel Lee social media deletion as radical restraint model
 
 See also: [[Balenciaga]] (the spectacle counterpoint — luxury without restraint), [[VirgilAblohOffWhite]] (the Upsell to Downsell mechanic applied at LV)
 
@@ -50,5 +50,6 @@ See also: [[Balenciaga]] (the spectacle counterpoint — luxury without restrain
 - Process content is the most credible way to justify premium pricing — if you can't show how it's made proudly, reconsider the price point
 - Curation is an alternative to process when production isn't showable — become a cultural guide for your consumer's life, not just a product catalog
 - Quiet luxury works because it requires knowledge to access — the insider signal is valuable precisely because it is non-obvious
+- Multi-platform curation (Instagram + Spotify + runway setting) builds a more complete world than any single channel
 
-## Related Pages: [[Enshittification]], [[Art Direction as Brand Strategy]], [[Luxury Brand Positioning Strategy]], [[RalphLauren]], [[Balenciaga]]
+## Related Pages: [[Enshittification]], [[Art Direction as Brand Strategy]], [[Luxury Brand Positioning Strategy]], [[RalphLauren]], [[Balenciaga]], [[LoroPiana]], [[TheRow]], [[BrunelloCucinelli]], [[BottegaVeneta]]

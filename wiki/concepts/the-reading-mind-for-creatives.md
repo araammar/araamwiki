@@ -143,10 +143,12 @@ The concept of a business that grows "radically more than the sum of its parts" 
 **Traction** (EOS / Entrepreneurial Operating System, by Gino Wickman)
 A framework for running businesses with more than 10 people: goal-setting structures, communication systems between executive and operational layers. "You don't realize there are structures that exist that are built really well that I can just run my company on." Teaches: operational infrastructure for creative businesses that have grown past founder-can-manage-everything scale.
 
-**Absolute Savages** (author unnamed, described as given by trusted mentors)
-Mentioned briefly as a companion to EOS. Context insufficient to describe fully.
+### Category 6: Contrarian / Critical Thinking (Current Reads)
 
-### Category 6: World-Building and Fiction
+**Gray Mirror** — Curtis Yarvin (Mencius Moldbug)
+The host's current read at time of recording. "Positions a lot of common liberal perceptions of the past and presents counterpoints to them." Recommended not for ideological agreement but as a study in argument construction: "The way with which they argue, the way with which they talk, how they present the alternatives, and the way people's minds work and approach it is just a really fascinating thing." The stated purpose: in an AI era where ChatGPT and Claude synthesize consensus answers, "being able to have your own schools of position or critical thinking" is the last form of genuine creative differentiation. Teaches: how contrarian arguments are built, how to position unpopular views compellingly, and how to think about problems from first principles rather than from inherited frameworks.
+
+### Category 7: World-Building and Fiction
 
 **Zerville** and **The Adderall Diaries** (authors unnamed)
 "Very American fiction books of previous generations of America and the human emotion and people going through them." Teaches: "How would you write or interpret the life that you're going through now or went through over the last few years in a way like this? It's an interesting way to set up a world for a modern brand."

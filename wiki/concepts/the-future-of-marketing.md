@@ -53,7 +53,7 @@ Some brands have begun finding creative directors (or photographers/directors wi
 **The 10x concept applied internally:** Even without hiring a famous creative director, brands can ask: does our lead visual decision-maker have a point of view that's distinctive enough to function as a brand signature? If not, that's the hire.
 
 ### AI in Advertising
-The debate about whether AI-generated ads are acceptable is over. The watershed moment: a fully AI-generated video campaign for a supplement brand was produced in two days, aired on television, and went viral — outperforming most human-created campaigns in the same period.
+The debate about whether AI-generated ads are acceptable is over. The watershed moment: **Koshi** (a supplement/AG1 competitor), with creator **PJ Asuro**, produced a fully AI-generated hype-reel style video campaign in two days, aired it on television, and went viral — outperforming most human-created campaigns in the same period. Participating in the "AI or not AI" debate at this point is a waste of time. The result is already here.
 
 **The current state:**
 - AI is most effective for hype-reel style content, otherworldly scenarios, and rapid concept visualization
@@ -122,5 +122,5 @@ All of these trends converge on the same insight: the distinction between produc
 
 The brands losing are those still treating marketing as a separate department that activates after the product is finished.
 
-## Related Concepts: [[Internet Splintering]] | [[Content Virality Mechanics]] | [[Brand Archetypes]]
+## Related Concepts: [[Internet Splintering]] | [[Content Virality Mechanics]] | [[Brand Archetypes]] | [[postability-as-design-criterion]] | [[usp-to-tiktok-shop-pipeline]]
 ## Related Strategies: [[Marketing Campaign Masterclass]] | [[Content Operations Playbook]] | [[2026 Content Playbook]] | [[Marketing Plan Framework 2026]]

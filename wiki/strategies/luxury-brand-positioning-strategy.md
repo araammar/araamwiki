@@ -78,7 +78,7 @@ The payoff of luxury brand positioning is generational loyalty. Building it requ
 The risk: loyalty built on signaling (logo visibility) erodes as the signal becomes diluted by mass production. Loyalty built on genuine product quality or authentic community is far more durable.
 
 ## Real Examples
-- [[Quiet Luxury]] — Tier 1-2 positioning executed by Bottega Veneta, The Row, Loro Piana, Brunello Cucinelli
+- [[Quiet Luxury]] — Tier 1-2 positioning; see also brand pages [[BottegaVeneta]], [[TheRow]], [[LoroPiana]], [[BrunelloCucinelli]]
 - [[Supreme]] — Tier 3 mechanics; scarcity architecture; collab as market testing; the fall from peak to sustainable business
 - [[Balenciaga]] — Tier 1-3 simultaneously; upsell to downsell via absurd products; spectacle as positioning
 - [[RalphLauren]] — Tier 2 with sub-brand architecture covering multiple tiers; Olympics as cultural anchor

@@ -90,8 +90,24 @@ If you have a product, start TikTok Shop affiliate within 30 days. Steps: list p
 
 ---
 
+## The GMV Max Layer
+
+Once the organic affiliate layer has proven that specific content converts, **GMV Max** — TikTok's paid amplification tool for Shop content — allows brands to boost proven affiliate posts with paid spend. The operational sequence:
+
+1. Run organic affiliates first (commission-only, no upfront cost)
+2. Identify which creator posts are actually driving completed purchases
+3. Apply GMV Max budget only to proven converters
+4. The result: a paid loop that amplifies what organic has already validated
+
+This inverts the traditional paid media logic. Instead of spending to find what works, you let the affiliate layer find it for free, then spend to scale the winners. The implication for finance teams: the system is legible and capped by margin. Any commission rate + fulfillment cost + GMV Max spend that sits below gross margin is a profitable, infinitely scalable machine.
+
+See also: [[usp-to-tiktok-shop-pipeline]] — the full strategic framework for how product USP, affiliate distribution, and GMV Max combine into a brand scaling system.
+
+---
+
 ## Related Pages
 
+- [[usp-to-tiktok-shop-pipeline]] — the brand-side strategic model: USP → affiliates → GMV Max
 - [[creator-first-brand-strategy]] — the broader philosophy TikTok Shop affiliate lives inside
 - [[affiliate-creator-program-strategy]] — the full operational playbook
 - [[owned-enabled-paid-media-ecosystem]] — where TikTok Shop fits in the media mix

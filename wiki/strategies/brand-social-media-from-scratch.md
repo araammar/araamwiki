@@ -1,7 +1,7 @@
 ---
 tags: [strategy, social-media, content-types, lead-generation, brand-building]
 source_videos: [pKeZ5XK2vp4]
-last_updated: 2026-05-24
+last_updated: 2026-05-28
 ---
 
 # Strategy: Brand Social Media from Scratch
@@ -108,5 +108,8 @@ This is the most underused layer. Every person who comments on your content is a
 - **Setting up accounts in the wrong country:** The algorithm serves content based on where the account was created. An account set up while on vacation in another country will target that country's audience.
 - **Guru hacks and platform tricks:** 2-second videos, reposting TikToks to stories, specific audio exploits — all distractions. None of this compounds into business value.
 
-## Related Concepts: [[Content Virality Mechanics]] | [[Brand Archetypes]] | [[Internet Splintering]]
+## Key Insight: Content Is Not Ephemeral
+Short-form content is widely assumed to die in 24–48 hours. For value-driven content this is false. Instagram Reels now surface in Google search results, seasonal topics resurge each time their industry event recurs (Canton Fair example), and the algorithm retests content against new audiences months later. A video that gets 600 views in week one should be placed in the welcome email, product page, and post-call nurture flow — it is a permanent funnel asset, not a one-day campaign. See [[short-form-content-longevity]].
+
+## Related Concepts: [[Content Virality Mechanics]] | [[Brand Archetypes]] | [[Internet Splintering]] | [[expert-driven-content-model]] | [[short-form-content-longevity]] | [[founder-email]]
 ## Related Strategies: [[Marketing Plan Framework 2026]] | [[2026 Content Playbook]] | [[Content Operations Playbook]] | [[Viral Content Playbook]]
