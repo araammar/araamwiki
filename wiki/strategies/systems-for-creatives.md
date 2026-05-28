@@ -1,7 +1,7 @@
 ---
 tags: [strategy, framework, systems, productivity, workflow, organization, creatives]
 source_videos: [QHPmOgnc96E]
-last_updated: 2026-05-24
+last_updated: 2026-05-28
 ---
 
 # Strategy: Systems for Creatives
@@ -151,5 +151,18 @@ Use a dedicated accounting platform (Xero, QuickBooks, etc.) from day one. The t
 - **Tracking pillar performance but never making decisions from it** — the tracker only works if you use the data to change something
 - **Treating client communication updates as optional** — one missed week and a client's trust erodes; it has to be a non-negotiable weekly ritual
 
-## Related Concepts: [[Creator Economy in 2026]]
-## Related Strategies: [[Personal Rebrand Playbook]], [[Short-Form Video That Makes Money]], [[Personal Branding Full Playbook]]
+## Related Concepts
+- [[creator-economy-in-2026]] — broader economic context for why creative systems matter in 2026
+- [[creative-toolkit-bookmark-system]] — deep operational detail on the reference repository (System 1)
+- [[identity-change-framework]] — the Systems Year framing: why systems are a prerequisite, not a nice-to-have
+- [[creative-self-sabotage]] — the psychological reasons creatives resist building systems
+- [[communication-as-a-life-skill]] — how the weekly update (System 4) builds professional communication muscle
+- [[relevancy-decay-problem]] — why research time must be protected inside the calendar (System 9)
+
+## Related Strategies
+- [[life-systems-for-creatives]] — full narrative companion page with detailed context and deeper implementation notes for all 11 systems
+- [[executive-schedule-for-creators]] — 30-minute time-blocking system that operationalizes calendar blocking (System 9)
+- [[intentional-scroll-platform-intelligence]] — the system that fills the reference repository (System 1)
+- [[personal-rebrand-playbook]] — what comes after the Systems Year
+- [[short-form-video-that-makes-money]] — the content pillar system (System 7) applied to video content
+- [[personal-branding-full-playbook]] — the signature series (System 8) as personal brand engine

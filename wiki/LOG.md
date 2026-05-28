@@ -4,6 +4,36 @@
 
 ---
 
+## 2026-05-28 — Re-Ingest Batch 4 (5 videos)
+
+- **Operation:** DEEP RE-INGEST (batch)
+- **Videos:** ZzsoouA3FWU · QHPmOgnc96E · gFyvRbkTGZg · kFfN_t3bH_8 · C9epWGO8VA4
+- **Method:** 5 parallel agents; [EXISTS]/[NEW]/[SKIP] tagging
+- **Pages created:** 7 | **Pages updated:** 8
+
+**Pages Created:**
+- `wiki/concepts/creative-partnership-model.md` — Collaborate-as-they-rise; Stills/Bad Bunny; Kanye collaborator model; one-to-one creative director relationship
+- `wiki/concepts/cultural-authenticity-at-scale.md` — "Pop comes to us" mantra; Bad Bunny/BTS depth-over-crossover proof; language-is-not-a-barrier
+- `wiki/concepts/creative-bravery.md` — Real risk vs. stunt; 10-year vision test; Bad Bunny drag, Tyler, Charli XCX as examples
+- `wiki/concepts/counterposition-for-personalities.md` — Category code audit for creatives/founders; Bad Bunny, Tyler (twice), guru counter-signaling
+- `wiki/concepts/vision-extension.md` — World-building beyond core product; Charli XCX/Brat as model; participatory mechanics + artifacts + meme-ability
+- `wiki/concepts/campaign-central-object.md` — Single prop coordinating all campaign tiers; Morphe butter + Rod PR kit examples; designed-to-be-filmed principle
+- `wiki/reference/similarweb.md` — Competitive intel tool: AI brand visibility, referral traffic gaps, ad creative research
+
+**Pages Updated:**
+- `wiki/brands/BadBunny.md` — Creative bravery section + "pop comes to us" section
+- `wiki/concepts/the-rebrand-playbook.md` — Counterposition + vision extension layers
+- `wiki/concepts/sports-creative-direction.md` — Underground leagues, NIL athletes, transfer portal economics, District Vision model
+- `wiki/strategies/personal-rebrand-playbook.md` — Mastery/Obsession year tactical additions
+- `wiki/strategies/identity-change-framework.md` — Stage 6 Obsession Year expansion
+- `wiki/strategies/2026-content-playbook.md` — Size of prize + recognition hook + World Builder enablement checklist
+- `wiki/strategies/life-systems-for-creatives.md` — Cross-link enrichment
+- `wiki/strategies/systems-for-creatives.md` — Cross-link enrichment
+
+**Index Updated:** 204 → 211 pages; concepts 101 → 107; reference 9 → 10; operations 24 → 29
+
+---
+
 ## 2026-05-28 — Re-Ingest Batch 3 (5 videos)
 
 - **Operation:** DEEP RE-INGEST (batch)

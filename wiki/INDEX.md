@@ -9,14 +9,14 @@
 ## Stats
 
 - **Total brands:** 9
-- **Total concepts:** 101
+- **Total concepts:** 107
 - **Total strategies:** 52
 - **Total ideas:** 28
-- **Total reference pages:** 9
+- **Total reference pages:** 10
 - **Total products:** 1 product (4 pages)
-- **Total wiki pages:** 204
+- **Total wiki pages:** 211
 - **Source transcripts ingested:** 46+
-- **Ingest operations:** 24 (bulk 40 videos + wiki expansion pass + Drive sync + Dan Martell AI + Orin John Open Residency + Taylor Holiday 2026 E-Commerce Masterclass + Peter Rahal David Protein + Callaway Short-Form Masterclass + Orin John LinkedIn Cursed Opportunity + Pricing Psychology deep re-ingest + Boy Internet deep re-ingest + Brand Archetypes deep re-ingest + Enshittification deep re-ingest + Taste Economy deep re-ingest + Creative Offers deep re-ingest + Art of Yapping deep re-ingest + Hailey Bieber/Rhode deep re-ingest + Japan Branding deep re-ingest + Content Operations deep re-ingest + Internet Splintering deep re-ingest + Apple/Tech Branding deep re-ingest + Marketing Plan 2026 deep re-ingest + 1067 Short-Form deep re-ingest + Psychology of Luxury deep re-ingest)
+- **Ingest operations:** 29 (bulk 40 videos + wiki expansion pass + Drive sync + Dan Martell AI + Orin John Open Residency + Taylor Holiday 2026 E-Commerce Masterclass + Peter Rahal David Protein + Callaway Short-Form Masterclass + Orin John LinkedIn Cursed Opportunity + Pricing Psychology deep re-ingest + Boy Internet deep re-ingest + Brand Archetypes deep re-ingest + Enshittification deep re-ingest + Taste Economy deep re-ingest + Creative Offers deep re-ingest + Art of Yapping deep re-ingest + Hailey Bieber/Rhode deep re-ingest + Japan Branding deep re-ingest + Content Operations deep re-ingest + Internet Splintering deep re-ingest + Apple/Tech Branding deep re-ingest + Marketing Plan 2026 deep re-ingest + 1067 Short-Form deep re-ingest + Psychology of Luxury deep re-ingest)
 
 ---
 
@@ -48,6 +48,10 @@
 |---------|---------|------|
 | Art Direction as Brand Strategy | How visual identity and creative direction become the primary brand-building tool | [[art-direction-as-brand-strategy]] |
 | Brand Artifacts and Lore | Physical objects that extend brand identity and create cultural lore; Anduril Game Boys, TBPN guest merch, Rhode phone case; material storytelling principle | [[brand-artifacts-and-lore]] |
+| Counterposition for Personalities | Category code audit for musicians/creators/founders; Bad Bunny, Tyler, Billie Eilish, guru counter-signaling; repositioning against yourself | [[counterposition-for-personalities]] |
+| Creative Bravery | Real creative risk vs. calculated stunt; 10-year vision test; Bad Bunny drag, Tyler provocations, Charli XCX abrasion | [[creative-bravery]] |
+| Cultural Authenticity at Scale | "Pop comes to us" mantra; Bad Bunny/BTS proof; depth-before-width sequence; language-is-not-a-barrier principle | [[cultural-authenticity-at-scale]] |
+| Vision Extension | World-building beyond core product; Charli XCX/Brat rollout as model; participatory mechanics + physical artifacts + meme-ability | [[vision-extension]] |
 | Brand Rituals | Predictable, recurring brand actions audiences anticipate; Apple WWDC model; Lux Capital quarterly letter; ritual design and compounding | [[brand-rituals]] |
 | Brand Trust Category Expansion | Accumulated brand trust as transferable capital for limitless category expansion; Muji as model; Graza/Satisfy/Kin's as DTC parallels | [[brand-trust-category-expansion]] |
 | Curation as Business Model | Operating a curated store as a better-fit model than building an original brand for taste-authority creators; Good Hood, March Copenhagen, Flamingo Estate | [[curation-as-business-model]] |
@@ -130,6 +134,7 @@
 
 | Concept | Summary | Page |
 |---------|---------|------|
+| Campaign Central Object | Single physical prop/theme coordinating brand + UGC + influencer + expert tiers into one unified cultural moment; Morphe butter example; designed-to-be-filmed principle | [[campaign-central-object]] |
 | Content Anchors Framework | Five anchor types (Fame/Influence/Story/Production Element/Events) — the structural elements a brand uses to give its content world something to orbit around | [[content-anchors-framework]] |
 | Content Squad Era | 2026 squad/TV-show content paradigm: three-phase evolution arc, mutual amplification mechanics, "Secret Lives of Mormon Wives" effect, squad scaling model | [[content-squad-era]] |
 | Creative Toolkit Bookmark System | Notion database turning saved references into queryable strategy library — Sunday processing + tried/untried column | [[creative-toolkit-bookmark-system]] |
@@ -208,6 +213,7 @@
 | Concept | Summary | Page |
 |---------|---------|------|
 | Creative Collective Dynamics | How collectives form, amplify, and fail — Been Trill, Supreme's people machine, K-pop collectives, Japanese brand ecosystems | [[creative-collective-dynamics]] |
+| Creative Partnership Model | Collaborate-as-they-rise principle; Stills/Bad Bunny origin; Kanye's collaborator model; one-to-one creative director relationship; squad mechanic | [[creative-partnership-model]] |
 | Japan as a Creative Philosophy | Imitation-to-surpassing dynamic, Muji philosophy as confidence, curation as original practice, craft-as-identity | [[japan-as-a-creative-philosophy]] |
 | Legacy and Creative Impact | Virgil's Free Game philosophy, documentation as legacy infrastructure, iconography as the residue that persists, ripple effects over accumulation | [[legacy-and-creative-impact]] |
 | Subculture to Mainstream Pipeline | Five-stage model: founding community → gatekeeper networks → crossover moment → institutional absorption → echo/successor phase | [[subculture-to-mainstream-pipeline]] |
@@ -394,6 +400,7 @@
 |------|---------|
 | [[framer]] | Website builder for creative portfolio sites, offer pages, VSL landing pages, and funnel architecture; templates, quick-start steps, Contra companion platform |
 | [[particle]] | Competitive intelligence / ecom sales data — top sellers, color/price distribution, collab performance, marketing cadences; Moncler/Brunello case studies |
+| [[similarweb]] | Competitive intelligence: AI brand visibility / LLM mention share, referral traffic gaps, keyword analysis, ad creative research; step-by-step audit checklist |
 | [[recommended-books]] | 25+ books organized by category: Branding, Marketing/Design, Context, Mindset, Fashion, Business, Fiction |
 | [[reel-idea-tool]] | Idea generator + scorer: 8 criteria (100pt system), 4 modes (full/angles/score/brief), uses claude-opus-4-5 |
 | [[reel-script-tool]] | Script generator: voice DNA from 12 scripts, 10 hook types, 4 energy modes, CTA taxonomy |

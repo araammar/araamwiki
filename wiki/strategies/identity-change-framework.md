@@ -1,7 +1,7 @@
 ---
 tags: [personal-development, identity, creative-life, transformation, behavior-change]
 source_videos: [C9epWGO8VA4]
-last_updated: 2026-05-25
+last_updated: 2026-05-28
 ---
 
 # Strategy: Identity Change Framework
@@ -89,9 +89,10 @@ Do not explain the change to people who didn't ask. Do not apologize for becomin
 If the Rebrand Year isn't enough — if you want to completely restructure your life around a goal — the Obsession Year is the maximum-intensity version. It requires:
 
 - **Full prioritization of the goal over everything else.** "Every single action you take is supporting the goal. If it's not, don't do it."
-- **Explicit negotiation with people close to you.** Tell them what this year means, what it will look like, what you're trading for it. The host had this conversation with his wife — the result was she joined the project rather than resenting it.
+- **Explicit negotiation with people close to you.** Tell them what this year means, what it will look like, what you're trading for it. The host had this conversation with his wife — the result was she joined the project rather than resenting it (they co-built a newsletter together at night instead of watching TV).
 - **Acceptance of the costs.** "It's going to be a long year, it's going to be a hard year, it's probably going to be bad for your health." These are not bugs — they are the nature of the trade.
-- **A defined end date.** The obsession year ends. At the end, you evaluate: continue, intensify, or step back. "Give yourself that year cuz it's not forever."
+- **Resistance to the cultural pressure against going all-in.** "We're in a culture that has us almost feel bad about it. Don't." The belief that you can have massive success with full work-life balance is, "for 99.9% of cases, just absolutely not true." Every person who has reached mass success has likely had to make this trade at some point.
+- **A defined end date.** The obsession year ends. At the end, you evaluate: continue, intensify, or step back. "Give yourself that year cuz it's not forever." You can choose to do another one, or choose to reset. Either is legitimate — the year was always bounded.
 
 ## The Details
 

@@ -1,7 +1,7 @@
 ---
 tags: [systems, personal-development, creative-life, organization, productivity]
 source_videos: [QHPmOgnc96E, C9epWGO8VA4]
-last_updated: 2026-05-25
+last_updated: 2026-05-28
 ---
 
 # Strategy: Life Systems for Creatives
@@ -230,7 +230,16 @@ The combination of calendar (when) + task list (what) is the core operating syst
 - "Those three things together — calendar, task tracking, and communication — with when acted on for 52 weeks straight, turn you from a chaotic person to an action person"
 
 ## Related Concepts
-- [[identity-change-framework]]
-- [[identity-and-creative-work]]
-- [[creative-self-sabotage]]
-- [[communication-as-a-life-skill]]
+- [[identity-change-framework]] — the year-type framework (Systems Year vs. Money Year vs. Rebrand Year) that determines when to use this playbook
+- [[identity-and-creative-work]] — why systems are harder for creatives (identity ceilings, frozen self)
+- [[creative-self-sabotage]] — the psychological patterns that kill systems before they become habits
+- [[communication-as-a-life-skill]] — weekly update (System 4) as communication infrastructure
+- [[creative-toolkit-bookmark-system]] — deep-dive on the reference repository (System 1) including the tried/untried column and feed engineering layer
+- [[executive-schedule-for-creators]] — time-blocking system that sits on top of the calendar (System 7) and task tracking (System 8)
+- [[intentional-scroll-platform-intelligence]] — the platform intelligence layer that feeds the reference repository
+
+## Related Strategies
+- [[systems-for-creatives]] — operational companion page with implementation checklists for all 11 systems
+- [[personal-rebrand-playbook]] — the Rebrand Year that follows after a successful Systems Year
+- [[short-form-video-that-makes-money]] — the content pillar system (System 11) in action for video creators
+- [[personal-branding-full-playbook]] — the signature series (System 10) as a personal brand accelerator

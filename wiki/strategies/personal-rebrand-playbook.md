@@ -1,7 +1,7 @@
 ---
 tags: [strategy, framework, rebrand, identity, personal-development, creatives, transformation]
 source_videos: [C9epWGO8VA4]
-last_updated: 2026-05-24
+last_updated: 2026-05-28
 ---
 
 # Strategy: Personal Rebrand Playbook
@@ -64,22 +64,25 @@ Commit an entire year to developing one skill at a professional level.
 *Who it's for:* Anyone who wants to add a major capability — short-form video, illustration, 3D, design, music, a new language — but keeps dabbling without making real progress.
 
 *How to execute:*
-1. **Daily practice, no days off**: Make something every single day, even if it's small. A logo, a scene, a video, a design. The constraint of daily output forces learning faster than any course.
-2. **Time-box the daily session**: Decide when (morning, lunch, evening). Put it on the calendar. Plan around it.
-3. **Ask "how do I do this better than yesterday?"**: This single daily question drives improvement faster than consuming more tutorial content.
+1. **Daily practice, no days off**: Make something every single day, even if it's small. A logo, a scene, a video, a design. The constraint of daily output forces learning faster than any course. This includes Christmas, Thanksgiving, vacation days — plan ahead for those weeks so they don't break the streak.
+2. **Time-box the daily session**: Decide when (morning, lunch, evening). Put it on the calendar. If you're working full-time, the window may be small — the creator made short-form videos from ~8:30pm until bedtime every night, after his son went to sleep. The constraint of a tight window forces efficiency.
+3. **Ask "how do I do this better than yesterday?"**: This single daily question drives improvement faster than consuming more tutorial content. It orients the session toward refinement, not just production.
 4. **Public practice**: Post progress (weekly or monthly minimum) — on LinkedIn, Instagram, or even an account no one follows. Public accountability is a forcing function. It also lets you see improvement over time.
-5. **Don't expect money until year's end**: If it comes earlier, great. But don't let the absence of immediate revenue make you quit. The year is the investment; after a year you have something to monetize.
+5. **Don't expect money until year's end**: If it comes earlier, great. But don't let the absence of immediate revenue make you quit. The year is the investment; after a year you have something to monetize. "Put in the year. When the year comes, you can start to think about where the money comes from."
 
 **Year 5: The Obsession Year**
 Go completely all-in on a specific goal — with the understanding that everything else takes a back seat.
 
 *Who it's for:* People who already have something they want to build — a business, a brand, a creative career — and have enough momentum to justify sacrificing other things for a year. This is NOT for people who don't yet know what they want to do.
 
+*The cultural context:* There's a generation of people who believe you can have it all — massive success with work-life balance, without sacrificing a lot to get a lot. "For 99.9% of cases, that is just absolutely not true." We're also in a culture that makes people feel bad about going all-in. Don't. Every person who has reached mass success has likely had to do this at some point.
+
 *How it works:*
 - Every single action of the year must serve the goal. If it doesn't, don't do it.
-- Communicate the year to the people in your life so they understand it's finite and intentional
-- Accept that health, certain friendships, and leisure will be reduced. That's the deal.
-- At the end of the year, evaluate: do I want another obsession year, or do I want to reset?
+- Communicate the year to the people in your life so they understand it's finite and intentional — give them a clear picture of what it will look like and how you'll make it up on the other end
+- Accept that health, certain friendships, and leisure will be reduced. "It's going to be a long year, it's going to be a hard year, it's probably going to be bad for your health." These are not bugs; they are the nature of the trade.
+- Consider bringing your partner INTO the year rather than managing around them — the creator's wife shifted from Netflix evenings to co-building a newsletter together; the obsession year became a shared project
+- At the end of the year, you get to ask: "Do I want this to keep going, or am I done?" You can reset with no guilt. You can decide to do another one. Either is fine — because it was always finite.
 
 *The "is this my year" test:* You already have traction. You left a job, you started something, you're seeing early results, and you know you need to go harder to capitalize. You have something worth obsessing over. If you don't know what that is yet, do the rebrand or mastery year first.
 
