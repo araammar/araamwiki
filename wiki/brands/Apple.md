@@ -31,7 +31,12 @@ Key positioning principle: **every campaign era maps to a stage in the brand's l
 ## Key Brand Moves / Case Studies
 
 **Think Different (1997)**
-Steve Jobs returning. Company needed to redefine what it stood for. Used iconic monoculture figures (Einstein, MLK, Picasso) to signal that Apple is for people who think differently. Worked because 1997 was a monoculture era — everyone knew these figures. This playbook is less replicable today; Anthropic's "Keep Thinking" campaign is the modern analogue, using normal people instead of famous icons.
+Steve Jobs returning. Company needed to redefine what it stood for. Used iconic monoculture figures (Einstein, MLK, Picasso) to signal that Apple is for people who think differently. Worked because 1997 was a monoculture era — everyone knew these figures. This playbook is less replicable today because monoculture celebrity no longer functions the same way.
+
+**The Modern Analogue: Anthropic's "Keep Thinking" Campaign**
+Anthropic's "Keep Thinking" campaign is a direct riff on Think Different — same structural problem (a company trying to answer "why should I watch this brand? what do they stand for?") but adapted for 2026. The critical difference: no famous figures. Instead, the campaign shows normal people in aspirational scenarios — a person with a garage band, someone out hiking, a tinkerer problem-solving without a phone in sight. The individual is front and center.
+
+The insight: in an era where everyone has years of micro-fame rather than 15 minutes, campaigns that put the *individual user* in the aspirational frame outperform campaigns that put celebrities in it. The audience sees themselves, not someone unreachable. This is the fundamental shift in how celebrity, culture, and campaigns work in the post-monoculture era — and any brand facing an identity-clarity problem should study it.
 
 **The iPod Era — Product as Artifact**
 The iPod silhouette campaign made the product itself so visually iconic that its form factor became the marketing. The lesson: design the artifact, then let the artifact do the advertising. Color-coded silhouettes on bold backgrounds became instantly recognizable globally.
@@ -54,5 +59,5 @@ Apple no longer "advertises" in the traditional sense. It sponsors the Super Bow
 - Do not run niche influencer campaigns when operating at the scale of a Fortune 500 — ambition must rise with company size
 - Do not rely on a single iconic campaign format forever — Apple has reinvented itself across multiple eras
 
-## Related Concepts: [[Art Direction as Brand Strategy]], [[Spectacle Marketing]], [[Quiet Luxury]]
-## Related Strategies: [[Creative Director Approach to Brand Building]], [[Luxury Brand Positioning Strategy]]
+## Related Concepts: [[art-direction-as-brand-strategy]], [[Spectacle Marketing]], [[Quiet Luxury]], [[prove-it-format]], [[brand-rituals]], [[brand-artifacts-and-lore]], [[tech-brand-visual-world]], [[in-the-arena-iteration-philosophy]]
+## Related Strategies: [[creative-director-approach-to-brand-building]], [[luxury-brand-positioning-strategy]]

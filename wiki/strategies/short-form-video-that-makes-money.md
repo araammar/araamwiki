@@ -1,7 +1,7 @@
 ---
 tags: [strategy, framework, short-form, monetization, personal-brand, social-media, content]
 source_videos: [8gvCc5jvcH0]
-last_updated: 2026-05-24
+last_updated: 2026-05-28
 ---
 
 # Strategy: Short-Form Video That Makes Money
@@ -35,6 +35,25 @@ High-quality, specific, research-backed content is blowing up. Deep dives into n
 
 **The Best Format Right Now: Graphic Yap**
 Position yourself halfway on screen, put graphics over you while you talk. This format works for iPhone or Pro Cam, and is what the top educational creators are using. It lets viewers follow the visual argument while listening. See [[On-Camera Presence & Talking on Video]] for the full breakdown.
+
+**The 2026 Dual-Pillar Formula**
+The creators winning in 2026 are not just doing graphic yap. They are running two complementary content types in tandem:
+- **Pillar 1 (Intellectual):** 1–2 deeply researched graphic yap videos per week. Real work, real research, specific depth. This builds reach and establishes authority.
+- **Pillar 2 (Personality):** Regular candid content — vlogs, daily life, opinions, reactions. This builds affinity. Reach without affinity means views without revenue.
+
+The prescription: intellectual content gets you discovered; personality content gets you trusted; trust is what converts. Running only Pillar 1 means you get views but nobody buys from you. Running only Pillar 2 without intellectual substance means you get followers but limited credibility. Both are required.
+
+**Carousels as a Supporting Pillar (Not a Standalone Strategy)**
+In 2026, carousels work as one supporting pillar within a larger personality-led system — not as a standalone account strategy. Specifically:
+- News/announcement carousels work well if you're already building a personality and niche
+- They extend reach to your existing audience and capture new localized audiences
+- They are easy to produce and add variety to the feed
+- They do NOT work as the primary or sole content type — too commodified, no affinity built
+
+The First Class Jerk (Adam Love) model: news carousels + audience-curation compilations (DMing followers for their hotel picks, then compiling into posts) + opinion/concept pieces + physical in-person hotel tours. Each pillar feeds the others. The carousel reaches the feed; the tour builds credibility nobody can fake; the community curation creates a flywheel where new followers see content made from people like them.
+
+**The Audience-Curation Flywheel**
+A specific community-building tactic: when someone follows you, DM them immediately and engage. Collect their preferences or picks (e.g., "What's your favorite hotel?"). Compile those responses into content. The output: the audience feels directly represented, new followers see that joining the community is interactive, and the creator generates content from their audience's own expertise. This loop compounds — more followers → more DMs → more responses → more community-driven content → more followers.
 
 ### Finding and Committing to a Niche
 

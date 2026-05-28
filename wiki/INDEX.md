@@ -9,14 +9,14 @@
 ## Stats
 
 - **Total brands:** 9
-- **Total concepts:** 90
+- **Total concepts:** 101
 - **Total strategies:** 52
 - **Total ideas:** 28
-- **Total reference pages:** 8
+- **Total reference pages:** 9
 - **Total products:** 1 product (4 pages)
-- **Total wiki pages:** 192
+- **Total wiki pages:** 204
 - **Source transcripts ingested:** 46+
-- **Ingest operations:** 19 (bulk 40 videos + wiki expansion pass + Drive sync + Dan Martell AI + Orin John Open Residency + Taylor Holiday 2026 E-Commerce Masterclass + Peter Rahal David Protein + Callaway Short-Form Masterclass + Orin John LinkedIn Cursed Opportunity + Pricing Psychology deep re-ingest + Boy Internet deep re-ingest + Brand Archetypes deep re-ingest + Enshittification deep re-ingest + Taste Economy deep re-ingest + Creative Offers deep re-ingest + Art of Yapping deep re-ingest + Hailey Bieber/Rhode deep re-ingest + Japan Branding deep re-ingest + Content Operations deep re-ingest)
+- **Ingest operations:** 24 (bulk 40 videos + wiki expansion pass + Drive sync + Dan Martell AI + Orin John Open Residency + Taylor Holiday 2026 E-Commerce Masterclass + Peter Rahal David Protein + Callaway Short-Form Masterclass + Orin John LinkedIn Cursed Opportunity + Pricing Psychology deep re-ingest + Boy Internet deep re-ingest + Brand Archetypes deep re-ingest + Enshittification deep re-ingest + Taste Economy deep re-ingest + Creative Offers deep re-ingest + Art of Yapping deep re-ingest + Hailey Bieber/Rhode deep re-ingest + Japan Branding deep re-ingest + Content Operations deep re-ingest + Internet Splintering deep re-ingest + Apple/Tech Branding deep re-ingest + Marketing Plan 2026 deep re-ingest + 1067 Short-Form deep re-ingest + Psychology of Luxury deep re-ingest)
 
 ---
 
@@ -47,7 +47,13 @@
 | Concept | Summary | Page |
 |---------|---------|------|
 | Art Direction as Brand Strategy | How visual identity and creative direction become the primary brand-building tool | [[art-direction-as-brand-strategy]] |
+| Brand Artifacts and Lore | Physical objects that extend brand identity and create cultural lore; Anduril Game Boys, TBPN guest merch, Rhode phone case; material storytelling principle | [[brand-artifacts-and-lore]] |
+| Brand Rituals | Predictable, recurring brand actions audiences anticipate; Apple WWDC model; Lux Capital quarterly letter; ritual design and compounding | [[brand-rituals]] |
 | Brand Trust Category Expansion | Accumulated brand trust as transferable capital for limitless category expansion; Muji as model; Graza/Satisfy/Kin's as DTC parallels | [[brand-trust-category-expansion]] |
+| Curation as Business Model | Operating a curated store as a better-fit model than building an original brand for taste-authority creators; Good Hood, March Copenhagen, Flamingo Estate | [[curation-as-business-model]] |
+| In-the-Arena Iteration Philosophy | Imperfect active participation beats approval-paralysis; A16Z American Dynamism rebrand; silver bullet fallacy; scale-ambition matching | [[in-the-arena-iteration-philosophy]] |
+| Prove-It Format | Creative format where content is only possible because the product works; three levels: direct demo / product-as-instrument / transformation arc; Shot on iPhone | [[prove-it-format]] |
+| Tech Brand Visual World | Visual language of the user: Cash App iconographic system, transaction-data-driven design, card-as-artifact, counter-positioning vs. category defaults | [[tech-brand-visual-world]] |
 | Brand Archetypes | The five social media archetypes — Oracle, Performer, World Builder, Catalyst, Helper — with full descriptions, examples, content funnels, and the Two-Account Method | [[brand-archetypes]] |
 | Design Dupe Economy | Furniture copyright law, counterfeit vs. replica, Interior Icons, Blue Elephant, Alohas — structural margin-recapture dynamic | [[design-dupe-economy]] |
 | Distrust Economy | Consumer default assumption of deception; Reddit gaming; influencer commerce assumption; specificity as trust signal; transparency as brand strategy | [[distrust-economy]] |
@@ -96,6 +102,11 @@
 | Answer Engine Optimization (AEO) | 60% of searches end without a click; how to appear when AI systems recommend brands in your category; visibility score, Reddit strategy, category clarity | [[answer-engine-optimization]] |
 | Content Positioning Pyramid | Position > content — credibility stack, one-sentence position statement, niche specificity | [[content-positioning-pyramid]] |
 | Content Virality Mechanics | The six ways brands go viral — a full mechanical breakdown | [[content-virality-mechanics]] |
+| Experience Era | Audiences expect live events to have a concept gimmick; Expo West "America's Next Top Snacks"; IRL-to-content flywheel; concept > production budget | [[experience-era]] |
+| Gen Alpha Brand Relevance | Legacy brands face existential relevance gap with Gen Alpha; 3-year streaming awareness investment thesis; Jake Paul/W model | [[gen-alpha-brand-relevance]] |
+| Post-Masterclass Information Economy | Information monetization window for workshops/cohorts/memberships in middle-of-bell-curve categories; AI didn't kill paid learning | [[post-masterclass-information-economy]] |
+| Prediction Markets as Information Economy | Polymarket/Kalshi as Stage 1 of information asymmetry being formally priced; Super Bowl/Anthropic betting example; Stage 2 implications | [[prediction-markets-as-information-economy]] |
+| Trend Velocity Exhaustion | 72-hour trend death cycle from brand saturation; "nothing is cool" feeling as structural outcome; escape hatch: indecipherable originality | [[trend-velocity-exhaustion]] |
 | Creator Economy in 2026 | The income map, algorithm fragmentation, platform splits, monetization thresholds | [[creator-economy-in-2026]] |
 | Internet Splintering | How social platforms are fragmenting in 2026 and the new rules of reach | [[internet-splintering]] |
 | LinkedIn Post DNA | 100-post analysis: 13 hook types, 7 closing moves, 3 engagement engines, 5 creator registers | [[linkedin-post-dna]] |
@@ -382,6 +393,7 @@
 | Page | Summary |
 |------|---------|
 | [[framer]] | Website builder for creative portfolio sites, offer pages, VSL landing pages, and funnel architecture; templates, quick-start steps, Contra companion platform |
+| [[particle]] | Competitive intelligence / ecom sales data — top sellers, color/price distribution, collab performance, marketing cadences; Moncler/Brunello case studies |
 | [[recommended-books]] | 25+ books organized by category: Branding, Marketing/Design, Context, Mindset, Fashion, Business, Fiction |
 | [[reel-idea-tool]] | Idea generator + scorer: 8 criteria (100pt system), 4 modes (full/angles/score/brief), uses claude-opus-4-5 |
 | [[reel-script-tool]] | Script generator: voice DNA from 12 scripts, 10 hook types, 4 energy modes, CTA taxonomy |

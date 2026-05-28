@@ -14,6 +14,7 @@ A five-exercise workshopping system for building an annual or quarterly marketin
 - When a brand has hit a revenue ceiling (often around $30–50M) and needs to expand beyond measurable, direct-response tactics
 - When a team feels overwhelmed by too many marketing options and can't prioritize
 - When leadership approval is blocking new initiatives and you need a framework to justify decisions
+- When you need a structured tool to get risk-averse leadership to approve new marketing channels (the normie-to-fringe chart functions as an internal politics tool, not just a planning tool — it makes "fringe" feel like a deliberate, considered bet rather than a reckless ask)
 
 ## The Framework / Steps
 
@@ -24,6 +25,8 @@ Map everything you currently do across three funnel stages:
 - **Bottom of Funnel (Conversion):** SMS, email, sales reps, Instagram Stories, broadcast channels, retargeting. Most brands underinvest here — they get attention but don't ask for the sale hard enough.
 
 Grade each stage honestly (A–F). Wide-funnel businesses (mass market products) need to minimize drop-off at every stage. Narrow-funnel businesses (B2B, enterprise software) need hyper-targeted reach but the same logic applies.
+
+**Wide vs. Narrow Funnel Distinction:** A mass-market product (Toyotas, lipstick, men's t-shirts) has a wide funnel — large top, large potential bottom. Your job is minimizing drop-off at each stage. An enterprise software firm selling seven-figure contracts has a narrow funnel — very few people come out the bottom. It feels different, but the strategic logic is identical: figure out how to reach your specific target demographic, whether that's 1M people or 10K, and optimize how many come out the bottom. Some businesses must go wide at the top to get to a small number at the bottom — that's fine. The only metric that matters at the end is: are you getting to the sales you want?
 
 ### Exercise 2: The Normie-to-Fringe / Sales-to-Awareness Brand Options Chart
 Plot every possible marketing initiative on two axes:
@@ -61,6 +64,13 @@ For campaigns: plan both internal (owned channels, email, content team) and exte
 - **Enterprise software firm** (seven-figure contracts) realized their narrow funnel still followed the same logic — they needed ultra-targeted awareness, not just more cold outbound
 - **Creator example (the presenter):** Product review videos = top of funnel; marketing education content = middle; brand deals and email list CTAs = bottom
 
+## The Awareness Plunge of Faith
+One of the most common problems at the $30–50M revenue ceiling: brands have run measurable, mathematical marketing (Meta Ads, Google Ads, email, wholesale) for years, the CFO and CEO loved it because every dollar had an attributed return — and now they're stuck. They cannot scale beyond that ceiling without investing in awareness, which cannot be measured the same way as a Meta flow.
+
+This is called the awareness plunge of faith. It feels risky because the ROI is harder to prove. But here's the key insight that unlocks approval: **awareness investment doesn't just build awareness — it increases the efficacy of everything you already do.** When you start running brand content and building organic reach, your Meta ads perform better. Your wholesale relationships convert better. You can't measure the causal link directly, but the lift is real.
+
+The practical answer: don't abandon measurable tactics. Assign a budget percentage (e.g., if you spend 14% of revenue on marketing, maybe 9% stays in what's working, and 5% moves into awareness). Make it explicit, limited, and tied to a test window. That's a proposal CFOs can engage with.
+
 ## Pitfalls to Avoid
 - **Only focusing on sales-measurable tactics:** Once you hit a revenue ceiling (often $30–50M), purely measurable tactics plateau. Awareness investment is required to scale, even though it can't be measured the same way as Meta ROAS.
 - **Adding too many new initiatives:** More than 2 new things at once causes all of them to fail. Prioritize ruthlessly.
@@ -68,5 +78,5 @@ For campaigns: plan both internal (owned channels, email, content team) and exte
 - **Planning without assigning owners:** Great content plans die when no one is named responsible.
 - **Not noting why you hit or missed goals:** Without that analysis, you can't replicate wins or avoid repeating mistakes.
 
-## Related Concepts: [[Internet Splintering]] | [[Content Virality Mechanics]] | [[The Future of Marketing]]
+## Related Concepts: [[Internet Splintering]] | [[Content Virality Mechanics]] | [[The Future of Marketing]] | [[gen-alpha-brand-relevance]]
 ## Related Strategies: [[Marketing Campaign Masterclass]] | [[Content Operations Playbook]] | [[Brand Social Media from Scratch]] | [[2026 Content Playbook]]

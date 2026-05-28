@@ -82,4 +82,4 @@ Moncler's Genius campaigns (A$AP Rocky, Donald Glover, Rick Owens) generate enor
 - The aesthetic world a brand constructs is more important than any individual product. What life does your brand imply the customer lives?
 - What brands market and what they actually sell are different things. Use expensive collaborations and aspirational campaigns to sell the core product at a premium price.
 
-## Related Pages: [[The Taste Economy]], [[The Downfall of Old Luxury]], [[New Luxury / Premium Brand Strategy]], [[Pricing Psychology]], [[How to Develop Taste]]
+## Related Pages: [[The Taste Economy]], [[The Downfall of Old Luxury]], [[New Luxury / Premium Brand Strategy]], [[Pricing Psychology]], [[How to Develop Taste]], [[Curation as Business Model]], [[Particle]]

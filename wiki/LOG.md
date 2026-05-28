@@ -4,6 +4,39 @@
 
 ---
 
+## 2026-05-28 — Re-Ingest Batch 3 (5 videos)
+
+- **Operation:** DEEP RE-INGEST (batch)
+- **Videos:** QAjjOOMgqCs · pnbR4RecdLA · 1YVi3iFk3V0 · 8gvCc5jvcH0 · OSx7YsvnQHw
+- **Method:** 5 parallel agents, one per video; [EXISTS]/[NEW]/[SKIP] tagging
+- **Pages created:** 12 | **Pages updated:** 6
+
+**Pages Created:**
+- `wiki/reference/particle.md` — Competitive intel / ecom sales data tool; Moncler/Brunello case studies
+- `wiki/concepts/curation-as-business-model.md` — Curated store as better-fit model for taste-authority creators; Good Hood, March Copenhagen, Flamingo Estate
+- `wiki/concepts/gen-alpha-brand-relevance.md` — Gen Alpha streaming awareness bet; Jake Paul/W model; 3-year investment thesis
+- `wiki/concepts/trend-velocity-exhaustion.md` — 72-hour trend death cycle; brand saturation → "nothing is cool"; indecipherable originality as escape
+- `wiki/concepts/experience-era.md` — IRL events need a concept gimmick; Expo West "America's Next Top Snacks"; concept > production budget
+- `wiki/concepts/prediction-markets-as-information-economy.md` — Polymarket/Kalshi as Stage 1; information asymmetry pricing; Stage 2 implications
+- `wiki/concepts/post-masterclass-information-economy.md` — AI didn't kill paid learning; workshop/cohort/membership formats; middle-bell-curve categories
+- `wiki/concepts/prove-it-format.md` — Creative format only possible because product works; 3 levels; Shot on iPhone canonical example
+- `wiki/concepts/tech-brand-visual-world.md` — Cash App transaction-data-driven design; counter-positioning vs. category defaults
+- `wiki/concepts/brand-artifacts-and-lore.md` — Physical objects that extend brand identity; Anduril Game Boys, TBPN merch, Rhode phone case
+- `wiki/concepts/brand-rituals.md` — Recurring brand actions audiences anticipate; Apple WWDC; Lux Capital quarterly letter
+- `wiki/concepts/in-the-arena-iteration-philosophy.md` — Imperfect active participation; A16Z rebrand model; silver bullet fallacy
+
+**Pages Updated:**
+- `wiki/concepts/internet-splintering.md` — Legacy streaming + social-native content failure section
+- `wiki/strategies/short-form-video-that-makes-money.md` — 2026 dual-pillar formula + carousel mechanic + audience-curation flywheel
+- `wiki/strategies/marketing-plan-framework-2026.md` — Wide/narrow funnel distinction + awareness plunge of faith + gen alpha link
+- `wiki/concepts/psychology-of-luxury.md` — Cross-links to new pages
+- `wiki/brands/Apple.md` — Anthropic "Keep Thinking" campaign analysis + post-monoculture shift
+- `wiki/concepts/art-direction-as-brand-strategy.md` — Cross-links to 5 new Apple/tech pages
+
+**Index Updated:** 192 → 204 pages; concepts 90 → 101; reference 8 → 9; operations 19 → 24
+
+---
+
 ## 2026-05-28 — Re-Ingest Batch 2 (5 videos)
 
 - **Operation:** DEEP RE-INGEST (batch)
