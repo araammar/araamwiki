@@ -6,17 +6,120 @@
 
 ---
 
+## Knowledge Paths
+
+*Pre-built navigation routes for common research sessions. Follow the path top-to-bottom for a complete picture of a topic.*
+
+---
+
+### Path: Short-Form Content
+*Everything in the vault on short-form video — hooks, scripts, strategy, production, platform mechanics, monetization. Start here for any short-form work.*
+
+#### 1. Foundation — Mental Models & Philosophy
+| Page | What It Gives You |
+|------|-------------------|
+| [[video-literacy-as-professional-competency]] | The 4-mechanic attention model every short-form marketer needs to internalize first |
+| [[viewer-as-prediction-machine]] | How the brain processes video as a prediction engine — the science behind retention |
+| [[absorption-rate-framework]] | Why views are the wrong KPI; Content Minutes as trust currency; offer price = content consumed |
+| [[short-form-content-longevity]] | Short-form is NOT ephemeral — Google indexes Reels, algorithm redistributes months later |
+| [[one-of-one-content-moat]] | The AI-proof content strategy: uniqueness > format; AI replaces formats, not lived POV |
+| [[format-maturity-cycles]] | How formats go from opportunity → flood → saturation → evolution; when to exit |
+| [[ai-arbitrage-window]] | Why right now (2025–2028) is the best distribution window in history; the zig/zag model |
+
+#### 2. Hook Engineering — Stop the Scroll
+| Page | What It Gives You |
+|------|-------------------|
+| [[three-part-hook-framework]] | Visual + text + spoken hook must align; confusion = churn; contrast as scroll-stopper |
+| [[shock-score-system]] | 0–100 virality scoring; 100-people-in-a-room test; Payoff Principle; zig-zag storytelling |
+| [[curiosity-gap]] | Distance between presented info and desired info; how to keep the gap open; omission as a tool |
+| [[familiar-and-different-formula]] | Positioning formula: familiar enough to belong, different enough to stop the scroll |
+| [[messages-concepts-hooks-framework]] | Three-pillar system: messages (what) / concepts (how) / hooks (why someone stops) — modular and testable |
+| [[content-virality-mechanics]] | The six ways content goes viral — mechanical breakdown |
+
+#### 3. Script & Story Structure
+| Page | What It Gives You |
+|------|-------------------|
+| [[story-as-qa-structure]] | Great story = series of questions and answers; J.J. Abrams audience math; Jaws omission principle |
+| [[youtube-30-second-hook-structure]] | 3-phase first 30s: confirm the click (7s) → make it personal (20s) → open a new loop (10s) |
+| [[identities-emotions-actions-framework]] | Pre-production planning tool: who / feel / do — filters every creative decision |
+| [[seven-lego-bricks-short-form]] | Core reverse-engineering framework: 7 bricks; find winners → explode → hold world-class bricks → restack |
+| [[prove-it-format]] | Content only possible because the product works; three levels: demo / product-as-instrument / transformation |
+| [[content-goal-framework]] | Shares vs saves vs comments as distinct design targets; Orin's 500-combined guarantee |
+
+#### 4. Production & Workflow
+| Page | What It Gives You |
+|------|-------------------|
+| [[short-form-production-loop]] | Six-step production workflow; content operator / ideas guy split; 180-page brain doc; editor system |
+| [[short-form-video-that-makes-money]] | Lessons from 1,067 videos — what drives revenue vs. just views |
+| [[lessons-from-1000-hours-of-content]] | Ten meta-lessons: volume as teacher, personality as the only moat, commodification timeline |
+| [[on-camera-confidence-framework]] | Seven-phase framework: zero-friction setup, Yap Map, five content structures, Recut Method |
+| [[on-camera-presence]] | Full guide to speaking naturally and compellingly on video |
+| [[creative-strategist-system]] | Notion content database, weekly hook-saving ritual, monthly brand checklist, 5 human emotion frames |
+| [[creative-toolkit-bookmark-system]] | Turning saved references into a queryable strategy library — Sunday processing system |
+
+#### 5. Platform & Distribution Strategy
+| Page | What It Gives You |
+|------|-------------------|
+| [[algorithm-sampling-loop]] | 200→2000 cascade mechanics; topic consistency as sample pool hygiene; winners-first hack |
+| [[youtube-packaging-strategy]] | Title/thumbnail-first production order; desire loop psychology; clickbait vs. bait-and-switch |
+| [[youtube-niche-audit]] | Pre-launch research spreadsheet: search niche, filter by view tiers, find familiar+different intersection |
+| [[youtube-three-rules]] | Complete framework: click / watch / give more; specific benchmarks and mechanics |
+| [[youtube-retention-metrics]] | Three core KPIs: CTR (5–10%), 30s retention (70%), returning viewers; how to read each |
+| [[target-consumption-habits]] | When/where/how your audience consumes: lunchtime mode, casual browsing, gender/age thumbnail differences |
+| [[owned-enabled-paid-media-ecosystem]] | Three-tier media: brand accounts + creator affiliates + ads; enabled tier most underused |
+| [[creator-first-brand-strategy]] | Making creators the primary production engine; why all popping brands have creator-first infrastructure |
+| [[internet-splintering]] | How platforms are fragmenting in 2026 and the new rules of reach |
+
+#### 6. Content Strategy & Angles
+| Page | What It Gives You |
+|------|-------------------|
+| [[value-vs-entertainment-content-framework]] | Two-path framework: bookmarkable expert content vs. personality-driven entertainment |
+| [[five-content-games]] | Five content-business model types; Traffic→Funnels→Offers hierarchy |
+| [[viral-organic-content-formats]] | 10 stable formats: yapping, rankings, credible explainers, unpopular opinions, transformation, and more |
+| [[2026-content-playbook]] | How to get ahead of 99% of brands — the content strategy for 2026 |
+| [[viral-content-playbook]] | The six virality mechanics with activation tactics for each |
+| [[making-interests-interesting]] | Making your niche compelling to outsiders; reverse-engineering your interest path |
+| [[content-positioning-pyramid]] | Position > content — credibility stack, one-sentence position statement, niche specificity |
+
+#### 7. Monetization & Business
+| Page | What It Gives You |
+|------|-------------------|
+| [[zero-to-1m-youtube-blueprint]] | High-ticket offer + precise YouTube content = profit; comment cyclone; super shares; lead magnet taxonomy |
+| [[creator-sponsorship-system]] | Full sponsorship system: deck structure, flat-rate pricing, package-not-one-offs rule |
+| [[tiktok-shop-affiliate-model]] | Commission-based creator commerce; $500M+ Black Friday 2025; economics by tier |
+| [[usp-to-tiktok-shop-pipeline]] | Brand-side TikTok Shop scaling: product USP → affiliate distribution → GMV Max amplification |
+| [[absorption-rate-framework]] | Offer price requires X content minutes consumed — the trust math behind monetization |
+| [[offer-architecture]] | The "I do X for Y at Z" formula; offer stacking; two-tier pricing; VSL layer |
+
+#### 8. Ideas & Scripts (Tools)
+| Page | What It Gives You |
+|------|-------------------|
+| [[reel-idea-tool]] | Idea generator + scorer: 8 criteria, 4 modes (full/angles/score/brief) |
+| [[reel-script-tool]] | Script generator: voice DNA from 12 scripts, 10 hook types, 4 energy modes |
+| [[reel-storyboard-tool]] | Storyboard generator: 12 layout types, caption emphasis rules |
+| [[idea-already-extinct]] | Hook: false belief reframe — scored 9/10 |
+| [[idea-the-knee-doctor-problem]] | Hook: platform insider — scored 9/10 |
+| [[idea-bookmark-graveyard-system]] | Hook: problem reframe — scored 8/10 |
+
+#### 9. Brand References (Study These)
+| Page | What It Gives You |
+|------|-------------------|
+| [[Callaway]] | Systems-first short-form strategist; 7 Lego Bricks in practice; Shock Score system; Sandcastles tool |
+| [[HouseOfErrors]] | Content-era brand that set new benchmark for short-form production quality at launch |
+
+---
+
 ## Stats
 
 - **Total brands:** 19
-- **Total concepts:** 212
-- **Total strategies:** 58
+- **Total concepts:** 224
+- **Total strategies:** 59
 - **Total ideas:** 28
-- **Total reference pages:** 10
+- **Total reference pages:** 11
 - **Total products:** 1 product (4 pages)
-- **Total wiki pages:** 332
-- **Source transcripts ingested:** 54+
-- **Ingest operations:** 48 (bulk 40 videos + wiki expansion pass + Drive sync + Dan Martell AI + Orin John Open Residency + Taylor Holiday 2026 E-Commerce Masterclass + Peter Rahal David Protein + Callaway Short-Form Masterclass + Orin John LinkedIn Cursed Opportunity + Pricing Psychology deep re-ingest + Boy Internet deep re-ingest + Brand Archetypes deep re-ingest + Enshittification deep re-ingest + Taste Economy deep re-ingest + Creative Offers deep re-ingest + Art of Yapping deep re-ingest + Hailey Bieber/Rhode deep re-ingest + Japan Branding deep re-ingest + Content Operations deep re-ingest + Internet Splintering deep re-ingest + Apple/Tech Branding deep re-ingest + Marketing Plan 2026 deep re-ingest + 1067 Short-Form deep re-ingest + Psychology of Luxury deep re-ingest + Batch 7 re-ingest)
+- **Total wiki pages:** 346
+- **Source transcripts ingested:** 55+
+- **Ingest operations:** 49 (bulk 40 videos + wiki expansion pass + Drive sync + Dan Martell AI + Orin John Open Residency + Taylor Holiday 2026 E-Commerce Masterclass + Peter Rahal David Protein + Callaway Short-Form Masterclass + Orin John LinkedIn Cursed Opportunity + Pricing Psychology deep re-ingest + Boy Internet deep re-ingest + Brand Archetypes deep re-ingest + Enshittification deep re-ingest + Taste Economy deep re-ingest + Creative Offers deep re-ingest + Art of Yapping deep re-ingest + Hailey Bieber/Rhode deep re-ingest + Japan Branding deep re-ingest + Content Operations deep re-ingest + Internet Splintering deep re-ingest + Apple/Tech Branding deep re-ingest + Marketing Plan 2026 deep re-ingest + 1067 Short-Form deep re-ingest + Psychology of Luxury deep re-ingest + Batch 7 re-ingest + Lee Gjenj Cold Email Masterclass 2025)
 
 ---
 
@@ -267,6 +370,18 @@
 | Concept | Summary | Page |
 |---------|---------|------|
 | B2B Outbound Audience 2026 | Deep ICP research for B2B outbound freelancers/agencies — pain points, emotional drivers, exact language, 2026 benchmarks | [[b2b-outbound-audience-2026]] |
+| Triple Tap Copywriting | Three-gate cold email framework: Open (subject/preview) → Read (body, 2–3 sentences, spin tax) → Act (one-word CTA); warm email unlock on reply | [[triple-tap-copywriting]] |
+| Cold Email Deliverability | Technical infrastructure for cold email: domain setup, DNS (SPF/DKIM/DMARC), mailbox limits (25/day), warming (MailReach 4 weeks), multi-registrar strategy | [[cold-email-deliverability]] |
+| Cold Email List Building | Lead sourcing (Apollo + trustedleads.io hack, ICPS, Google Maps), multi-layer verification (Million Verifier + Findmail), AI qualification (30–50% list reduction, 2–3x reply lift) | [[cold-email-list-building]] |
+| Signal-Based Outreach | Real-time intent signals (job changes, hiring, funding, LinkedIn engagement) driving targeted outreach; tools: Trigify, Crunchbase, Apify + N8N; >5% reply rate benchmark | [[signal-based-outreach]] |
+| Reverse Lead Magnets | AI-generated personalized assets (audits, reports, custom tools) delivered to interested prospects; perceived value scales with perceived time investment; triggered automatically | [[reverse-lead-magnets]] |
+| Clay AI Workflow | Clay enrichment pipeline for cold email: qualify → verify → Claggent research → 2–8 word AI personalization → push to Instantly; $350/month Explorer, own API keys | [[clay-ai-workflow]] |
+| ReplyJI System | Three-level reply automation: Instantly built-in → Make.com → ReplyJI 2.0 (N8N + Superbase + Claude + Notion); categorizes replies, self-trains via team feedback; launch at 10+ replies/day | [[replyji-system]] |
+| Cold Email AB Testing | One-variable testing: campaigns test audiences, AB variations test copy; track opportunities not reply rate; J Number (emails per booked call) as north star metric | [[cold-email-ab-testing]] |
+| Cold Email Scaling | Scaling equation: target emails/day ÷ 25 = mailboxes; 100 domains × 4 mailboxes = 10K/day; prove J Number before scaling; 10% daily throttle ramp | [[cold-email-scaling]] |
+| Omni-Channel Outreach | Multi-channel follow-up stack: retargeting ads (pixel on all links) → voicemail drops (Drop Cowboy + ElevenLabs) → direct mail (Handwritten $3/letter) → LinkedIn (Hey Reach) | [[omni-channel-outreach]] |
+| Implicit Objection Marketing | Addressing unstated prospect concerns proactively in retargeting ads and cold email copy; the real reasons prospects don't buy that they never voice | [[implicit-objection-marketing]] |
+| Future of Cold Email | Cold email is not dead; email = primary B2B channel; autonomous BDRs failing in 2025; 2030 predictions: cheap data, full AI personalization, signal-based standard, platform consolidation | [[future-of-cold-email]] |
 
 ### AI & Founders
 
@@ -382,6 +497,12 @@
 | Personal Branding Full Playbook | Four levels, five archetypes, content toolkit, monetization progression | [[personal-branding-full-playbook]] |
 | Short-Form Video That Makes Money | Lessons from 1067 videos — what drives revenue vs. just views | [[short-form-video-that-makes-money]] |
 | Systems for Creatives | The 11 systems for getting life together as a creative in 2026 | [[systems-for-creatives]] |
+
+### B2B & Outbound
+
+| Strategy | Summary | Page |
+|----------|---------|------|
+| Cold Email Masterclass 2025 | Lee Gjenj's complete cold email system: 3 pillars (infrastructure/list/offer), Triple Tap, signal workflows, Clay enrichment, ReplyJI automation, omni-channel follow-up | [[cold-email-masterclass-2025]] |
 
 ### AI Systems & Automation
 
@@ -529,6 +650,7 @@
 | [[linkedin-post-tool]] | LinkedIn post generator: 13 hook types, 7 closing moves, 3 engagement engines, 5 creator registers |
 | [[transcript-ingest-tool]] | Two-pass transcript processor: analysis then page generation; modes (full/quick/concepts); Drive folder IDs |
 | [[apex-platform]] | Dan Martell's autonomous AI agent platform: email, scheduling, content, research, software; private servers; Slack/email/WhatsApp |
+| [[cold-email-tool-stack]] | Full tech stack for Lee Gjenj's cold email system: sending (Instantly AI), list building (Apollo + trustedleads.io), verification (Million Verifier + Findmail), enrichment (Clay), signals (Trigify/Crunchbase/Apify), automation (N8N/Make), reply (ReplyJI/Superbase), voicemail (Drop Cowboy + ElevenLabs), direct mail (Handwritten/Clicksend) |
 
 ---
 

@@ -4,6 +4,39 @@
 
 ---
 
+## 2026-06-07 — Lee Gjenj Cold Email Masterclass 2025 (DDGcd1JoJV0)
+
+- **Operation:** DEEP INGEST — YouTube masterclass, 436 minutes, 95 chunks, ~107,000 words
+- **Source:** Lee Gjenj, Cold Email Masterclass 2025, video ID DDGcd1JoJV0
+- **Method:** Autonomous chunk-by-chunk extraction (all 95 chunks, 1,000-word batches) → full concept map → wiki page creation
+- **Pages created:** 14 | **Pages updated:** 0
+
+**Pages Created:**
+
+**Strategies (1)**
+- `wiki/strategies/cold-email-masterclass-2025.md` — Hub page for Lee Gjenj's complete 3-pillar system (infrastructure/list/offer), 12-step framework, all sub-concept links
+
+**Concepts (12)**
+- `wiki/concepts/triple-tap-copywriting.md` — Three-gate framework: Open (subject/preview, never signal sale) → Read (2–3 sentences, spin tax mandatory) → Act (one-word CTA); warm email unlock on reply
+- `wiki/concepts/cold-email-deliverability.md` — Technical infrastructure: multi-registrar domain strategy, DNS (SPF/DKIM/DMARC), Microsoft 365 vs Google Workspace, MailReach warming (4 weeks), 25 emails/mailbox/day limit
+- `wiki/concepts/cold-email-list-building.md` — Lead sources (Apollo + trustedleads.io hack for $50/10K, ICPS, Google Maps scraping), multi-layer verification (Million Verifier → Findmail catch-alls), AI qualification (30–50% reduction, 2–3x reply lift)
+- `wiki/concepts/signal-based-outreach.md` — True signals (job changes, hiring, funding, LinkedIn engagement); tools: Trigify ($2K+/month), Crunchbase, Apify + N8N, Clay native; 3 complete workflows; >5% reply rate benchmark
+- `wiki/concepts/reverse-lead-magnets.md` — AI-generated personalized assets delivered post-reply; perceived value = perceived effort; automation pipeline; RLM types; ReplyJI integration
+- `wiki/concepts/clay-ai-workflow.md` — Clay enrichment pipeline: qualify → verify → Claggent research → 2–8 word personalization → push to Instantly; $350/month Explorer; own API keys; 2030 prediction (absorbed by Instantly)
+- `wiki/concepts/replyji-system.md` — 3-level reply automation: Instantly built-in → Make.com → ReplyJI 2.0 (N8N + Superbase + Claude + Notion + Instantly API); 4 reply categories; training loop; launch at 10+ replies/day
+- `wiki/concepts/cold-email-ab-testing.md` — Single-variable testing framework; campaigns test audiences, AB variations test copy; opportunity tracking over reply rate; J Number as north star; 3-email sequence structure; benchmarks
+- `wiki/concepts/cold-email-scaling.md` — Scaling equation (target emails/day ÷ 25 = mailboxes); 100 domains × 4 mailboxes = 10K/day; J Number gate before scaling; 10% daily throttle; infrastructure cost breakdown
+- `wiki/concepts/omni-channel-outreach.md` — Retargeting ads (pixel all links, 30–90 day window, Facebook/Google/YouTube/LinkedIn primary) + voicemail drops (Drop Cowboy + ElevenLabs voice clone + Claude scripts, trigger on email open) + direct mail (Handwritten $3 premium vs Clicksend bulk) + LinkedIn (Hey Reach, 30/day)
+- `wiki/concepts/implicit-objection-marketing.md` — Unstated reasons prospects don't buy; use in retargeting ads (counter objection before it forms) and cold email copy (address proactively); FOMO via case studies; buyer segment personalization
+- `wiki/concepts/future-of-cold-email.md` — Email = primary B2B channel, not dying; autonomous BDRs failing in 2025; 2030 predictions: cheap data, full AI personalization, proactive problem-solving, Instantly absorbs Clay, signal-based becomes standard; browser automation fallback
+
+**Reference (1)**
+- `wiki/reference/cold-email-tool-stack.md` — Complete tool stack organized by function: sending, domain/mailbox, warming, list building, verification, enrichment, signals, workflow automation, reply automation, voicemail, direct mail, LinkedIn, attribution, AI writing; starter/intermediate/advanced stack tiers
+
+**Index Updated:** 332 → 346 pages; concepts 212 → 224; strategies 58 → 59; reference 10 → 11; operations 48 → 49
+
+---
+
 ## 2026-05-28 — Michael Brandt / Ketone-IQ Open Residency (5aylzhoVsws)
 
 - **Operation:** DEEP INGEST — Open Residency podcast episode
