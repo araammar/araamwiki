@@ -4,6 +4,28 @@
 
 ---
 
+## 2026-06-08 — Harry Dry Copywriting Interview (TUMjnmfsPeM)
+
+- **Operation:** DEEP INGEST — YouTube interview, ~71 minutes, 31 chunks, ~15,196 words
+- **Source:** Harry Dry (founder, Marketing Examples), interviewed by David Perrell or similar host; physical vinyl-mounted ads used as props throughout
+- **Method:** Autonomous chunk-by-chunk extraction (all 31 chunks, 500-word batches) → concept synthesis → wiki page creation
+- **Pages created:** 5 | **Pages updated:** 0
+
+**Pages Created:**
+
+**Concepts (4)**
+- `wiki/concepts/harry-dry-copy-framework.md` — Main hub: Three-question copy test (can I visualize it / can I falsify it / can nobody else say it); Three-piece framework (who / something to say / say it well); 10 classic ad examples with full analysis (Hinge, iPod, Economist, DeBeers, Corvette, Athletic Greens, New Balance, Cybertruck, Tesla Model S, sport sedan); One Mississippi Two Mississippi test; metonymy; juxtaposition; identity positioning; enemy/conflict types
+- `wiki/concepts/copywriting-creative-process.md` — Harry's 25-rewrite method: seed → Point A/B (John Henley) → conflict/enemy (Luke Sullivan line-down-the-middle) → spitballing dirty-water phase → design in medium (Figma, not Word doc) → iterative problem-solving → 3-version feedback method; standards are your work; collect excellence; silence before writing; writing retreats
+- `wiki/concepts/writing-simply.md` — Kaplan's Law of Words ("any words not working for you are working against you"); Harry's Law (you're not taking it seriously enough); "and" as scope-creep warning; paragraph burrito test; 2-line paragraph rule (since March 2021); 4-5 version rewriting; structure via dividing lines + parallelism; idea strength inversely proportional to scope; HuDenim "We make jeans"
+- `wiki/concepts/facts-over-adjectives.md` — "A fact guarantees you say something"; wallpaper/word-shaped-air/balloon-smoke as what most people say; Heinz ketchup story; Ogilvy's Rolls-Royce "electric clock" headline from motor magazine; Harry's 22,000-hours calculation; Tesla 3.1 seconds ad; sports commentary analogy (stats vs. opinions); "Don't say inequality, show me the graph"
+
+**Strategies (1)**
+- `wiki/strategies/newsletter-writing-framework.md` — Harry Dry's newsletter method: letter-not-news reframe (Hanley); time/place/scene opener (JK Rowling model); dense examples (5-6/issue); conflict in every example (pickle juice principle); no paragraph >2 lines; write in the medium (ConvertKit not Google Docs); "fresh bread, warm to touch" test; 100K+ subscribers with extraordinary engagement
+
+**Index Updated:** 347 → 352 pages; concepts 225 → 229; strategies 59 → 60; operations 50 → 51
+
+---
+
 ## 2026-06-07 — Sam McKenna / Apollo Academy — Cold Email Course (ydsMxs2yeos)
 
 - **Operation:** INGEST — YouTube short course, ~9 minutes, 2 chunks, 1,647 words

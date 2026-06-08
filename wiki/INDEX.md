@@ -112,14 +112,14 @@
 ## Stats
 
 - **Total brands:** 19
-- **Total concepts:** 225
-- **Total strategies:** 59
+- **Total concepts:** 229
+- **Total strategies:** 60
 - **Total ideas:** 28
 - **Total reference pages:** 11
 - **Total products:** 1 product (4 pages)
-- **Total wiki pages:** 347
-- **Source transcripts ingested:** 56+
-- **Ingest operations:** 50 (bulk 40 videos + wiki expansion pass + Drive sync + Dan Martell AI + Orin John Open Residency + Taylor Holiday 2026 E-Commerce Masterclass + Peter Rahal David Protein + Callaway Short-Form Masterclass + Orin John LinkedIn Cursed Opportunity + Pricing Psychology deep re-ingest + Boy Internet deep re-ingest + Brand Archetypes deep re-ingest + Enshittification deep re-ingest + Taste Economy deep re-ingest + Creative Offers deep re-ingest + Art of Yapping deep re-ingest + Hailey Bieber/Rhode deep re-ingest + Japan Branding deep re-ingest + Content Operations deep re-ingest + Internet Splintering deep re-ingest + Apple/Tech Branding deep re-ingest + Marketing Plan 2026 deep re-ingest + 1067 Short-Form deep re-ingest + Psychology of Luxury deep re-ingest + Batch 7 re-ingest + Lee Gjenj Cold Email Masterclass 2025)
+- **Total wiki pages:** 352
+- **Source transcripts ingested:** 57+
+- **Ingest operations:** 51 (bulk 40 videos + wiki expansion pass + Drive sync + Dan Martell AI + Orin John Open Residency + Taylor Holiday 2026 E-Commerce Masterclass + Peter Rahal David Protein + Callaway Short-Form Masterclass + Orin John LinkedIn Cursed Opportunity + Pricing Psychology deep re-ingest + Boy Internet deep re-ingest + Brand Archetypes deep re-ingest + Enshittification deep re-ingest + Taste Economy deep re-ingest + Creative Offers deep re-ingest + Art of Yapping deep re-ingest + Hailey Bieber/Rhode deep re-ingest + Japan Branding deep re-ingest + Content Operations deep re-ingest + Internet Splintering deep re-ingest + Apple/Tech Branding deep re-ingest + Marketing Plan 2026 deep re-ingest + 1067 Short-Form deep re-ingest + Psychology of Luxury deep re-ingest + Batch 7 re-ingest + Lee Gjenj Cold Email Masterclass 2025 + Harry Dry Copywriting Interview)
 
 ---
 
@@ -365,6 +365,15 @@
 | Product Architecture Framework | SKU categorization: Champions/Growth Drivers/Underperformers/Hidden Gems; product expansion errors; brand = LTV; 30/100 benchmark | [[product-architecture-framework]] |
 | Shrinking Sponge Problem | Active customer file decay: 5 customer segments; MER trap disguising decline; 4-step recovery framework; integrated finance-marketing requirement | [[shrinking-sponge-problem]] |
 
+### Copywriting & Advertising
+
+| Concept | Summary | Page |
+|---------|---------|------|
+| Harry Dry Copy Framework | Three-question copy test (visualize / falsify / can nobody else say it) + three-piece production framework (who / something to say / say it well); 10 classic ad examples analyzed | [[harry-dry-copy-framework]] |
+| Copywriting Creative Process | Harry Dry's 25-rewrite method: seed → point A/B → conflict (Luke Sullivan) → spitballing → design in medium → iterate → get feedback on 3 versions; standards are your work | [[copywriting-creative-process]] |
+| Writing Simply | Kaplan's Law of Words; Harry's corollary; the "and" warning sign; paragraph burrito test; 2-line paragraph rule; 4-5 version rewriting technique; structure through dividing lines + parallelism | [[writing-simply]] |
+| Facts Over Adjectives | Why facts guarantee you say something; "wallpaper, word-shaped air, balloon smoke"; precision as trust signal; facts as copy seeds (Ogilvy's Rolls-Royce, Harry's 22,000 hours); start with fact, build story | [[facts-over-adjectives]] |
+
 ### B2B & Outbound
 
 | Concept | Summary | Page |
@@ -517,6 +526,7 @@
 
 | Strategy | Summary | Page |
 |----------|---------|------|
+| Newsletter Writing Framework | Harry Dry's newsletter method: letter-not-news reframe; time/place/scene opener; dense examples (5-6/issue); conflict in every example; 2-line paragraph rule; write in the medium | [[newsletter-writing-framework]] |
 | Viral Organic Content Formats | 10 stable formats: yapping, rankings, credible explainers, unpopular opinions, provocative scenarios, transformation, and more | [[viral-organic-content-formats]] |
 | Affiliate Creator Program Strategy | Build → scale → feed paid: sourcing, communities, rights purchasing, organic-to-paid pipeline, scale benchmarks | [[affiliate-creator-program-strategy]] |
 | Creative Strategist System | Notion content database, weekly hook-saving ritual, monthly brand checklist, 5 human emotion frames, persona segmentation | [[creative-strategist-system]] |
