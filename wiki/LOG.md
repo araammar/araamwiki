@@ -4,6 +4,22 @@
 
 ---
 
+## 2026-06-07 — Sam McKenna / Apollo Academy — Cold Email Course (ydsMxs2yeos)
+
+- **Operation:** INGEST — YouTube short course, ~9 minutes, 2 chunks, 1,647 words
+- **Source:** Sam McKenna (CEO #samsales Consulting), Apollo Academy Cold Email Course
+- **Pages created:** 1 | **Pages updated:** 1
+
+**Pages Created:**
+- `wiki/concepts/show-me-you-know-me.md` — SMYKM framework: personalized subject line test (makes zero sense to anyone except recipient), 43% open / 20% reply vs 6% / 0.9% industry, scalability via shared traits, preview text mechanics, value prop as challenge-not-product, preemptive objection handling, open-window CTA ("next week or two")
+
+**Pages Updated:**
+- `wiki/concepts/triple-tap-copywriting.md` — Added "Contrasting Approach" section noting SMYKM's different stance on email length and CTA style; cross-linked
+
+**Index Updated:** 346 → 347 pages; concepts 224 → 225; operations 49 → 50
+
+---
+
 ## 2026-06-07 — Lee Gjenj Cold Email Masterclass 2025 (DDGcd1JoJV0)
 
 - **Operation:** DEEP INGEST — YouTube masterclass, 436 minutes, 95 chunks, ~107,000 words

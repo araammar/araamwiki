@@ -98,8 +98,17 @@ Each mailbox receives a slightly different version, making the pattern undetecta
 - Once someone replies, switch registers entirely — warmer, more conversational, direct about the offer
 - Pair with [[reverse-lead-magnets]] for the most powerful reply-to-conversion stack
 
+## Contrasting Approach
+
+**Sam McKenna's SMYKM framework** (see [[show-me-you-know-me]]) takes a different stance on two points:
+- **Length:** McKenna argues longer is better when you can preempt objections; Triple Tap argues 2–3 sentences max
+- **CTA:** McKenna uses a soft open-window scheduling ask ("next week or two"); Triple Tap uses a one-word reply ask
+
+Both agree on the subject line principle (never signal the sale) and the personalization imperative. Triple Tap is optimized for high-volume B2B outreach at scale; SMYKM is optimized for high-value executive outreach where each email is heavily researched.
+
 ## Related Pages
 - [[cold-email-masterclass-2025]]
+- [[show-me-you-know-me]]
 - [[reverse-lead-magnets]]
 - [[cold-email-deliverability]]
 - [[cold-email-ab-testing]]

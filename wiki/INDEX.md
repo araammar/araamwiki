@@ -112,14 +112,14 @@
 ## Stats
 
 - **Total brands:** 19
-- **Total concepts:** 224
+- **Total concepts:** 225
 - **Total strategies:** 59
 - **Total ideas:** 28
 - **Total reference pages:** 11
 - **Total products:** 1 product (4 pages)
-- **Total wiki pages:** 346
-- **Source transcripts ingested:** 55+
-- **Ingest operations:** 49 (bulk 40 videos + wiki expansion pass + Drive sync + Dan Martell AI + Orin John Open Residency + Taylor Holiday 2026 E-Commerce Masterclass + Peter Rahal David Protein + Callaway Short-Form Masterclass + Orin John LinkedIn Cursed Opportunity + Pricing Psychology deep re-ingest + Boy Internet deep re-ingest + Brand Archetypes deep re-ingest + Enshittification deep re-ingest + Taste Economy deep re-ingest + Creative Offers deep re-ingest + Art of Yapping deep re-ingest + Hailey Bieber/Rhode deep re-ingest + Japan Branding deep re-ingest + Content Operations deep re-ingest + Internet Splintering deep re-ingest + Apple/Tech Branding deep re-ingest + Marketing Plan 2026 deep re-ingest + 1067 Short-Form deep re-ingest + Psychology of Luxury deep re-ingest + Batch 7 re-ingest + Lee Gjenj Cold Email Masterclass 2025)
+- **Total wiki pages:** 347
+- **Source transcripts ingested:** 56+
+- **Ingest operations:** 50 (bulk 40 videos + wiki expansion pass + Drive sync + Dan Martell AI + Orin John Open Residency + Taylor Holiday 2026 E-Commerce Masterclass + Peter Rahal David Protein + Callaway Short-Form Masterclass + Orin John LinkedIn Cursed Opportunity + Pricing Psychology deep re-ingest + Boy Internet deep re-ingest + Brand Archetypes deep re-ingest + Enshittification deep re-ingest + Taste Economy deep re-ingest + Creative Offers deep re-ingest + Art of Yapping deep re-ingest + Hailey Bieber/Rhode deep re-ingest + Japan Branding deep re-ingest + Content Operations deep re-ingest + Internet Splintering deep re-ingest + Apple/Tech Branding deep re-ingest + Marketing Plan 2026 deep re-ingest + 1067 Short-Form deep re-ingest + Psychology of Luxury deep re-ingest + Batch 7 re-ingest + Lee Gjenj Cold Email Masterclass 2025)
 
 ---
 
@@ -371,6 +371,7 @@
 |---------|---------|------|
 | B2B Outbound Audience 2026 | Deep ICP research for B2B outbound freelancers/agencies — pain points, emotional drivers, exact language, 2026 benchmarks | [[b2b-outbound-audience-2026]] |
 | Triple Tap Copywriting | Three-gate cold email framework: Open (subject/preview) → Read (body, 2–3 sentences, spin tax) → Act (one-word CTA); warm email unlock on reply | [[triple-tap-copywriting]] |
+| Show Me You Know Me (SMYKM) | Sam McKenna's executive cold email framework: subject line must make zero sense to anyone except the recipient; 43% open / 20% reply vs 6% / 0.9% industry avg; preemptive objection handling in body; open-window CTA | [[show-me-you-know-me]] |
 | Cold Email Deliverability | Technical infrastructure for cold email: domain setup, DNS (SPF/DKIM/DMARC), mailbox limits (25/day), warming (MailReach 4 weeks), multi-registrar strategy | [[cold-email-deliverability]] |
 | Cold Email List Building | Lead sourcing (Apollo + trustedleads.io hack, ICPS, Google Maps), multi-layer verification (Million Verifier + Findmail), AI qualification (30–50% list reduction, 2–3x reply lift) | [[cold-email-list-building]] |
 | Signal-Based Outreach | Real-time intent signals (job changes, hiring, funding, LinkedIn engagement) driving targeted outreach; tools: Trigify, Crunchbase, Apify + N8N; >5% reply rate benchmark | [[signal-based-outreach]] |
