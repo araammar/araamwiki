@@ -1,7 +1,7 @@
 # Vault Index
 
 *Master index of everything in the Araamwiki knowledge base.*
-*Last updated: 2026-05-28*
+*Last updated: 2026-06-21 (latest: $100M Money Models ingest — Hormozi trilogy complete)*
 *Auto-maintained by Claude — update after every ingest.*
 
 ---
@@ -109,17 +109,243 @@
 
 ---
 
+### Path: Money Models
+*Everything in the vault on Money Models — how to get customers to buy, the sequence of offers that maximizes 30-day profit. Built around Alex Hormozi's $100M Money Models (Vol III) as canonical source. Pairs with Path: Offers + Path: Leads = the complete Hormozi trilogy.*
+
+**Location:** `wiki/money-models/` (dedicated section — every page in this Path lives there)
+
+#### 1. The Foundation
+| Page | What It Gives You |
+|------|-------------------|
+| [[money-models/README]] | Section overview — read this first to orient |
+| [[money-models-master-hub]] | The hub. Storage-unit-mentor origin. The rental car $19→$100/day example. $25K "level-10 skill in level-2 opportunity" phone call. |
+| [[four-offer-types-framework]] | Attraction × Upsell × Downsell × Continuity. The 7 ground rules. Burger Shop 12× upsell math. |
+
+#### 2. Attraction Offers (turn strangers into customers)
+| Page | What It Gives You |
+|------|-------------------|
+| [[attraction-offers-overview]] | The 5 plays + free/discount continuum |
+| [[win-your-money-back-offer]] | Danny's $500 referral story. 3 conditions (Results/Actions/Both). $1B+ industry sales. |
+| [[giveaways-offer]] | Fitness certification full-ride + partial-scholarship. 6-step process. Whisper-Tease-Shout reference. |
+| [[decoy-offer]] | John's $5 VIP Tanning Pass + Turkey Talk. Saved Hormozi's gym at 8/10 take rate. |
+| [[buy-x-get-y-free-offer]] | Boot Factory cowboy boots. "Buy 6 Get 12 Free" service framing. |
+| [[pay-less-now-pay-more-later-offer]] | Reading guru $0/$297 vs $97-now offer. |
+
+#### 3. Upsell Offers (whatever you offer next)
+| Page | What It Gives You |
+|------|-------------------|
+| [[upsell-offers-overview]] | Burger shop 12× profit math. 4 plays. |
+| [[classic-upsell]] | Fur coat ear-muff storage trick. "Say No To Say Yes." Hyper buying cycle. BAMFAM mandate. |
+| [[menu-upsell-system]] | 3-story discovery arc (chocolate-vanilla → prescription → unselling). 4-component framework. Economist play. |
+| [[anchor-upsell]] | Hormozi's $16,000 suit story. "The Gasp." "Only thing worse than $1K offer to $100 budget..." |
+| [[rollover-upsell]] | Justin's gym save. $1.9M ARR from one day of recording videos. Famous gift card play. |
+
+#### 4. Downsell Offers (what to offer when they say no)
+| Page | What It Gives You |
+|------|-------------------|
+| [[downsell-offers-overview]] | 4 rules. Insurance salesman who lost trust. "You can offer something different for less, just not the same thing." |
+| [[payment-plan-downsell]] | Hormozi's first sale. 7-step process. Seesaw downselling. **ProfitWell data: monthly 10.7% / quarterly 5% / annual 2% churn**. |
+| [[trial-with-penalty-downsell]] | Leila + HR software story. How to upsell from a trial in 3 scenarios. |
+| [[feature-downsell]] | Guarantee-removal trick (25%→75% close rate). Full feature-variation menu. |
+
+#### 5. Continuity Offers (keep them paying)
+| Page | What It Gives You |
+|------|-------------------|
+| [[continuity-offers-overview]] | "Shear a sheep for a lifetime." 3 plays. Reward vs punishment. |
+| [[continuity-bonus-offer]] | Gym tripled membership sales pivot. Standalone-vs-continuity pricing data table. |
+| [[continuity-discount-offer]] | Austin trash legend. **Weekly billing 8.3% boost (highest-value tip in the book)**. 3% processing fee trick. |
+| [[waived-fee-offer]] | High-ticket legend's million-dollar simplicity. |
+
+#### 6. Build Your Money Model
+| Page | What It Gives You |
+|------|-------------------|
+| [[make-your-money-model]] | 3-stage build (Get Cash → More Cash → Most Cash). Gym Launch evolution ($476K → $1.5M → $2.3M → $4.4M/mo). Affiliate Products fill Money Model gaps. |
+| [[money-model-examples]] | 4 case studies (Gym Launch / Micro Gym / Newsletter "6-headed money-making monster" / Dog Food). |
+
+#### 7. Archive
+| Page | What It Gives You |
+|------|-------------------|
+| [[money-models-stories-archive]] | Every story and example archived verbatim |
+| [[money-models-pro-tips-vault]] | Every pro tip indexed by category — includes the weekly-billing 8.3% tip |
+| [[money-models-chunk-analysis]] | Systematic 45-chunk coverage audit |
+
+#### Cross-Links To The Hormozi Trilogy
+| Connection | Why It's Connected |
+|---|---|
+| [[grand-slam-offer]] | Money Models assume Grand Slam Offers as building blocks |
+| [[value-equation]] | Each offer in a Money Model is constructed using the Value Equation |
+| [[leads-master-hub]] | Lead generation feeds the Money Model |
+| [[client-financed-acquisition]] | This entire book is the operational expansion of CFA |
+| [[lost-chapter-avatar-refinement]] | Avatar work is upstream of every offer |
+| [[whisper-tease-shout-launch]] | Giveaway countdown phase explicitly references this |
+| [[bamfam-book-meeting-from-meeting]] | Classic Upsell mandates BAMFAM at every meeting close |
+
+---
+
+### Path: Leads
+*Everything in the vault on lead generation — engaged leads, lead magnets, the Core Four advertising methods, Lead Getters, scaling. Built around Alex Hormozi's $100M Leads as the canonical source. Pairs with Path: Offers.*
+
+**Location:** `wiki/leads/` (dedicated section — every page in this Path lives there)
+
+#### 1. The Central Hub
+| Page | What It Gives You |
+|------|-------------------|
+| [[leads/README]] | Section overview — read this first to orient |
+| [[leads-master-hub]] | The hub. Four-question framework (more / better / cheaper / reliable leads). Hormozi's 36:1 lifetime ROI. The book's structure. |
+
+#### 2. Foundations
+| Page | What It Gives You |
+|------|-------------------|
+| [[engaged-leads-definition]] | What a lead actually is; engaged leads as the true output of advertising |
+| [[lead-magnets-framework]] | The 7-step lead magnet system + 3 types (Reveal Problem / Sample / One Step) + 4 delivery methods (Software / Information / Service / Physical) — 12 variants |
+| [[case-study-vs-webinar-story]] | April 2016 origin: people don't want the webinar, they want the case study |
+
+#### 3. The Core Four (only 4 ways one person can advertise)
+| Page | What It Gives You |
+|------|-------------------|
+| [[core-four-overview]] | Warm/cold × public/private = 4 quadrants |
+| [[warm-outreach-system]] | The 10-step framework + ACA reply framework + "First Five Free" + $100K/yr math |
+| [[9-word-email]] | Dean Jackson's re-engagement template — *"Are you still looking to [4 word desire]?"* |
+| [[content-unit-framework]] | Hook + Retain + Reward; 5 topic categories; 7 headline components; Kylie/Huda/McGregor/Rock realization |
+| [[give-ask-ratio]] | TV 3.5:1 vs Facebook 4:1 vs growth platforms 10:1+; "Give until they ask" |
+| [[content-monetization-strategies]] | Depth-vs-Width scaling + 7 content lessons + 78% / 2-long-form-content insight |
+| [[cold-outreach-system]] | 3 problems / 3 solutions; list-building (Softwares → Brokers → Elbow Grease); Personalize + Big Fast Value; volume + 3-6mo restart; 7 strategic benefits |
+| [[paid-ads-callout-value-cta]] | Sam's gym $1K → $1.5B "6-week challenge" story; verbal + nonverbal callouts; cocktail party effect |
+| [[what-who-when-framework]] | 8 value elements × Who perspectives × Past/Present/Future timeline = 20+ ad angles per offer |
+| [[paid-ads-money-mechanics]] | 3 Phases (Track → Lose → Print); LTGP:CAC 3:1 minimum; Client Financed Acquisition |
+
+#### 4. Scaling The Core Four
+| Page | What It Gives You |
+|------|-------------------|
+| [[more-better-new-framework]] | Rule of 100 + constraint identification + new placements/platforms/methods |
+| [[size-of-the-pie-fallacy]] | The mental error keeping businesses small — confusing visible competition with true TAM |
+
+#### 5. Lead Getters (higher leverage allies)
+| Page | What It Gives You |
+|------|-------------------|
+| [[customer-referrals-system]] | 6 ways to give value + 7 ways to ask + Dropbox/PayPal viral case studies |
+| [[bamfam-book-meeting-from-meeting]] | Never leave a customer in no-man's-land |
+| [[employees-as-lead-getters]] | Internal Core Four + 3Ds training method (Document/Demonstrate/Duplicate) + wealth-vs-rich logic |
+| [[agencies-as-teachers]] | Unconventional agency strategy: hire them to teach, transition to consulting |
+| [[affiliates-army-system]] | 6-step affiliate army; 3-tier payout; Prestige Labs $450K-week launch; ALAN $1.7M/mo pyramid |
+| [[whisper-tease-shout-launch]] | Hormozi's universal launch framework |
+
+#### 6. Execution & Roadmap
+| Page | What It Gives You |
+|------|-------------------|
+| [[open-to-goal-vs-rule-of-100]] | Work-volume mindset hierarchy; 300 flyers / 1-in-1500 effort story; high-ROI habit stack |
+| [[one-page-advertising-checklist]] | The 5-step daily execution plan |
+| [[seven-levels-of-advertisers]] | The roadmap: friends know → executives run it without you |
+| [[100m-leads-machine]] | What the destination looks like — 10 components |
+
+#### 7. Parable & Archive
+| Page | What It Gives You |
+|------|-------------------|
+| [[many-sided-die-parable]] | "You cannot lose if you do not quit" — book's closing parable |
+| [[leads-stories-and-examples]] | Every story and example archived verbatim |
+| [[leads-pro-tips-vault]] | Every pro tip, mantra, and one-liner indexed by category |
+| [[leads-chunk-analysis]] | The systematic 68-chunk coverage audit |
+
+#### Cross-Links To The Wider Wiki
+| Connection | Why It's Connected |
+|---|---|
+| [[grand-slam-offer]] | $100M Leads assumes you have a Grand Slam Offer to sell — both books work in sequence |
+| [[value-equation]] | Referenced throughout Leads — warm outreach scripts, paid ad copy, agency selection |
+| [[lost-chapter-avatar-refinement]] | Hormozi mentions Lost Chapter in $100M Leads' closing |
+| [[reverse-engineer-buying-process]] | The 78% / 2-long-form-content insight from Lost Chapter is re-quoted in Posting Content Part II |
+| [[starbridge-product-analysis]] | Cold outreach chapter in real execution |
+| [[micah-cold-call-system]] | The 7.5hr Starbridge speedrun = Core Four #3 (Cold Outreach) in real-world execution |
+| [[show-me-you-know-me]] | SMYKM personalization mirrors Hormozi's Cold Outreach principle |
+| [[harry-dry-copy-framework]] | Maps directly to Content Unit Hook/Retain/Reward mechanics |
+| [[cold-email-masterclass-2025]] | Lee Gjenj's Triple Tap = evolution of $100M Leads cold outreach chapter |
+
+---
+
+### Path: Offers
+*Everything in the vault on offer creation — pricing, value, scarcity, urgency, bonuses, guarantees, naming. Built around Alex Hormozi's $100M Offers as the canonical source. Start here for any offer-building work.*
+
+**Location:** `wiki/offers/` (dedicated section — every page in this Path lives there)
+
+#### 1. The Central Concept
+| Page | What It Gives You |
+|------|-------------------|
+| [[offers/README]] | Section overview — read this first to orient |
+| [[grand-slam-offer]] | The hub. Four components, the 22.4× agency math, why "category of one" matters |
+
+#### 2. Pricing — Charge What It's Worth
+| Page | What It Gives You |
+|------|-------------------|
+| [[commoditization-and-pricing-power]] | The commodity problem + the virtuous cycle of price; wine taste test, premium-pricing morality |
+| [[starving-crowd-market-selection]] | The 4 market indicators (Pain, Money, Targeting, Growth); the hot dog stand parable; Starving Crowd > Offer Strength > Persuasion Skills hierarchy |
+| [[niche-pricing-power]] | Riches in niches; Dan Kennedy's $19 → $2,000 stair-step; the niche slap |
+
+#### 3. Value — Create the Offer
+| Page | What It Gives You |
+|------|-------------------|
+| [[value-equation]] | (Dream × Likelihood) ÷ (Time × Effort) — the formula behind everything; perception is reality |
+| [[pain-is-the-pitch]] | Hormozi's sales-team mantra; how to articulate pain so prospects feel understood |
+| [[status-as-deep-driver]] | Russell Brunson's wife + the minivan; status as the layer beneath every dream outcome |
+| [[logical-vs-psychological-solutions]] | Rory Sutherland's lens; London tunnel dotted map; why perception beats engineering |
+| [[convergent-vs-divergent-thinking]] | The Brick Exercise; the mindset that produces Grand Slam Offers |
+| [[5-step-grand-slam-creation]] | Dream Outcome → Problems → Solutions → Delivery → Trim & Stack |
+| [[delivery-cube]] | DIY/DWY/DFY × 1-on-1/small/many × medium; the cheat codes for variation |
+| [[sales-fulfillment-continuum]] | "Create flow. Monetize flow. Then add friction." |
+| [[price-to-value-discrepancy]] | Why bonuses beat discounts; the anchoring mechanic |
+
+#### 4. Enhancement — Make It Irresistible
+| Page | What It Gives You |
+|------|-------------------|
+| [[delicate-dance-of-desire]] | Supply/demand psychology; Hormozi's Law; the Arnold $5.4M fundraiser |
+| [[scarcity-playbook]] | 3 types of scarcity + service-specific tactics + honest scarcity + extreme scarcity |
+| [[urgency-playbook]] | 4 urgency methods (Cohort, Seasonal, Pricing, Exploding Opportunity) |
+| [[bonus-stacking-system]] | 11 bonus rules; 1-on-1 vs group; OPP advanced play; Prestige Labs affiliate structure |
+| [[guarantee-library]] | 4 guarantee types + 15+ specific templates; Fladlien's $25K store guarantee; Hormozi's 2-out-of-4000 result |
+| [[magic-naming-formula]] | M-A-G-I-C; rhyme & alliteration; offer fatigue variation order |
+
+#### 5. The Lost Chapter — Avatar Refinement (Supplement)
+*A separate Hormozi PDF that deepens avatar/niche work between Pricing and Value.*
+| Page | What It Gives You |
+|------|-------------------|
+| [[lost-chapter-avatar-refinement]] | Vista PE method origin; 4-step process; full Gym Launch top-20% findings (demographics, business reqs, aspirations, buying reasons) |
+| [[reverse-engineer-buying-process]] | The 78% / 2-long-form-pieces insight; manufacturing your best customers' buyer journey for every new prospect |
+| [[quality-over-quantity-acquisition]] | The 70× profit comparison; $5K-for-$45K math; LTV gap ($45K vs $6-8K); marketing+sales merger logic |
+
+#### 6. Reference & Archive (Nothing Skipped)
+| Page | What It Gives You |
+|------|-------------------|
+| [[hormozi-stories-and-examples]] | Every story and example from both PDFs, archived so nothing is lost |
+| [[all-hormozi-pro-tips]] | Every "Pro Tip" boxed insight from both PDFs, indexed and searchable |
+| [[1000-word-chunk-analysis]] | Main book's systematic 45-chunk coverage audit |
+| [[lost-chapter-chunk-analysis]] | Lost Chapter's systematic 2-chunk coverage audit |
+
+#### Cross-Links To The Wider Wiki
+| Connection | Why It's Connected |
+|---|---|
+| [[starbridge-product-analysis]] | The "80% of RFPs pre-written" stat = textbook pain-is-the-pitch + price-to-value execution |
+| [[starbridge-colandrum-parallel]] | Both products = Grand Slam Offers in different markets (SLED vs agencies) |
+| [[micah-cold-call-system]] | On-call Calendly + "back-pocket for renewal" = urgency + reframed CTA in action |
+| [[show-me-you-know-me]] | Sam McKenna's open-window CTA = low-commitment framing (effort/sacrifice reduction) |
+| [[harry-dry-copy-framework]] | Naming, falsifiability, "say something only you can say" — overlapping copy principles |
+| [[facts-over-adjectives]] | The proof component that makes pain articulation credible |
+| [[cold-email-masterclass-2025]] | Triple Tap email logic mirrors value-equation (open/read/act) |
+
+---
+
 ## Stats
 
 - **Total brands:** 19
-- **Total concepts:** 229
-- **Total strategies:** 60
+- **Total concepts:** 234
+- **Total strategies:** 61
 - **Total ideas:** 28
-- **Total reference pages:** 11
+- **Total reference pages:** 21 (offers + leads + money-models: stories, pro-tips, chunk-analyses)
 - **Total products:** 1 product (4 pages)
-- **Total wiki pages:** 352
-- **Source transcripts ingested:** 57+
-- **Ingest operations:** 51 (bulk 40 videos + wiki expansion pass + Drive sync + Dan Martell AI + Orin John Open Residency + Taylor Holiday 2026 E-Commerce Masterclass + Peter Rahal David Protein + Callaway Short-Form Masterclass + Orin John LinkedIn Cursed Opportunity + Pricing Psychology deep re-ingest + Boy Internet deep re-ingest + Brand Archetypes deep re-ingest + Enshittification deep re-ingest + Taste Economy deep re-ingest + Creative Offers deep re-ingest + Art of Yapping deep re-ingest + Hailey Bieber/Rhode deep re-ingest + Japan Branding deep re-ingest + Content Operations deep re-ingest + Internet Splintering deep re-ingest + Apple/Tech Branding deep re-ingest + Marketing Plan 2026 deep re-ingest + 1067 Short-Form deep re-ingest + Psychology of Luxury deep re-ingest + Batch 7 re-ingest + Lee Gjenj Cold Email Masterclass 2025 + Harry Dry Copywriting Interview)
+- **Total offers pages:** 27 (`wiki/offers/` — main book + Lost Chapter)
+- **Total leads pages:** 31 (`wiki/leads/` — $100M Leads full PDF)
+- **Total money-models pages:** 27 (`wiki/money-models/` — $100M Money Models full PDF)
+- **Total wiki pages:** 443
+- **Source transcripts ingested:** 62+ (added: Alex Hormozi $100M Money Models full PDF — 44,870 words)
+- **Ingest operations:** 56
+- **Hormozi Trilogy:** Complete — 85 pages across 3 volumes (Offers + Lost Chapter + Leads + Money Models = 159,469 words digested) (bulk 40 videos + wiki expansion pass + Drive sync + Dan Martell AI + Orin John Open Residency + Taylor Holiday 2026 E-Commerce Masterclass + Peter Rahal David Protein + Callaway Short-Form Masterclass + Orin John LinkedIn Cursed Opportunity + Pricing Psychology deep re-ingest + Boy Internet deep re-ingest + Brand Archetypes deep re-ingest + Enshittification deep re-ingest + Taste Economy deep re-ingest + Creative Offers deep re-ingest + Art of Yapping deep re-ingest + Hailey Bieber/Rhode deep re-ingest + Japan Branding deep re-ingest + Content Operations deep re-ingest + Internet Splintering deep re-ingest + Apple/Tech Branding deep re-ingest + Marketing Plan 2026 deep re-ingest + 1067 Short-Form deep re-ingest + Psychology of Luxury deep re-ingest + Batch 7 re-ingest + Lee Gjenj Cold Email Masterclass 2025 + Harry Dry Copywriting Interview + Micah Starbridge Cold Call Speedrun + Alex Hormozi $100M Offers Book + Alex Hormozi $100M Offers Lost Chapter)
 
 ---
 
@@ -370,6 +596,11 @@
 | Concept | Summary | Page |
 |---------|---------|------|
 | Harry Dry Copy Framework | Three-question copy test (visualize / falsify / can nobody else say it) + three-piece production framework (who / something to say / say it well); 10 classic ad examples analyzed | [[harry-dry-copy-framework]] |
+| Starbridge Product Analysis | Full breakdown of Starbridge AI — SLED GTM intelligence platform; data sources (FOIA, board minutes, staff directory scraping); full feature set; pricing ~$15K/yr; GovSpend positioning; ICP | [[starbridge-product-analysis]] |
+| Starbridge × Colandrum Parallel | Structural analysis of how Starbridge and Caret/Colandrum are the same product in different markets; "before the obvious moment" principle; what to steal for Colandrum messaging and demo | [[starbridge-colandrum-parallel]] |
+| Cold Call Failure Taxonomy | 8 failure types with exact handling: wrong number, voicemail, gatekeeper, not ICP, adjacent ICP, existing tool, wrong contact, DNC; bad data vs. wrong ICP distinction | [[cold-call-failure-taxonomy]] |
+| Cold Call Success Patterns | 7 patterns behind Micah's 6 bookings: pre-qualification, referral mechanic, back-pocket CTA, solo DM signal, stat urgency, on-call booking, low-commitment ask | [[cold-call-success-patterns]] |
+| Starbridge Call-by-Call Analysis | Deep per-call breakdown of every meaningful conversation in Micah's 134-min speedrun — 20+ calls analyzed with what happened, what worked, what failed, and the extracted lesson for each | [[starbridge-call-by-call-analysis]] |
 | Copywriting Creative Process | Harry Dry's 25-rewrite method: seed → point A/B → conflict (Luke Sullivan) → spitballing → design in medium → iterate → get feedback on 3 versions; standards are your work | [[copywriting-creative-process]] |
 | Writing Simply | Kaplan's Law of Words; Harry's corollary; the "and" warning sign; paragraph burrito test; 2-line paragraph rule; 4-5 version rewriting technique; structure through dividing lines + parallelism | [[writing-simply]] |
 | Facts Over Adjectives | Why facts guarantee you say something; "wallpaper, word-shaped air, balloon smoke"; precision as trust signal; facts as copy seeds (Ogilvy's Rolls-Royce, Harry's 22,000 hours); start with fact, build story | [[facts-over-adjectives]] |
@@ -513,6 +744,7 @@
 | Strategy | Summary | Page |
 |----------|---------|------|
 | Cold Email Masterclass 2025 | Lee Gjenj's complete cold email system: 3 pillars (infrastructure/list/offer), Triple Tap, signal workflows, Clay enrichment, ReplyJI automation, omni-channel follow-up | [[cold-email-masterclass-2025]] |
+| Micah's Cold Call System | Full cold call system from 7.5hr speedrun: 1.5hr prep methodology, word-for-word script, pre-qualifier, stat hook, booking mechanics, warm handoff. 37.5% right-ICP conversion rate | [[micah-cold-call-system]] |
 
 ### AI Systems & Automation
 

@@ -4,6 +4,285 @@
 
 ---
 
+## 2026-06-21 — Alex Hormozi $100M Money Models (Full PDF Ingest)
+
+- **Operation:** DEEP INGEST — Full book PDF, 44,870 words, 5,340 lines extracted text (Acquisition.com Volume III)
+- **Source:** Alex Hormozi, *$100M Money Models: How To Make Money* (Acquisition.com Volume III, 2025)
+- **Method:** PDF extracted via pdftotext → read in four sequential passes covering all 5,340 lines → systematic 45-chunk 1000-word analysis → 27 wiki pages created in new dedicated `wiki/money-models/` section → INDEX.md updated with Path: Money Models as a first-class navigation route
+- **Pages created:** 27 | **Pages updated:** 1 (INDEX.md)
+- **New section:** `wiki/money-models/` — third top-level vault section dedicated to Money Models (completes the Hormozi trilogy alongside `wiki/offers/` and `wiki/leads/`)
+
+**Pages Created (27):**
+
+**Foundation (3)**
+- `wiki/money-models/README.md` — Section overview + 7-section path + cross-links to wider wiki + sources
+- `wiki/money-models/money-models-master-hub.md` — Master hub. Storage-unit mentor origin story (27 locations, $127 cost of "free month"). The $25K "level-10 skill in level-2 opportunity" phone call. Rental car $19→$100/day example. The 3 stages framework. Hormozi's $43M Gym Launch distributions + $46.2M sale + $100M+ net worth at 31.
+- `wiki/money-models/four-offer-types-framework.md` — Attraction × Upsell × Downsell × Continuity structural framework. 7 ground rules. Burger Shop 12× profit math. Problem-Solution Cycle. When to use which.
+
+**Attraction Offers — 6 pages**
+- `wiki/money-models/attraction-offers-overview.md` — Section intro + free/discount/$1 continuum + 5-play overview
+- `wiki/money-models/win-your-money-back-offer.md` — Danny June 2013 origin. 3 conditions (Results/Actions/Both). $1B+ industry sales. Store credit logic. Make Everyone A Winner mid-program trick. Let The Losers Win end-program trick. "Don't take blood money."
+- `wiki/money-models/giveaways-offer.md` — Fitness certification full-ride scholarship + partial-scholarship trick. 6-step process. Whisper-Tease-Shout countdown. $50K equipment bundle that worked vs. tickets that didn't. Skool.com referral mechanic.
+- `wiki/money-models/decoy-offer.md` — John's $5 VIP Tanning Pass + Turkey Talk. 2019 gym save with 8/10 conversion. 4 discount framings. Assumed close. Hormozi's Gym Launch Stage I.
+- `wiki/money-models/buy-x-get-y-free-offer.md` — Boot Factory Nashville $600 boots. 18-month service "Buy 6 Get 12 Free" framing. Raise prices before giving away. More free than paid wins.
+- `wiki/money-models/pay-less-now-pay-more-later-offer.md` — June 2016 reading guru story. Conditional satisfaction guarantee. Nutrition consult accidental "everyone wants supplements" discovery.
+
+**Upsell Offers — 5 pages**
+- `wiki/money-models/upsell-offers-overview.md` — Burger Shop math. Problem-Solution Cycle. When upsells fail. 3 categories (More/Better/New).
+- `wiki/money-models/classic-upsell.md` — Fur coat ear-muff storage trick. "Say No To Say Yes." "You can't have X without Y." Surprise-and-delight bonuses. Hyper buying cycle. BAMFAM mandate. Movie theater A-B-C pricing trick. Art studio guarantee-upsell 30% conversion.
+- `wiki/money-models/menu-upsell-system.md` — 3-story discovery arc (chocolate-vanilla → prescription → unselling). 4 components (Unsell/Prescribe/A/B/Card On File). The Economist Play (3 options to sell both).
+- `wiki/money-models/anchor-upsell.md` — Hormozi's 2016 $16,000 suit story. 5-step process. "The Gasp." "Only thing worse than $1K offer to $100 budget" pro tip. Primary vs secondary features.
+- `wiki/money-models/rollover-upsell.md` — Justin's gym save June 2014. $1.9M ARR from one day of recording 200 personalized videos. 4 who-targets. Famous gift card play (sell $200 cards for $20).
+
+**Downsell Offers — 4 pages**
+- `wiki/money-models/downsell-offers-overview.md` — 4 rules. Insurance salesman who lost trust. "Different for less, not same for less."
+- `wiki/money-models/payment-plan-downsell.md` — Hormozi's first sale August 2013. 7-step process (Reward → 3rd Party Financing → Half Now → 1-10 check → Three Payments → Equal Spread → Free Trial). Seesaw downselling. **ProfitWell 14,000-business churn data: Monthly 10.7% / Quarterly 5% / Annual 2%.**
+- `wiki/money-models/trial-with-penalty-downsell.md` — Leila + HR software Spring 2018. 3 upsell scenarios (like/hate/didn't use). "Just call it a trial."
+- `wiki/money-models/feature-downsell.md` — Guarantee-removal trick (25%→75% close rate). Full menu of feature variations. DFY→DWY→DIY downsell examples. Free orientations boost DIY downsells. Barter discounts for reviews/testimonials/referrals.
+
+**Continuity Offers — 4 pages**
+- `wiki/money-models/continuity-offers-overview.md` — "Shear a sheep for a lifetime." Continuity math (40 × $50/mo × 20mo = $42K vs 10 × $1K = $10K). Reward vs punishment plays. Standalone-membership doesn't work.
+- `wiki/money-models/continuity-bonus-offer.md` — Gym tripled membership sales pivot (34/100 → 40/100 + 8 prepay upsells). Standalone-vs-continuity pricing data table (1.33× → 2.66× multipliers). Bulk prepaid discount math.
+- `wiki/money-models/continuity-discount-offer.md` — Austin trash legend Spring 2018. **The highest-value tip in the entire book: Weekly billing = 8.3% extra annual revenue = 41% profit boost on 20% margin business.** 3% processing fee trick (30% profit boost). Two forms of payment via fee-waiver. Gift cards as lead magnets. Lifetime discount at most-common-churn point. Rice company 5-month threshold real example.
+- `wiki/money-models/waived-fee-offer.md` — January 2021 high-ticket legend. Month-to-month with $5K fee vs commit-for-12-and-waive. "Customers stay longer if leaving costs more than staying." Cancellation fees donated to causes they hate.
+
+**Build & Examples — 2 pages**
+- `wiki/money-models/make-your-money-model.md` — Full Gym Launch evolution: $476K/mo (3 months, Decoy alone) → $1.5M/mo (with Classic Upsell + Payment Plan Downsell + Continuity Bonus) → $2.3M/mo (with Menu Upsell + Feature Downsell, month 14) → $4.4M/mo (with Prestige Labs integration, month 20). 3-stage build process. 4-step build method. Affiliate Products fill Money Model gaps. Auto-renewal turns Attraction into Continuity.
+- `wiki/money-models/money-model-examples.md` — 4 worked examples (Gym Launch / Micro Gym / Newsletter "6-headed money-making monster" / Dog Food). Pattern analysis across all 4.
+
+**Archive — 3 pages**
+- `wiki/money-models/money-models-stories-archive.md` — 25+ stories archived verbatim with concept-page cross-references
+- `wiki/money-models/money-models-pro-tips-vault.md` — 60+ pro tips indexed by category (Foundational / Sales / Anchoring / Pricing / Discounting / Continuity / Downsell / Mindset / Closing Mantras)
+- `wiki/money-models/money-models-chunk-analysis.md` — Systematic 45-chunk coverage audit + concept/story/pro-tip coverage tables + verification statement
+
+**Pages Updated (1):**
+- `wiki/INDEX.md` — Path: Money Models added as first-class navigation route. Structured in 7 sub-sections matching book structure. Cross-link table to Hormozi trilogy + wider wiki. Stats updated: 416 → 443 pages; transcripts 61+ → 62+; operations 55 → 56. Money-models = 27 pages.
+
+**The Hormozi Trilogy In The Vault — Complete:**
+- $100M Offers ([[wiki/offers/README]]) — what to sell: 23 pages
+- $100M Offers: The Lost Chapter ([[lost-chapter-avatar-refinement]]) — who specifically to sell it to: 4 pages
+- $100M Leads ([[wiki/leads/README]]) — how to find them: 31 pages
+- $100M Money Models ([[wiki/money-models/README]]) — how to get them to buy: 27 pages
+- **Total Hormozi vault coverage: 85 pages across 4 PDFs (159,469 words digested)**
+
+**Key Cross-Links Added:**
+- [[four-offer-types-framework]] ↔ [[grand-slam-offer]] (each play uses Grand Slam construction)
+- [[continuity-discount-offer]] (weekly billing) ↔ [[payment-plan-downsell]] (ProfitWell data) — both data points argue for annual billing
+- [[anchor-upsell]] ↔ [[decoy-offer]] (inverse mechanics — premium first vs cheap first)
+- [[rollover-upsell]] ↔ [[customer-referrals-system]] (gift card play = referral mechanic)
+- [[giveaways-offer]] ↔ [[whisper-tease-shout-launch]] (explicitly cited by Hormozi)
+- [[classic-upsell]] ↔ [[bamfam-book-meeting-from-meeting]] (BAMFAM mandate)
+- [[make-your-money-model]] ↔ [[client-financed-acquisition]] (operational expansion)
+- [[feature-downsell]] ↔ [[delivery-cube]] (DIY/DWY/DFY axis)
+- [[continuity-bonus-offer]] ↔ [[bonus-stacking-system]] (underlying bonus mechanic)
+
+**Source File Archive:**
+- Original PDF: `raw/pdfs/_OceanofPDF.com_00M_Money_Models_How_To_Make_Money_-_Alex_Hormozi.pdf` (3.2MB)
+- Extracted text: `raw/pdfs/Money_Models_extracted.txt` (44,870 words, 5,340 lines)
+
+---
+
+## 2026-06-21 — Alex Hormozi $100M Leads (Full PDF Ingest)
+
+- **Operation:** DEEP INGEST — Full book PDF, 67,595 words, 8,548 lines extracted text (Acquisition.com Volume II)
+- **Source:** Alex Hormozi, *$100M Leads: How To Get Strangers To Want To Buy Your Stuff* (Acquisition.com Volume II, 2023)
+- **Method:** PDF extracted via pdftotext → read in four sequential passes (1,100 lines each) covering all 8,548 lines → systematic 68-chunk 1000-word analysis → 31 wiki pages created in new dedicated `wiki/leads/` section → INDEX.md updated with Path: Leads as a first-class navigation route
+- **Pages created:** 31 | **Pages updated:** 1 (INDEX.md)
+- **New section:** `wiki/leads/` — second top-level vault section dedicated to lead generation (pairs with `wiki/offers/`)
+
+**Pages Created (31):**
+
+**Section Index + Hub (2)**
+- `wiki/leads/README.md` — Section overview, the path, what's connected, source citation
+- `wiki/leads/leads-master-hub.md` — Master hub. March 2017 origin story ($150K refund → Boise gym pivot → $60K/day licensing → 4,500+ gyms). Four-question framework: more / better / cheaper / reliable. Hormozi's 36:1 lifetime ROI + $100M+ net worth at 32 + Acquisition.com track record ($250M+/yr, 20K+ leads/day). Five-section book structure.
+
+**Foundations (3)**
+- `wiki/leads/engaged-leads-definition.md` — Lead = person you can contact; Engaged Lead = one who SHOWS interest. The foundational distinction underpinning every chapter.
+- `wiki/leads/lead-magnets-framework.md` — 7-step framework. Salty pretzels metaphor. 3 types (Reveal Problem / Sample / One Step of Multi-Step). 4 delivery methods (Software / Information / Service / Physical). 12 variants total. Headline-image-subheadline testing. Fraternity Party Planner CTA reason-why.
+- `wiki/leads/case-study-vs-webinar-story.md` — April 2016 origin. 8 weeks of webinar failure. The accidental case study discovery. "They didn't want my webinar. But they did want my case study." 13-min screen recording floods calendar.
+
+**The Core Four (9)**
+- `wiki/leads/core-four-overview.md` — The 2×2 matrix (Warm/Cold × Private/Public) reducing all advertising to 4 methods.
+- `wiki/leads/warm-outreach-system.md` — The 10-step framework. 2013 Free Training Project origin ($4K/mo). ACA reply framework. "First Five Free." Benchmarks (100 → 20 → 4 → 1). $104K/yr math.
+- `wiki/leads/9-word-email.md` — Dean Jackson's "Are you still looking to [4 word desire]?" template. Highest-ROI re-engagement tool in the book.
+- `wiki/leads/content-unit-framework.md` — Kylie/Huda/McGregor/Rock realization. $120K coaching ("you just gotta do more bro"). Hook + Retain + Reward. 5 topic categories. 7 headline components (Recency, Relevancy, Celebrity, Proximity, Conflict, Unusual, Ongoing). Lists/Steps/Stories. "Content isn't the compounding asset — the audience is."
+- `wiki/leads/give-ask-ratio.md` — TV 3.5:1, Facebook 4:1, growth platforms 10:1+. "Give until they ask." Friend's shrinking podcast cautionary tale. Integrated vs Intermittent asks.
+- `wiki/leads/content-monetization-strategies.md` — Depth-then-Width vs Width-then-Depth scaling. 78% / 2-long-form-content insight (re-quoted from Lost Chapter). 7 Content Lessons. 5-year podcast climb to Top 10 US.
+- `wiki/leads/cold-outreach-system.md` — COVID Cale-rejection origin ($0 → $480K/mo in 8 months). 3 problems / 3 solutions. List-building (Softwares → Brokers → Elbow Grease). Personalize + Big Fast Value. Volume mechanics. 3-6 month list restart. 7 strategic benefits.
+- `wiki/leads/paid-ads-callout-value-cta.md` — Sam's gym $1,000 Facebook bet (June 2013). The ALL-CAPS 6-week challenge ad → $5,700. 7-year industry promotion driving $1.5B+. Cocktail party effect. 4 verbal + 3 nonverbal callout types. Cialdini consistency principle.
+- `wiki/leads/what-who-when-framework.md` — 8 key value elements (4 drivers + 4 opposites). Who perspectives (spouse/kids/parents/colleagues/rivals). Past/Present/Future timeline. Combining produces 20+ ad angles per offer.
+- `wiki/leads/paid-ads-money-mechanics.md` — 3 Phases (Track → Lose → Print). LTGP vs LTV. 3:1 LTGP:CAC minimum. Client Financed Acquisition (recover full CAC in 30 days). Worked $15 membership + upsell example. 3 personal lessons including $30M enterprise value loss from sales-vs-ad confusion.
+
+**Scaling (2)**
+- `wiki/leads/more-better-new-framework.md` — Chiropractor saturation story. The Rule of 100 (100 actions × 100 days). Constraint identification math. One test per week per platform. Monday testing cadence. New placements → platforms → core four order. "What's stopping them from doing 10×?"
+- `wiki/leads/size-of-the-pie-fallacy.md` — Confusing visible competition with TAM. $30K on 1 platform for $2M business "saturating" the $15.1B chiropractor industry. Weight loss entrepreneur saturating at $40K/mo on a 1B-user platform. "It's easier to say 'I'm tapped' than 'I'm not as good as I thought.'"
+
+**Lead Getters (6)**
+- `wiki/leads/customer-referrals-system.md` — 2-week ad shutoff October 2019 ($500K/wk word of mouth). Gym Lords 700+ raise-hands moment. 6 Ways to Give Value (mapped to ad parts: Callouts/Dream/Likelihood/Time/Effort/CTA). One Question to Rule Them All thought experiment. 7 Ways to Ask. Dropbox 39× growth + PayPal 100M users. Gift card promotion combo.
+- `wiki/leads/bamfam-book-meeting-from-meeting.md` — Standalone concept. Never leave a customer in no-man's-land. Book the next meeting before leaving the current one.
+- `wiki/leads/employees-as-lead-getters.md` — June 2021 40-interviews-per-hire diagnosis → group interviews → cold outreach doubled. "You get rich from what you make. Wealthy from what you own." Internal Core Four mapping. 3Ds Training Method (Document/Demonstrate/Duplicate). Vanish Test. Acquisition.com $3.33/engaged-lead math.
+- `wiki/leads/agencies-as-teachers.md` — Summer 2016 $750/hour origin (8 hours + $6K → millions). 10-step typical agency trap. The "I want to do what you do" opening pitch for 6-month learning + transition to consulting. 2-agency strategy (good-enough + elite). 10-point picking criteria.
+- `wiki/leads/affiliates-army-system.md` — December 2018 Prestige Labs launch (3 weeks $150K → week 4 $450K). ALAN 3-level pyramid ($1.7M/mo in 6 months). 6-Step affiliate army. 3-tier payout (25% / 50% / 100% of max CAC). 3 integration strategies. 3 case studies (Tax LLC / Prestige Labs / Chiropractors). Returns math (13.5:1 example).
+- `wiki/leads/whisper-tease-shout-launch.md` — Universal launch framework. Whisper (curiosity, 2+ years out → 30 days). Tease (value elements, 30 → 3 days). Shout (CTA + urgency + scarcity + bonuses, 3 days → launch). Hormozi's book launch as worked example.
+
+**Execution (4)**
+- `wiki/leads/open-to-goal-vs-rule-of-100.md` — June 2014 300 flyers story (1/1500th the effort). Neil Strauss quote. Rule of 100 (action-based) vs Open to Goal (outcome-based). Hormozi's high-ROI habit stack (4-5 AM, no rituals, no meetings until noon).
+- `wiki/leads/one-page-advertising-checklist.md` — The 5-step daily execution plan. Single page. ~5 minutes to fill. Beats 100-page strategy.
+- `wiki/leads/seven-levels-of-advertisers.md` — Level 1 (friends know) → Level 7 (TBD when Hormozi crosses $1B). The portfolio-investment roadmap. Hormozi's own level-by-level trajectory mapped.
+- `wiki/leads/100m-leads-machine.md` — The destination: 10 components of the fully-built machine. Media team + warm offers + ravenous audience + paid ads team + cold outreach team + affiliate manager + recruiters + 33%+ referrals + executive team + leads abundance.
+
+**Parable + Archive (4)**
+- `wiki/leads/many-sided-die-parable.md` — The closing parable. 20-side vs 200-side die. Red/green rolls. "You cannot lose if you do not quit."
+- `wiki/leads/leads-stories-and-examples.md` — Every story archived verbatim. 24+ stories cross-referenced to concept pages.
+- `wiki/leads/leads-pro-tips-vault.md` — Every pro tip, mantra, and one-liner indexed by category (Sales, Lead Magnets, Warm, Content, Cold, Paid Ads, Scaling, Referrals, Employees, Agencies, Affiliates, Execution).
+- `wiki/leads/leads-chunk-analysis.md` — Systematic 68-chunk coverage audit. Concept coverage table. Story coverage audit. Pro tip coverage audit. Verification statement.
+
+**Pages Updated (1):**
+- `wiki/INDEX.md` — Added new "Path: Leads" section as a first-class navigation route. Structured in 7 sub-sections matching the book structure. Cross-link table connecting Leads to Offers (grand-slam-offer, value-equation), Lost Chapter (avatar refinement), Starbridge (cold outreach in execution), Micah cold call (real-world Core Four #3), SMYKM (personalization), Harry Dry copy (Hook/Retain/Reward overlap), Lee Gjenj cold email (Triple Tap evolution). Updated stats: 385 → 416 pages; offers 27 → 27; leads 0 → 31; transcripts 60+ → 61+; operations 54 → 55.
+
+**Key Cross-Links Added:**
+- [[lead-magnets-framework]] ↔ [[grand-slam-offer]] + [[5-step-grand-slam-creation]] (lead magnets are grand slam offers at funnel entry)
+- [[warm-outreach-system]] ↔ [[value-equation]] (Step 6 pitch script uses Value Equation verbatim)
+- [[cold-outreach-system]] ↔ [[micah-cold-call-system]] + [[show-me-you-know-me]] + [[cold-email-masterclass-2025]] (the real-world execution of this chapter)
+- [[paid-ads-callout-value-cta]] ↔ [[harry-dry-copy-framework]] + [[facts-over-adjectives]] (callout principles parallel)
+- [[content-monetization-strategies]] ↔ [[reverse-engineer-buying-process]] (78% / 2-content-piece insight re-quoted in both)
+- [[customer-referrals-system]] ↔ [[reverse-engineer-buying-process]] (Way 3 = the Lost Chapter Step 4b mechanic for customer outcomes)
+- [[employees-as-lead-getters]] ↔ [[lost-chapter-avatar-refinement]] (Internal Core Four parallel to avatar refinement)
+
+**Source File Archive:**
+- Original PDF: `raw/pdfs/_OceanofPDF.com_Leads_-_Alex_hormozi.pdf` (3.2MB)
+- Extracted text: `raw/pdfs/100M_Leads_extracted.txt` (67,595 words, 8,548 lines)
+
+**The Hormozi Trilogy In The Wiki:**
+- $100M Offers ([[wiki/offers/README]]) — what to sell: 23 pages
+- $100M Offers: The Lost Chapter ([[lost-chapter-avatar-refinement]]) — who specifically to sell it to: 4 pages
+- $100M Leads ([[wiki/leads/README]]) — how to find them: 31 pages
+- **Total Hormozi vault coverage: 58 pages across 3 PDFs (114,599 words digested)**
+
+---
+
+## 2026-06-21 — Alex Hormozi $100M Offers: The Lost Chapter (Supplement PDF)
+
+- **Operation:** DEEP INGEST — Lost Chapter supplement PDF, 1,917 words, 187 lines extracted text
+- **Source:** Alex Hormozi, *$100M Offers: The Lost Chapter — Your First Avatar* (Acquisition.com LLC, 2021)
+- **Method:** PDF extracted via pdftotext → read in single pass → systematic 2-chunk analysis → 4 new wiki pages created + 2 existing archive pages updated → INDEX.md updated with Lost Chapter sub-section under Path: Offers
+- **Pages created:** 4 | **Pages updated:** 4 (offers/README.md, hormozi-stories-and-examples.md, all-hormozi-pro-tips.md, INDEX.md)
+
+**Pages Created (4):**
+- `wiki/offers/lost-chapter-avatar-refinement.md` — Main hub. Vista PE origin (2019 cool-kids' table, $50B-in-sales speaker, ALAN $1.7M/mo context). Value Acceleration Method (VAM). The 4-step avatar refinement process (Survey → Find Top 20% → Find Common Traits → Execute via Speak + Re-Engineer). Full customer survey question buckets (Demographics, Business Stats, Aspirations, Buying Process). Full Gym Launch top-20% findings verbatim: Demographics (right-leaning, married, 25-45, male, gym owner, US-based), Business Requirements (signed lease, 1+ employees, $10K+/mo, 30+ existing clients), Aspirations ($1M+ gym, less work, more locations), Buying Reasons (not enough leads, bad market, bad pricing, can't find employees). The "force multiplier on the rest of the book" framing.
+- `wiki/offers/reverse-engineer-buying-process.md` — Step 4b operationalized. The 78% / 2-long-form-pieces-of-content insight in full. The "all time greatest hits" content library mechanic. Sales team hand-selects 2-3 pieces per prospect. Critical caveat: value-in-advance, not disguised pitches. Why this differs from standard "content marketing." 4-step implementation: Survey → Find Pattern → Operationalize → Refine.
+- `wiki/offers/quality-over-quantity-acquisition.md` — The 70× profit comparison story (competitor business services company, same vertical, same total sales, 70× less profit). $5K-for-$45K vs $1K-for-$5K math. LTV comparison ($6K-$8K competitor avg vs $45K+ Gym Launch). Why margins compound faster than LTV gap ("imagine 8x your price, keep your costs the same"). The patience principle. Short-term revenue dip vs long-term margin expansion. Merging marketing + sales into one acquisition department. Why competitors don't commit (cut qualification → more volume → less money cycle).
+- `wiki/offers/lost-chapter-chunk-analysis.md` — Coverage audit page. 2 chunks documenting Lost Chapter content. Concept coverage table (21 concepts mapped to pages). Story coverage audit. Pro tip coverage audit. Verification statement.
+
+**Pages Updated (4):**
+- `wiki/offers/README.md` — Added "Section 5: The Lost Chapter" with three pages. Added the chunk-analysis to reference section. Updated source citation to list both PDFs.
+- `wiki/offers/hormozi-stories-and-examples.md` — Added "Lost Chapter Stories" section: Vista cool-kids' table, full Gym Launch top-20% findings verbatim, 70× profit competitor story, LTV comparison, $5K-for-$45K math statement.
+- `wiki/offers/all-hormozi-pro-tips.md` — Added "Lost Chapter Pro Tips" section: 8 tips including "Your competitors won't do the work," "Stop selling the wrong customers," "$5K-for-$45K reframe," "Knowing the ideal buyer journey forces patience," "8× your price keep costs the same," "Merging marketing + sales solves the volume tension," "Force multiplier" framing, "Why wouldn't you make the right long term call?"
+- `wiki/INDEX.md` — Path: Offers expanded with new "Section 5: The Lost Chapter — Avatar Refinement (Supplement)." Updated stats: 381 → 385 pages; reference pages 14 → 15; offers pages 23 → 27; transcripts 59+ → 60+; operations 53 → 54.
+
+**How The Lost Chapter Connects To The Main Book:**
+
+The supplement sits between Section II (Pricing) and Section III (Value Offer) in the main book's structure. It deepens [[starving-crowd-market-selection]] (macro market selection) and [[niche-pricing-power]] (price leverage from narrowness) before [[5-step-grand-slam-creation]]. It's positioned by Hormozi as a "force multiplier" on every other concept — a precisely-defined avatar makes every offer-construction step sharper.
+
+**Key Cross-Links Added:**
+- [[reverse-engineer-buying-process]] ↔ [[show-me-you-know-me]] (SMYKM's value-in-advance principle)
+- [[reverse-engineer-buying-process]] ↔ [[micah-cold-call-system]] (pre-qualifying mirrors)
+- [[quality-over-quantity-acquisition]] ↔ [[cold-call-failure-taxonomy]] + [[cold-call-success-patterns]] (37.5% right-ICP conversion is the quality principle in cold-call form)
+- [[lost-chapter-avatar-refinement]] ↔ [[convergent-vs-divergent-thinking]] (Step 3 pattern recognition needs divergent mode)
+
+**Source File Archive:**
+- Original PDF: `raw/pdfs/_OceanofPDF.com_100M_Offers_-_The_Lost_Chapter_-_Alex_Hormozi.pdf` (975KB)
+- Extracted text: `raw/pdfs/Lost_Chapter_extracted.txt` (1,917 words, 187 lines)
+
+---
+
+## 2026-06-21 — Alex Hormozi $100M Offers (Full PDF Ingest)
+
+- **Operation:** DEEP INGEST — Full book PDF, 45,087 words, 4,996 lines extracted text
+- **Source:** Alex Hormozi, *$100M Offers: How To Make Offers So Good People Feel Stupid Saying No* (Acquisition.com Volume I, 2021)
+- **Method:** PDF extracted via pdftotext → read in three 1200-line passes → systematic 45-chunk 1000-word analysis pass → 23 wiki pages created in new dedicated `wiki/offers/` section → INDEX.md updated with Path: Offers navigation
+- **Pages created:** 23 | **Pages updated:** 1 (INDEX.md)
+- **New section:** `wiki/offers/` — first-class top-level vault section dedicated to offer creation
+
+**Pages Created (23):**
+
+**Section Index (1)**
+- `wiki/offers/README.md` — Section overview, the path, what's connected, source citation
+
+**Hub & Core Concept (1)**
+- `wiki/offers/grand-slam-offer.md` — Master hub. The four components (Promotion, Value Prop, Premium Price, Guarantee). 22.4× agency math (2.5 × 2.5 × 4). The 5 levels of offer. Why "category of one" matters. Origin story (Vegas penthouse, TJ, "make people an offer so good they feel stupid saying no").
+
+**Pricing (3)**
+- `wiki/offers/commoditization-and-pricing-power.md` — The commodity problem + the virtuous cycle of price. Wine taste test. Dan Kennedy quotes ("charge as high as you can without cracking a smile"). Gym Launch $16K + $42K/yr at 32× competition. The 158-gym survey results (+$239K/yr avg).
+- `wiki/offers/starving-crowd-market-selection.md` — Hot dog stand professor parable. Lloyd's newspaper → mask pivot. COVID toilet paper. 4 market indicators (Pain, Money, Targeting, Growth). Starving Crowd > Offer Strength > Persuasion Skills hierarchy. 3 universal markets (Health/Wealth/Relationships). Niche slap principle.
+- `wiki/offers/niche-pricing-power.md` — Dan Kennedy's $19 → $2,000 stair-step. Shift nurse $1,997 example. Hormozi's microgym avatar. TAM caveat for $10M+ businesses. The magic identity sentence.
+
+**Value & Psychology (6)**
+- `wiki/offers/value-equation.md` — (Dream Outcome × Perceived Likelihood) ÷ (Time Delay × Effort & Sacrifice). All 4 drivers explained. "Get the bottom to zero" strategic insight (Apple/Amazon/Netflix). London tunnel example. Xanax vs meditation 1/4 vs 4/4. Supplement industry ($123B) vs gym industry ($62B). Fast Beats Free. The father-son sales call as walk-through.
+- `wiki/offers/pain-is-the-pitch.md` — Hormozi's sales-team mantra. "Point of good writing vs good persuasion." Pain articulation templates. Connection to Starbridge 80% stat. Discomfort-as-trigger framing. Pain articulation library construction.
+- `wiki/offers/status-as-deep-driver.md` — Russell Brunson + Collette minivan story. Status as the layer beneath every dream. Golf club +40 yards copy example. Beauty desire unpacking. "Only you will know" frame.
+- `wiki/offers/logical-vs-psychological-solutions.md` — Rory Sutherland lens. London tunnel + elevator mirror + train hostess examples. Perception is reality. When to use each.
+- `wiki/offers/convergent-vs-divergent-thinking.md` — The Brick Exercise (120 seconds + cheat codes). Hormozi's 19-use brick list. Why business decisions are divergent. The convergent trap.
+- `wiki/offers/sales-fulfillment-continuum.md` — "Create flow. Monetize flow. Then add friction." Gym Launch DFY → DWY pivot story. Hormozi's Excel sheet meal plan (100hr build, 15min sales, 4000+ gym deployments). High-value/low-cost = the magic combo.
+
+**Offer Creation Process (2)**
+- `wiki/offers/5-step-grand-slam-creation.md` — Step 1: Dream Outcome. Step 2: List Problems (4 buckets mapped to value drivers; 32-64 problems total). Step 3: List Solutions (problem → solution headline transformation). Step 4: Delivery Vehicles. Step 5: Trim & Stack. Full Gym Bundle archived verbatim ($4,351 value for $599). Eating-out guide anecdote. Brooke Castillo example.
+- `wiki/offers/delivery-cube.md` — Three axes (Attention × Effort × Medium). DIY/DWY/DFY pricing implications. 16-vehicle worked example for "buying healthy food." 10× / 1/10× test. ~315 combinatorial delivery vehicles per solution.
+
+**Price-Value Mechanics (1)**
+- `wiki/offers/price-to-value-discrepancy.md` — Warren Buffett's "price is what you pay, value is what you get." Why lowering price is wrong. Money-at-a-discount framing. Infomercial anchoring mechanic. Photography 38× profit case study. The 3 things the bundle does.
+
+**Enhancement: The 5 Levers (6)**
+- `wiki/offers/delicate-dance-of-desire.md` — Naval Ravikant quote on desire. 2-scenario workshop example (fractal 80/20 demand). Hormozi's Law ("the longer you delay the ask, the bigger the ask"). The 5 enhancement levers introduced. The $50K-a-day declined offer. The Arnold fundraiser ($5.4M from 100 people, "when demand increases cut supply").
+- `wiki/offers/scarcity-playbook.md` — 3 types (Slots/Bonuses/Never Again). Physical product scarcity (Chanel example). 3 service-scarcity methods (Total Cap / Growth Rate Cap / Cohort Cap). Honest Scarcity. Extreme 1-on-1 scarcity. "Once you're out, never come back."
+- `wiki/offers/urgency-playbook.md` — 4 methods (Cohort-Based Rolling, Rolling Seasonal, Pricing/Bonus, Exploding Opportunity). The last-4-hours data point (50-60% of campaign sales). Year-long rolling seasonal calendar. Pipeline cleaning with price hikes.
+- `wiki/offers/bonus-stacking-system.md` — Jason Fladlien credit. The infomercial mechanic. Bonuses-over-discounts. 11 Bonus Rules. 1-on-1 vs group selling sequence. Bonuses with scarcity/urgency. OPP (Other People's Products) advanced play. Prestige Labs affiliate structure (30% discount / 40% commission). Pain clinic + affiliate stack ($350 extra profit on $400 offer).
+- `wiki/offers/guarantee-library.md` — The 4 guarantee types. Refund math (1.23×). 15+ specific guarantee templates with Hormozi's take on each. Fladlien's $25K store guarantee ($3M extra sales). Hormozi's 2-out-of-4000 weight-loss refund result. Best-case/worst-case close (verbatim). Pro Tip: name your guarantee something cool (Club a Baby Seal).
+- `wiki/offers/magic-naming-formula.md` — M-A-G-I-C formula (Magnet/Avatar/Goal/Interval/Container). Container word library. Rhyme + alliteration pro tips. Industry examples (Wellness/Doctors/Coaching). The 7-step offer fatigue variation order (creative → copy → headline → seasonal → duration → enhancer → monetization). Local business strategy.
+
+**Reference & Archive (3)**
+- `wiki/offers/hormozi-stories-and-examples.md` — Every story and example from the book, archived verbatim. Christmas Eve $1,036. TJ Vegas penthouse. Lloyd newspaper. Dan Kennedy $19→$2K. Wine taste test. Father-son call. Brunson/Collette. London tunnel. Brick Exercise. Eating-out guide. Gym Launch DFY→DWY. Excel meal plan tool. Full Gym Bundle. Arnold fundraiser. Chanel. $50K day. Fladlien $25K guarantee. 2-out-of-4000 refunds. Prestige Labs. Pain clinic stack. Last 4 hours data. Each mapped to concept page.
+- `wiki/offers/all-hormozi-pro-tips.md` — Every "Pro Tip" boxed insight from the book, indexed by category (Sales/Persuasion, Pricing, Bonuses, Scarcity, Urgency, Guarantees, Naming, Operations/Mindset). Each tip linked to source concept page.
+- `wiki/offers/1000-word-chunk-analysis.md` — The systematic 45-chunk coverage audit. Every chunk by book section, every concept mapped to wiki page, every story coverage-audited, every pro tip coverage-audited. The "no shortcuts" verification trail.
+
+**INDEX.md Updates:**
+- Added new "Path: Offers" section under Knowledge Paths (after Path: Short-Form Content)
+- Structured as 5 sub-sections matching the book's structure: Central Concept / Pricing / Value / Enhancement / Reference
+- Cross-link table connecting offers to Starbridge, Caret/Colandrum, Micah cold call, Sam McKenna SMYKM, Harry Dry copy, facts-over-adjectives, Lee Gjenj cold email
+- Updated stats: 358 → 381 pages; concepts 234 → 234 (offers section concepts in dedicated folder, not counted in concepts); operations 52 → 53; transcripts 58+ → 59+
+- Updated reference pages count: 11 → 14 (offers archive pages)
+- New top-level count: 23 offers pages
+
+**Source File Archive:**
+- Original PDF: `raw/pdfs/_OceanofPDF.com_100M_Offers_-_Alex_Hormozi.pdf` (3.1MB)
+- Extracted text: `raw/pdfs/100M_Offers_extracted.txt` (45,087 words, 4,996 lines)
+- PDF drop folder created: `raw/pdfs/` with README explaining workflow
+
+---
+
+## 2026-06-16 — Micah Starbridge Cold Call Speedrun (tdYvRKVr0pk)
+
+- **Operation:** DEEP INGEST — YouTube speedrun, 134 minutes, 56 chunks, ~27,762 words
+- **Source:** "Micah" — professional cold caller on Glen Coco marketplace; cold calling for Starbridge AI campaign ($1,000/qualified meeting); real-time session with warm handoffs on day 2
+- **Method:** All 56 chunks read in full → call-by-call analysis → pattern extraction → 6 wiki pages created (2 product analysis, 1 cold call strategy, 2 call pattern concepts, 1 per-call deep analysis)
+- **Pages created:** 6 | **Pages updated:** 0
+
+**Pages Created:**
+
+**Concepts (5)**
+- `wiki/concepts/starbridge-product-analysis.md` — Full Starbridge product breakdown: the 80% RFP stat, data sources (FOIA, board meeting minutes, strategic plans, staff directory scraping, purchase order data, grant approvals), full feature set (RFP sourcing, AI proposal writer, meetings intelligence, contact data, web signals, account scoring, "Bridge" AI-enriched lead list), GovSpend vs. Starbridge positioning, ICP, pricing ~$15K/yr, demo approach, key phrases
+- `wiki/concepts/starbridge-colandrum-parallel.md` — Structural parallel analysis: Starbridge and Colandrum are the same product architecture in different markets (SLED vs. agency). "Before the obvious moment" principle. Side-by-side comparison table. What Colandrum can steal: the 80% stat structure, forward vs. backward framing, "needle from the haystack," demo customization, back-pocket objection handling, annual agreement + flexible payment
+- `wiki/concepts/cold-call-failure-taxonomy.md` — 8 failure types with exact handling: wrong number, voicemail, gatekeeper block, clean ICP disqualification, adjacent ICP (fuzzy), existing tool objection, wrong internal contact, DNC request. Distinction between bad data (list quality issue) vs. wrong ICP (targeting issue)
+- `wiki/concepts/cold-call-success-patterns.md` — 7 patterns behind the 6 bookings: pre-qualification creates conversion conditions, referrals convert fastest, "back-pocket" CTA converts existing-tool objections, solo decision makers close faster, the stat creates urgency before the ask, on-call booking eliminates falloff, low-commitment framing drives more meetings. Stats: 37.5% right-ICP conversion, 18% all-convos conversion
+- `wiki/concepts/starbridge-call-by-call-analysis.md` — Deep per-call breakdown of every meaningful conversation in the 134-min speedrun: 20+ calls analyzed in chronological order with verbatim transcript details, what worked, what failed, and extracted lesson per call. Pre-session audition call, 2 training recordings analyzed, all 6 bookings dissected, both day 2 warm handoffs (Nicole/Ellie potential dispute + Kyle 911 Restoration QUALIFIED $1,500), session debrief, master pattern extraction table
+
+**Strategies (1)**
+- `wiki/strategies/micah-cold-call-system.md` — Full cold call system: Glen Coco context, 1.5hr prep methodology (brief reading, competitor study, stat internalization, qualification criteria, script internalization, audition call), word-for-word script (permission opener → pre-qualifier → thumbnail → stat+pitch → humble positioning → CTA), booking mechanics (on-call Calendly, accept confirmation, stakeholder check), warm handoff structure, final session stats (770 dials, 37.5% right-ICP conversion, $1,500 confirmed payout)
+
+**Index Updated:** 352 → 358 pages; concepts 229 → 234; strategies 60 → 61; operations 51 → 52
+
+---
+
 ## 2026-06-08 — Harry Dry Copywriting Interview (TUMjnmfsPeM)
 
 - **Operation:** DEEP INGEST — YouTube interview, ~71 minutes, 31 chunks, ~15,196 words
